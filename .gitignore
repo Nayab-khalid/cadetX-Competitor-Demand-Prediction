@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets - never commit these
+.env
+*.key
+credentials.json
+secrets.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Scratch - raw scrape dumps and caches stay local; the cleaned dataset IS committed
+scratch/
+cache/
+*.html
+*.log
+*.tmp
+
+# Large model binaries - document how to reproduce instead
+*.bin
+*.pt
+*.ckpt
+*.safetensors

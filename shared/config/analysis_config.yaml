@@ -1,0 +1,55 @@
+# Shared analysis configuration - the machine-readable copy of docs/analysis-conventions.md.
+# PROPOSED defaults: ratify in the Week 1 meeting, then do not change without a PR + minute entry.
+
+version: 0.1.0
+status: proposed          # proposed | ratified
+ratified_on: null
+
+window:
+  start: "2025-09-01"     # set to the widest range ALL four datasets actually cover
+  end: "2026-08-31"
+  timezone: "UTC"
+
+buckets:
+  weekly: "ISO"           # e.g. 2026-W34, weeks start Monday
+  monthly: "calendar"     # e.g. 2026-08
+  empty_periods: "zero"   # zero, never NaN
+
+velocity:
+  definition: "count of new postings per bucket"
+  rolling_window_weeks: 4
+
+comparison:
+  normalisation: "share_of_company_postings"   # never raw counts across companies
+
+forecast:
+  horizon_weeks: 12
+  holdout_weeks: 8
+  metrics: ["MAE", "MAPE"]
+  baselines: ["naive_last_value", "seasonal_naive"]
+  interval: 0.80
+
+similarity:
+  features: "canonical_skill_share"
+  weighting: "tfidf"
+  metric: "cosine"
+
+companies:
+  nvidia:
+    display_name: "NVIDIA"
+    owner: "Nayab Khalid"
+    colour: "#76B900"
+  google:
+    display_name: "Google"
+    owner: "Noorul Huda Batool"
+    colour: "#4285F4"
+  anthropic:
+    display_name: "Anthropic"
+    owner: "Arham Malik"
+    colour: "#D97757"
+  microsoft:
+    display_name: "Microsoft"
+    owner: "Muhammad Hasnain"
+    colour: "#F25022"
+
+random_seed: 42

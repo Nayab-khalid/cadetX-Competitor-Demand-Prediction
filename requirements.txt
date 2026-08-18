@@ -1,0 +1,16 @@
+# Shared baseline. Add what you need for your own company, but keep these versions
+# compatible so the four notebooks can be run by anyone on the team.
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+spacy
+nltk
+pyyaml
+jupyter
+# Optional, depending on the method you pick in Task 7 / Task 8:
+# prophet
+# sentence-transformers
+# networkx
