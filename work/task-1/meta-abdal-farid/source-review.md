@@ -1,4 +1,4 @@
-# Source Review: Anthropic
+# Source Review: Meta
 
 Member: Abdal Farid
 Task 1: Understanding Data Sources and Legal
@@ -74,4 +74,4 @@ Verdict: approved / rejected, because
 
 ## Recommendation
 
-The source I will use in Task 2 for Anthropic, and the reason for choosing it:
+The source I will use in Task 2 for Meta, and the reason for choosing it:

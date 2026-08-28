@@ -9,7 +9,7 @@ Agreed by the team on: YYYY-MM-DD
 | Nayab Khalid | NVIDIA | | | |
 | Noorul Huda Batool | Google | | | |
 | Arham Malik | Microsoft | | | |
-| Abdal Farid | Anthropic | | | |
+| Abdal Farid | Meta | | | |
 
 ## Shared standards
 

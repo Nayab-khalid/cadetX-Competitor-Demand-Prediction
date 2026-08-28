@@ -29,5 +29,5 @@ work/task-N/
   nvidia-nayab-khalid/
   google-noorul-huda-batool/
   microsoft-arham-malik/
-  anthropic-abdal-farid/
+  meta-abdal-farid/
 ```

@@ -46,7 +46,7 @@ between publicly available and copyrighted data.
 | Nayab Khalid | NVIDIA | [ ] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Anthropic | [ ] | |
+| Abdal Farid | Meta | [ ] | |
 
 Due date: to be agreed in the sprint 1 meeting.
 Portal submission: the URL of this repository.

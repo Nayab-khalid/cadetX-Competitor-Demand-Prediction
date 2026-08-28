@@ -11,7 +11,7 @@ Chair (Scrum Leader):
 | Nayab Khalid | NVIDIA | |
 | Noorul Huda Batool | Google | |
 | Arham Malik | Microsoft | |
-| Abdal Farid | Anthropic | |
+| Abdal Farid | Meta | |
 
 ## Roles this sprint
 

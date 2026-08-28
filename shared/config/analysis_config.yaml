@@ -43,10 +43,10 @@ companies:
     display_name: "Google"
     owner: "Noorul Huda Batool"
     colour: "#4285F4"
-  anthropic:
-    display_name: "Anthropic"
+  meta:
+    display_name: "Meta"
     owner: "Abdal Farid"
-    colour: "#D97757"
+    colour: "#0668E1"
   microsoft:
     display_name: "Microsoft"
     owner: "Arham Malik"
