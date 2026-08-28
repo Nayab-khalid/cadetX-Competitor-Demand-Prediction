@@ -45,11 +45,11 @@ companies:
     colour: "#4285F4"
   anthropic:
     display_name: "Anthropic"
-    owner: "Arham Malik"
+    owner: "Abdal Farid"
     colour: "#D97757"
   microsoft:
     display_name: "Microsoft"
-    owner: "Muhammad Hasnain"
+    owner: "Arham Malik"
     colour: "#F25022"
 
 random_seed: 42

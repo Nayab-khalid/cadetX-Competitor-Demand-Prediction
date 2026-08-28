@@ -18,8 +18,8 @@ analysis standards so the results can be compared directly.
 |---|---|---|
 | Nayab Khalid | NVIDIA | `nvidia-nayab-khalid` |
 | Noorul Huda Batool | Google | `google-noorul-huda-batool` |
-| Arham Malik | Anthropic | `anthropic-arham-malik` |
-| Muhammad Hasnain | Microsoft | `microsoft-muhammad-hasnain` |
+| Arham Malik | Microsoft | `microsoft-arham-malik` |
+| Abdal Farid | Anthropic | `anthropic-abdal-farid` |
 
 ## Tasks
 

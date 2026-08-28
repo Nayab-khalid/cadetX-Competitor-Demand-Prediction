@@ -43,4 +43,4 @@ recorded in the member's Data Collection Report in Task 2.
 If the terms of a source change during the project, use of that source stops immediately and the
 decision is recorded in the meeting minutes.
 
-Agreed by: Nayab Khalid, Noorul Huda Batool, Arham Malik, Muhammad Hasnain
+Agreed by: Nayab Khalid, Noorul Huda Batool, Arham Malik, Abdal Farid

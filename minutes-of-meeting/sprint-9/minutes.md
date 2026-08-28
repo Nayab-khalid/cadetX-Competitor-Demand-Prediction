@@ -10,8 +10,8 @@ Chair (Scrum Leader):
 |---|---|---|
 | Nayab Khalid | NVIDIA | |
 | Noorul Huda Batool | Google | |
-| Arham Malik | Anthropic | |
-| Muhammad Hasnain | Microsoft | |
+| Arham Malik | Microsoft | |
+| Abdal Farid | Anthropic | |
 
 ## Roles this sprint
 
@@ -29,7 +29,7 @@ Chair (Scrum Leader):
 | Nayab Khalid | | |
 | Noorul Huda Batool | | |
 | Arham Malik | | |
-| Muhammad Hasnain | | |
+| Abdal Farid | | |
 
 ## Decisions
 

@@ -13,18 +13,18 @@ Four roles rotate every week so that each member performs each role during the p
 
 | Sprint | Dates | Scrum Leader | Data Quality Lead | Documentation Lead | Technical Lead |
 |---|---|---|---|---|---|
-| 1 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Muhammad Hasnain |
-| 2 | | Noorul Huda Batool | Arham Malik | Muhammad Hasnain | Nayab Khalid |
-| 3 | | Arham Malik | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool |
-| 4 | | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool | Arham Malik |
-| 5 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Muhammad Hasnain |
-| 6 | | Noorul Huda Batool | Arham Malik | Muhammad Hasnain | Nayab Khalid |
-| 7 | | Arham Malik | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool |
-| 8 | | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool | Arham Malik |
-| 9 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Muhammad Hasnain |
-| 10 | | Noorul Huda Batool | Arham Malik | Muhammad Hasnain | Nayab Khalid |
-| 11 | | Arham Malik | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool |
-| 12 | | Muhammad Hasnain | Nayab Khalid | Noorul Huda Batool | Arham Malik |
+| 1 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Abdal Farid |
+| 2 | | Noorul Huda Batool | Arham Malik | Abdal Farid | Nayab Khalid |
+| 3 | | Arham Malik | Abdal Farid | Nayab Khalid | Noorul Huda Batool |
+| 4 | | Abdal Farid | Nayab Khalid | Noorul Huda Batool | Arham Malik |
+| 5 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Abdal Farid |
+| 6 | | Noorul Huda Batool | Arham Malik | Abdal Farid | Nayab Khalid |
+| 7 | | Arham Malik | Abdal Farid | Nayab Khalid | Noorul Huda Batool |
+| 8 | | Abdal Farid | Nayab Khalid | Noorul Huda Batool | Arham Malik |
+| 9 | | Nayab Khalid | Noorul Huda Batool | Arham Malik | Abdal Farid |
+| 10 | | Noorul Huda Batool | Arham Malik | Abdal Farid | Nayab Khalid |
+| 11 | | Arham Malik | Abdal Farid | Nayab Khalid | Noorul Huda Batool |
+| 12 | | Abdal Farid | Nayab Khalid | Noorul Huda Batool | Arham Malik |
 
 ## Meeting details
 

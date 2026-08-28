@@ -1,6 +1,6 @@
 # Source Review: Anthropic
 
-Member: Arham Malik
+Member: Abdal Farid
 Task 1: Understanding Data Sources and Legal
 Date: YYYY-MM-DD
 

@@ -28,6 +28,6 @@ work/task-N/
   team/                         team-level submissions for that task
   nvidia-nayab-khalid/
   google-noorul-huda-batool/
-  anthropic-arham-malik/
-  microsoft-muhammad-hasnain/
+  microsoft-arham-malik/
+  anthropic-abdal-farid/
 ```
