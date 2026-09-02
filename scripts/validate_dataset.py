@@ -33,7 +33,11 @@ REQUIRED = [
 EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
 PHONE_RE = re.compile(r"(?<!\d)(?:\+\d{1,3}[\s-]?)?(?:\(\d{2,4}\)[\s-]?)?\d{3,4}[\s-]?\d{3,4}(?!\d)")
 # Ordinary text is full of number groups; only flag phone-shaped strings near a phone-ish word.
-PHONE_CONTEXT_RE = re.compile(r"(phone|tel|telephone|mobile|whatsapp|call us)", re.I)
+# Word boundaries matter: a bare "tel" also matches "Tel Aviv", "Intel" and "hotel".
+PHONE_CONTEXT_RE = re.compile(r"\b(phone|tel|telephone|mobile|whatsapp|call us)\b", re.I)
+# URLs carry structured identifiers (requisition numbers, ids) that look like phone numbers but
+# never are, so they are excluded from the phone scan.
+PHONE_SKIP_COLUMNS = {"job_url", "job_id", "application_url"}
 
 MIN_DESCRIPTION_CHARS = 20
 SHORT_DESCRIPTION_CHARS = 200
@@ -135,7 +139,7 @@ def main() -> int:
                 hit = EMAIL_RE.search(value)
                 if hit and len(emails_found) < args.max_report:
                     emails_found.append(f"row {rows}, column {col}: {hit.group()[:40]}")
-                if PHONE_CONTEXT_RE.search(value):
+                if col not in PHONE_SKIP_COLUMNS and PHONE_CONTEXT_RE.search(value):
                     phit = PHONE_RE.search(value)
                     if phit and len(phones_found) < args.max_report:
                         phones_found.append(f"row {rows}, column {col}: {phit.group()[:30]}")
