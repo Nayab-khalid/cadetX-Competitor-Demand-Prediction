@@ -1,0 +1,1794 @@
+job_id,skill,skill_category,matched_term,posting_date,seniority_level,role_function,job_status
+nvidia_0266da880c6597ae,Inference and Serving,research_domains,inference,2026-05-13,Senior,Engineer,closed
+nvidia_03a088a13e0dc280,Kernel and Drivers,hardware_systems,linux kernel,2026-05-13,Senior,Engineer,active
+nvidia_03a088a13e0dc280,Cloud Infrastructure,cloud_infra,csp,2026-05-13,Senior,Engineer,active
+nvidia_0407f12942d85cef,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_047eea77b44633cc,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_047eea77b44633cc,LLMs,research_domains,generative ai,2026-05-13,Senior,Architect,closed
+nvidia_055264979d4801bd,Networking,hardware_systems,spectrum-x,2026-05-13,Senior,Engineer,closed
+nvidia_055264979d4801bd,Python,languages,python,2026-05-13,Senior,Engineer,closed
+nvidia_055dd10202d9f804,Site Reliability,mlops_devops,resiliency,2026-05-13,Senior,Engineer,closed
+nvidia_05623cb11f51b3f6,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_062ce56754e8fad1,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_062ce56754e8fad1,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Architect,closed
+nvidia_062ce56754e8fad1,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Architect,closed
+nvidia_06a803aa721332a4,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_0a310740934d86f1,Business Development,product_process,business development,2026-05-13,Unspecified,Manager,closed
+nvidia_0a93d409bb0446d3,Networking,hardware_systems,networking,2026-05-13,Unspecified,Researcher,closed
+nvidia_0ae26bee05f87f5f,Datacenter Systems,hardware_systems,rack scale,2026-05-13,Distinguished,Engineer,active
+nvidia_0bd035f5d023b8d6,LLMs,research_domains,foundation models,2026-05-13,Senior,Researcher,closed
+nvidia_0bf4d66cfaa2a2f3,Analog and Mixed Signal,silicon_design,circuit design,2026-05-13,Senior,Engineer,closed
+nvidia_0bf4d66cfaa2a2f3,Signal and Power Integrity,silicon_design,power delivery,2026-05-13,Senior,Engineer,closed
+nvidia_0ca0b8b336ed3fea,Datacenter Systems,hardware_systems,datacenter,2026-05-13,Senior,Manager,closed
+nvidia_0ca0b8b336ed3fea,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Manager,closed
+nvidia_0ce5bf0c39c77b29,Storage Systems,hardware_systems,storage,2026-05-13,Senior,Engineer,closed
+nvidia_0d289186e5d2a5b4,SoC Design,silicon_design,chip design,2026-05-13,Senior,Engineer,closed
+nvidia_0d289186e5d2a5b4,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_0d50cb59b2e8ca81,Healthcare AI,research_domains,digital biology,2026-05-13,Senior,Researcher,closed
+nvidia_0e6924255acbf980,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_0ef6038f5d695649,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_0ef6038f5d695649,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_11226d9b584c9a95,Graphics and Rendering,research_domains,neural graphics,2026-05-13,Unspecified,Engineer,active
+nvidia_122f09d5ae8d97db,Developer Relations,product_process,developer experience,2026-05-13,Unspecified,Manager,closed
+nvidia_122f09d5ae8d97db,Agentic AI,research_domains,agents,2026-05-13,Unspecified,Manager,closed
+nvidia_132e8f42a3cd1b15,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_13547b774f553709,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_13547b774f553709,Networking,hardware_systems,networking,2026-05-13,Unspecified,Architect,closed
+nvidia_1420fd1e27beee91,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-13,Senior,Engineer,closed
+nvidia_15e9ec028050c38c,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_16390da9ffd0ca05,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_17913e6400ca66c0,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_186a86ad3b55db9a,JAX,ml_frameworks,jax,2026-05-13,Senior,Engineer,closed
+nvidia_1b2d223a39c2bbd1,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_1bad0f8453342054,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_1c2370ad5754c727,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Architect,closed
+nvidia_1c2370ad5754c727,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Architect,closed
+nvidia_1cc5217fa944e91f,Analog and Mixed Signal,silicon_design,circuit design,2026-05-13,Senior,Engineer,active
+nvidia_1d5a9be03bc38276,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_20f64bcb350a95da,Solutions Architecture,product_process,solutions architect,2026-05-13,Junior,Architect,closed
+nvidia_20f9a051f6845c91,Physical Design,silicon_design,physical design,2026-05-13,Junior,Engineer,active
+nvidia_20f9a051f6845c91,Computer Architecture,hardware_systems,asic,2026-05-13,Junior,Engineer,active
+nvidia_22a651df5cb9992a,Agentic AI,research_domains,agentic ai,2026-05-13,Senior,Engineer,closed
+nvidia_253d8568196b6100,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_257307f6ef7ed459,Performance Engineering,hardware_systems,performance,2026-05-13,Unspecified,Manager,closed
+nvidia_257307f6ef7ed459,Networking,hardware_systems,networking,2026-05-13,Unspecified,Manager,closed
+nvidia_25b961551ea60c03,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Unspecified,Technician,closed
+nvidia_25b961551ea60c03,Datacenter Systems,hardware_systems,data center,2026-05-13,Unspecified,Technician,closed
+nvidia_26539539c9241115,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_26539539c9241115,PyTorch,ml_frameworks,pytorch,2026-05-13,Senior,Engineer,closed
+nvidia_26858d6c98e75ac1,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Engineer,closed
+nvidia_26858d6c98e75ac1,Networking,hardware_systems,ethernet,2026-05-13,Senior,Engineer,closed
+nvidia_279ddac0646ff7c6,SoC Design,silicon_design,soc,2026-05-13,Unspecified,Engineer,closed
+nvidia_27cc4226d0a066d5,Silicon Verification,silicon_design,verification,2026-05-13,Unspecified,Engineer,closed
+nvidia_27e6cd8d140d03e7,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_2af8a49c6dedc448,Networking,hardware_systems,ethernet,2026-05-13,Unspecified,Engineer,closed
+nvidia_2c4739fc0f9adf2e,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Engineer,closed
+nvidia_2d7b684558616edd,Networking,hardware_systems,networking,2026-05-13,Unspecified,Engineer,closed
+nvidia_2d8c67287d202600,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Architect,active
+nvidia_2d8c67287d202600,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Architect,active
+nvidia_2ff1fb89bd09aaa4,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Engineer,closed
+nvidia_2ff1fb89bd09aaa4,Firmware,hardware_systems,bios,2026-05-13,Senior,Engineer,closed
+nvidia_31607c657e2236c1,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_31607c657e2236c1,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Architect,closed
+nvidia_3169019ded9056a1,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_3169019ded9056a1,Machine Learning,research_domains,ml,2026-05-13,Senior,Engineer,closed
+nvidia_31985580dee0b498,SoC Design,silicon_design,asic design,2026-05-13,Senior,Engineer,closed
+nvidia_321d228bb3862155,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_321d228bb3862155,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,closed
+nvidia_328979246ffd2625,Machine Learning,research_domains,ml,2026-05-13,Principal,Engineer,closed
+nvidia_3423db64de702c79,Healthcare AI,research_domains,biopharma,2026-05-13,Unspecified,Lead,closed
+nvidia_352e072fa13eac5e,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_3575621329afeb62,Silicon Verification,silicon_design,design verification,2026-05-13,Unspecified,Engineer,closed
+nvidia_35b15aa272795605,Robotics,research_domains,robotics,2026-05-13,Senior,Researcher,closed
+nvidia_363134726e82bf6f,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_363134726e82bf6f,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_3712f47b3183c73e,Site Reliability,mlops_devops,site reliability,2026-05-13,Distinguished,Engineer,closed
+nvidia_3712f47b3183c73e,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Distinguished,Engineer,closed
+nvidia_37ba13cdf093cd5f,LLMs,research_domains,genai,2026-05-13,Senior,Lead,closed
+nvidia_37e4c3916f311d4e,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Principal,Engineer,closed
+nvidia_37e4c3916f311d4e,Datacenter Systems,hardware_systems,dgx,2026-05-13,Principal,Engineer,closed
+nvidia_3951e8ac363a93c5,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_3951e8ac363a93c5,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_39a4e6fbff1445ac,Signal and Power Integrity,silicon_design,signal and power integrity,2026-05-13,Senior,Engineer,closed
+nvidia_3a0ec7156f021767,Networking,hardware_systems,network,2026-05-13,Senior,Engineer,active
+nvidia_3a0ec7156f021767,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,active
+nvidia_3a0ec7156f021767,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,active
+nvidia_3a63eb3532cc37c5,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_3a63eb3532cc37c5,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,closed
+nvidia_3a6414e9f888aa3b,Machine Learning,research_domains,machine learning,2026-05-13,Junior,Engineer,closed
+nvidia_3a6414e9f888aa3b,Compilers,hardware_systems,compiler,2026-05-13,Junior,Engineer,closed
+nvidia_3ab8479d2a741dea,Distributed Training,hardware_systems,nccl,2026-05-13,Senior,Engineer,closed
+nvidia_3ac9c38574a98acc,Site Reliability,mlops_devops,devops,2026-05-13,Senior,Engineer,closed
+nvidia_3b9abe3eb1715363,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_3cbd2103a0cc3a09,Networking,hardware_systems,networking,2026-05-13,Senior,Architect,closed
+nvidia_3cdbf5696b99055c,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_3cf082ebe6f5bdd1,Networking,hardware_systems,networking,2026-05-13,Senior,Developer,closed
+nvidia_3d15039f5c1f3c27,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_3e1534e9ba0c3a9c,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Architect,active
+nvidia_3e1534e9ba0c3a9c,HPC,hardware_systems,hpc,2026-05-13,Senior,Architect,active
+nvidia_3eb796dc93ee1e64,Silicon Verification,silicon_design,formal verification,2026-05-13,Intern,Intern,closed
+nvidia_3f2e04eeb65f18d7,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-13,Senior,Manager,closed
+nvidia_3f2e04eeb65f18d7,Technical Program Management,product_process,program management,2026-05-13,Senior,Manager,closed
+nvidia_3f447199ff94f3f5,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Senior,Manager,closed
+nvidia_40cc26b598eec822,Design for Test,silicon_design,dft,2026-05-13,Senior,Engineer,closed
+nvidia_411d9f4258f209ae,Datacenter Systems,hardware_systems,data center,2026-05-13,Unspecified,Engineer,closed
+nvidia_411d9f4258f209ae,HPC,hardware_systems,hpc,2026-05-13,Unspecified,Engineer,closed
+nvidia_418257f6c63fa809,Solutions Architecture,product_process,solution architect,2026-05-13,Unspecified,Architect,closed
+nvidia_41c5182aad539c79,Physical Design,silicon_design,physical design,2026-05-13,Unspecified,Engineer,closed
+nvidia_42ef0ea1c4481fe3,Kubernetes,cloud_infra,k8s,2026-05-13,Senior,Engineer,closed
+nvidia_42fd3c5dd475589f,Site Reliability,mlops_devops,devops,2026-05-13,Senior,Engineer,active
+nvidia_4321870cd9e5612c,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_44f423cd244fddc3,Cybersecurity,mlops_devops,security,2026-05-13,Senior,Researcher,active
+nvidia_45d010c77ad2c422,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-13,Senior,Engineer,closed
+nvidia_467cbb8cf0d51a0c,Networking,hardware_systems,network,2026-05-13,Senior,Engineer,closed
+nvidia_4708385691ac1534,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_4708385691ac1534,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_4708385691ac1534,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_47823d0da99150ea,Storage Systems,hardware_systems,storage,2026-05-13,Senior,Manager,closed
+nvidia_4861f9d6fd59dfd9,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_487cbb3416542d2f,CUDA,hardware_systems,cuda,2026-05-13,Intern,Intern,closed
+nvidia_48c01e3499c64182,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,active
+nvidia_48e1274f78b15365,Agentic AI,research_domains,agents,2026-05-13,Senior,Engineer,closed
+nvidia_495914bc2e808ff4,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_49c377710530ce13,Graphics and Rendering,research_domains,neural graphics,2026-05-13,Senior,Engineer,closed
+nvidia_49e7fc7329262741,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_49e7fc7329262741,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Architect,closed
+nvidia_4aee8c1e08100c33,Embedded Systems,hardware_systems,firmware,2026-05-13,Unspecified,Manager,closed
+nvidia_4aee8c1e08100c33,Cybersecurity,mlops_devops,security,2026-05-13,Unspecified,Manager,closed
+nvidia_4c21272745fb08ac,Technical Program Management,product_process,technical program management,2026-05-13,Senior,Manager,closed
+nvidia_4c21272745fb08ac,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Manager,closed
+nvidia_4c21272745fb08ac,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Manager,closed
+nvidia_4db23991e2df4b9c,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Unspecified,Engineer,closed
+nvidia_4e2f3f149352dff2,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_4ee6dea66766eafc,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_4f8bd6dc016aba9f,Storage Systems,hardware_systems,storage,2026-05-13,Senior,Engineer,active
+nvidia_4f8bd6dc016aba9f,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,active
+nvidia_4f8bd6dc016aba9f,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,active
+nvidia_4f9a08e2b4c3ff13,Kubernetes,cloud_infra,kubernetes,2026-05-13,Senior,Engineer,closed
+nvidia_4f9a08e2b4c3ff13,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,closed
+nvidia_50d942d250d523b5,Digital Twin and Simulation,research_domains,omniverse,2026-05-13,Senior,Manager,closed
+nvidia_50ecbdb67853f0f5,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_515d6a881460d0e7,Agentic AI,research_domains,agents,2026-05-13,Senior,Engineer,closed
+nvidia_518b08cd967529ec,Digital Twin and Simulation,research_domains,simulation,2026-05-13,Senior,Architect,closed
+nvidia_518b08cd967529ec,CPU Architecture,silicon_design,cpu,2026-05-13,Senior,Architect,closed
+nvidia_519d0e9a10a3b425,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_52271af7684f968f,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_53020fd63f426421,CUDA,hardware_systems,cuda,2026-05-13,Unspecified,Engineer,closed
+nvidia_54aeb7db0c1527e4,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_55169dedcc8d7c04,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_55169dedcc8d7c04,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_563cd5f0d245f7c3,Performance Engineering,hardware_systems,optimization,2026-05-13,Unspecified,Engineer,active
+nvidia_563cd5f0d245f7c3,Design Automation,silicon_design,eda,2026-05-13,Unspecified,Engineer,active
+nvidia_56565434e6615c29,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_56565434e6615c29,Networking,hardware_systems,networking,2026-05-13,Senior,Architect,closed
+nvidia_569f0cc111244343,Networking,hardware_systems,networking,2026-05-13,Principal,Architect,closed
+nvidia_582e282af57858c5,Site Reliability,mlops_devops,site reliability,2026-05-13,Director,Director,closed
+nvidia_582e282af57858c5,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Director,Director,closed
+nvidia_582e282af57858c5,Datacenter Systems,hardware_systems,dgx,2026-05-13,Director,Director,closed
+nvidia_58fe443446615e56,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_58fe443446615e56,CUDA,hardware_systems,cuda,2026-05-13,Senior,Engineer,closed
+nvidia_5a80276d970367bc,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,active
+nvidia_5ab55f891468372a,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_5ab55f891468372a,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_5b126ae209e04bbc,SoC Design,silicon_design,chip design,2026-05-13,Senior,Manager,closed
+nvidia_5c39b4b0690a8feb,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,active
+nvidia_5c5c0b68a9f97bfe,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,active
+nvidia_5c5c0b68a9f97bfe,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,active
+nvidia_5e0d08592d8398d5,Silicon Verification,silicon_design,formal verification,2026-05-13,Junior,Engineer,closed
+nvidia_5f1ff04c9fc105d3,SoC Design,silicon_design,chip design,2026-05-13,Unspecified,Engineer,closed
+nvidia_5f1ff04c9fc105d3,CPU Architecture,silicon_design,cpu,2026-05-13,Unspecified,Engineer,closed
+nvidia_5f4d34a1d8b764be,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_5f5df1a02f56a5ae,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_5f5df1a02f56a5ae,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_5f5df1a02f56a5ae,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_5ff05667818334de,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_61681d33e6e79035,Model Monitoring,mlops_devops,observability,2026-05-13,Senior,Engineer,closed
+nvidia_61681d33e6e79035,Datacenter Systems,hardware_systems,datacenter,2026-05-13,Senior,Engineer,closed
+nvidia_61681d33e6e79035,Design Automation,silicon_design,eda,2026-05-13,Senior,Engineer,closed
+nvidia_61b5d3f41729a015,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Engineer,closed
+nvidia_63050880ea902e8f,Design Automation,silicon_design,design automation,2026-05-13,Unspecified,Engineer,closed
+nvidia_63050880ea902e8f,SoC Design,silicon_design,soc,2026-05-13,Unspecified,Engineer,closed
+nvidia_6526b9e6a8b7de08,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_66ad2ef39bd51244,Cloud Infrastructure,cloud_infra,csp,2026-05-13,Unspecified,Manager,closed
+nvidia_67aa6c237ba6e473,Healthcare AI,research_domains,healthcare ai,2026-05-13,Unspecified,Lead,closed
+nvidia_688f68a04bdb534f,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,closed
+nvidia_693d88155f1a7cec,Analog and Mixed Signal,silicon_design,serdes,2026-05-13,Senior,Engineer,closed
+nvidia_69c5154d9119c903,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_69c5154d9119c903,Embedded Systems,hardware_systems,rtos,2026-05-13,Senior,Engineer,closed
+nvidia_69d98e8fd33011d7,Silicon Verification,silicon_design,formal verification,2026-05-13,Senior,Engineer,closed
+nvidia_69d98e8fd33011d7,SoC Design,silicon_design,chip design,2026-05-13,Senior,Engineer,closed
+nvidia_6cbc73c8bd9ceede,Python,languages,python,2026-05-13,Senior,Engineer,closed
+nvidia_6cbc73c8bd9ceede,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_6df49ea2ee3567ce,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_6e338f3fbcb4e19a,Solutions Architecture,product_process,solutions architecture,2026-05-13,Unspecified,Manager,closed
+nvidia_6e338f3fbcb4e19a,Networking,hardware_systems,networking,2026-05-13,Unspecified,Manager,closed
+nvidia_6ee5a9d39c13e803,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_715ae0bc9891197c,Networking,hardware_systems,networking,2026-05-13,Senior,Developer,closed
+nvidia_71c7e228b4047890,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_71c7e228b4047890,Test Automation,mlops_devops,qa,2026-05-13,Senior,Engineer,closed
+nvidia_7551f5cc3c0360d7,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_75abf45dc414612f,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_75abf45dc414612f,CPU Architecture,silicon_design,cpu,2026-05-13,Unspecified,Architect,closed
+nvidia_75daeecba65845af,Datacenter Systems,hardware_systems,data center,2026-05-13,Principal,Engineer,active
+nvidia_75daeecba65845af,Embedded Systems,hardware_systems,firmware,2026-05-13,Principal,Engineer,active
+nvidia_7752161d7dc8c589,Silicon Verification,silicon_design,formal verification,2026-05-13,Senior,Engineer,closed
+nvidia_7889d9ca4c08c79a,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_797240f48302cd14,Networking,hardware_systems,nvlink,2026-05-13,Distinguished,Engineer,closed
+nvidia_7c05a9619f2b03e1,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,active
+nvidia_7c05a9619f2b03e1,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,active
+nvidia_7c843d2881f6c8f5,Cloud Infrastructure,cloud_infra,cloud service provider,2026-05-13,Senior,Manager,closed
+nvidia_7cac1887456847e6,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,closed
+nvidia_7cac1887456847e6,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,closed
+nvidia_7df076b93ba904a2,Physical Design,silicon_design,physical design,2026-05-13,Unspecified,Engineer,closed
+nvidia_7e08a446f5fc40d4,Deep Learning,research_domains,dl,2026-05-13,Senior,Engineer,closed
+nvidia_7e9a7c2da27e436e,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_7e9a7c2da27e436e,Digital Twin and Simulation,research_domains,physical ai,2026-05-13,Senior,Manager,closed
+nvidia_7fcbc8eb4a1a41ac,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_7fdae62bc2366d01,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Engineer,closed
+nvidia_7fdae62bc2366d01,Networking,hardware_systems,nvlink,2026-05-13,Senior,Engineer,closed
+nvidia_8153fb1b0e589a65,Site Reliability,mlops_devops,devops,2026-05-13,Senior,Engineer,closed
+nvidia_817a63a89534db17,Signal and Power Integrity,silicon_design,power integrity,2026-05-13,Senior,Engineer,active
+nvidia_82a2ba85c496d941,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_835928fcf94f810b,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,closed
+nvidia_835928fcf94f810b,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,closed
+nvidia_85babd879c13cce9,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Senior,Manager,closed
+nvidia_87938c8bce0c7302,Analog and Mixed Signal,silicon_design,circuit design,2026-05-13,Senior,Engineer,active
+nvidia_888bd0295e8f30bc,Solutions Architecture,product_process,solution architect,2026-05-13,Unspecified,Architect,closed
+nvidia_8916d352d77cac32,Datacenter Systems,hardware_systems,dgx,2026-05-13,Distinguished,Manager,closed
+nvidia_892bfdb81dd311d6,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_8a126ecbf337b74c,Networking,hardware_systems,networking,2026-05-13,Senior,Architect,closed
+nvidia_8bb548ae478e1541,Cybersecurity,mlops_devops,security,2026-05-13,Unspecified,Architect,closed
+nvidia_8bd7c25419a815bb,CUDA,hardware_systems,cuda,2026-05-13,Senior,Engineer,closed
+nvidia_8bd7c25419a815bb,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_8c2390f0737fa112,SoC Design,silicon_design,soc,2026-05-13,Unspecified,Architect,closed
+nvidia_8d59f6598b495884,Computer Vision,research_domains,computer vision,2026-05-13,Unspecified,Scientist,closed
+nvidia_8fe74eb6cb7dad9e,Silicon Verification,silicon_design,design verification,2026-05-13,Senior,Engineer,closed
+nvidia_8fef8b35a93ee3d2,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Scientist,closed
+nvidia_8fef8b35a93ee3d2,Speech and Audio,research_domains,speech,2026-05-13,Senior,Scientist,closed
+nvidia_8ff18834bd2c479b,Kubernetes,cloud_infra,kubernetes,2026-05-13,Senior,Engineer,closed
+nvidia_8ff18834bd2c479b,Go,languages,golang,2026-05-13,Senior,Engineer,closed
+nvidia_92c265588353516a,Deep Learning,research_domains,dl,2026-05-13,Senior,Engineer,closed
+nvidia_93cf489af5faa9ee,Rust,languages,rust,2026-05-13,Senior,Engineer,closed
+nvidia_93cf489af5faa9ee,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_93cf489af5faa9ee,Go,languages,go,2026-05-13,Senior,Engineer,closed
+nvidia_941161868d3f26f9,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_941161868d3f26f9,Site Reliability,mlops_devops,devops,2026-05-13,Senior,Engineer,closed
+nvidia_941161868d3f26f9,DPU and Offload,hardware_systems,doca,2026-05-13,Senior,Engineer,closed
+nvidia_97303e0df086f16e,Silicon Verification,silicon_design,formal verification,2026-05-13,Unspecified,Engineer,closed
+nvidia_98962bfda7e9ed95,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Manager,active
+nvidia_9944834f938f56ba,Cloud Infrastructure,cloud_infra,cloud-native,2026-05-13,Senior,Engineer,active
+nvidia_9b1d4e0969f39931,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_9b1d4e0969f39931,SoC Design,silicon_design,soc,2026-05-13,Senior,Engineer,closed
+nvidia_9b1d4e0969f39931,CPU Architecture,silicon_design,cpu,2026-05-13,Senior,Engineer,closed
+nvidia_9ca5e05427f6ab12,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_9ca5e05427f6ab12,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Unspecified,Architect,closed
+nvidia_9da241d21bd41f2f,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_9e35ec417958d0ad,Go,languages,golang,2026-05-13,Senior,Engineer,closed
+nvidia_a0a193266c1a55b9,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_a0a193266c1a55b9,Inference and Serving,research_domains,inference,2026-05-13,Senior,Engineer,closed
+nvidia_a1496a751b00d338,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,active
+nvidia_a35dbdb28dd0ea7c,Datacenter Systems,hardware_systems,data center,2026-05-13,Principal,Engineer,closed
+nvidia_a375bf6703e953e3,Networking,hardware_systems,networking,2026-05-13,Unspecified,Engineer,closed
+nvidia_a375bf6703e953e3,Embedded Systems,hardware_systems,firmware,2026-05-13,Unspecified,Engineer,closed
+nvidia_a3c75462a534a98c,Kubernetes,cloud_infra,kubernetes,2026-05-13,Senior,Engineer,closed
+nvidia_a3c75462a534a98c,Go,languages,golang,2026-05-13,Senior,Engineer,closed
+nvidia_a3e1f4437f0ae8c5,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,closed
+nvidia_a3e1f4437f0ae8c5,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,closed
+nvidia_a4923347c4e05709,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-13,Senior,Engineer,closed
+nvidia_a4cd432f231f0f0b,LLMs,research_domains,genai,2026-05-13,Senior,Lead,closed
+nvidia_a54db0c330d277ae,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_a54f8c8a797ddb49,Agentic AI,research_domains,agentic ai,2026-05-13,Senior,Engineer,closed
+nvidia_a5b668fc484e6cbf,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Engineer,closed
+nvidia_a6ab36282de263c5,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_a6da6f2534ec78bd,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_a7e1abad67e676bd,Agentic AI,research_domains,agentic ai,2026-05-13,Senior,Engineer,closed
+nvidia_a9a061f2dbb8528f,Performance Engineering,hardware_systems,optimization,2026-05-13,Senior,Engineer,active
+nvidia_a9a061f2dbb8528f,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Engineer,active
+nvidia_abf8a7f5ac02aba0,Datacenter Systems,hardware_systems,data center,2026-05-13,Senior,Architect,active
+nvidia_ac212e44a15bc8ce,Embedded Systems,hardware_systems,firmware,2026-05-13,Unspecified,Manager,closed
+nvidia_ac212e44a15bc8ce,CPU Architecture,silicon_design,cpu,2026-05-13,Unspecified,Manager,closed
+nvidia_ae16daa261f11855,Site Reliability,mlops_devops,devops,2026-05-13,Unspecified,Engineer,closed
+nvidia_af8438cc87aaac6a,Machine Learning,research_domains,machine learning,2026-05-13,Senior,Engineer,closed
+nvidia_afb7d056fb160da3,Site Reliability,mlops_devops,reliability,2026-05-13,Senior,Engineer,active
+nvidia_afb7d056fb160da3,Networking,hardware_systems,network,2026-05-13,Senior,Engineer,active
+nvidia_afb7d056fb160da3,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Engineer,active
+nvidia_afb7d056fb160da3,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Engineer,active
+nvidia_afcabfabf3e0eb02,Silicon Verification,silicon_design,verification,2026-05-13,Junior,Engineer,closed
+nvidia_afcabfabf3e0eb02,Computer Architecture,hardware_systems,asic,2026-05-13,Junior,Engineer,closed
+nvidia_b2162c0b45b445b9,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Engineer,closed
+nvidia_b2cbcd3a3bbb94fa,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_b2cbcd3a3bbb94fa,Inference and Serving,research_domains,inference,2026-05-13,Unspecified,Architect,closed
+nvidia_b2cbcd3a3bbb94fa,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Unspecified,Architect,closed
+nvidia_b3f825e247e95957,Inference and Serving,research_domains,inference,2026-05-13,Senior,Engineer,closed
+nvidia_b4c22509607ffb87,Solutions Architecture,product_process,solution architect,2026-05-13,Senior,Architect,closed
+nvidia_b4c22509607ffb87,Networking,hardware_systems,network,2026-05-13,Senior,Architect,closed
+nvidia_b4ca830f06a8a728,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_b4d1334284796fc3,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,active
+nvidia_b4d1334284796fc3,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,active
+nvidia_b66710a8777994fd,Performance Engineering,hardware_systems,optimization,2026-05-13,Senior,Engineer,closed
+nvidia_b66710a8777994fd,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_b708e806847acffc,Performance Engineering,hardware_systems,optimization,2026-05-13,Senior,Engineer,closed
+nvidia_b81618861b42a3bf,Embedded Systems,hardware_systems,firmware,2026-05-13,Unspecified,Manager,closed
+nvidia_b81618861b42a3bf,Networking,hardware_systems,nvlink,2026-05-13,Unspecified,Manager,closed
+nvidia_b8364e7136e7bb2a,Silicon Verification,silicon_design,formal verification,2026-05-13,Senior,Engineer,closed
+nvidia_b855dd16ee765a26,Datacenter Systems,hardware_systems,datacenter,2026-05-13,Senior,Manager,closed
+nvidia_b87a5066e24f38ed,Solutions Architecture,product_process,solution architect,2026-05-13,Senior,Architect,closed
+nvidia_ba3984fe1a9dfb36,Networking,hardware_systems,networking,2026-05-13,Senior,Manager,closed
+nvidia_baaec0d24b5cf9a3,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_bbc9cf13cdeb1ceb,Kernel and Drivers,hardware_systems,kernel,2026-05-13,Senior,Engineer,closed
+nvidia_bcdf2253cf399054,CUDA,hardware_systems,cuda,2026-05-13,Senior,Engineer,closed
+nvidia_bcdf2253cf399054,Distributed Training,hardware_systems,nccl,2026-05-13,Senior,Engineer,closed
+nvidia_bcdf2253cf399054,Cloud Infrastructure,cloud_infra,csp,2026-05-13,Senior,Engineer,closed
+nvidia_be2a5fb375f6edef,Silicon Verification,silicon_design,formal verification,2026-05-13,Senior,Engineer,closed
+nvidia_c019c81ec1f19033,SoC Design,silicon_design,asic design,2026-05-13,Unspecified,Engineer,closed
+nvidia_c023ba9a4081adce,Digital Twin and Simulation,research_domains,simulation,2026-05-13,Senior,Engineer,closed
+nvidia_c050c59da74b59d7,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,closed
+nvidia_c4f01490f62e5b47,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-13,Senior,Engineer,closed
+nvidia_c615e5dab854b317,Silicon Verification,silicon_design,verification,2026-05-13,Unspecified,Engineer,closed
+nvidia_c615e5dab854b317,Compilers,hardware_systems,compilers,2026-05-13,Unspecified,Engineer,closed
+nvidia_c615e5dab854b317,C++,languages,c++,2026-05-13,Unspecified,Engineer,closed
+nvidia_c667b4e6282f2f95,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Architect,closed
+nvidia_c6f9be55858c5c0a,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_c6f9be55858c5c0a,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Unspecified,Architect,closed
+nvidia_c772c955844c2422,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_c836e606559a23e3,Business Development,product_process,business development,2026-05-13,Unspecified,Lead,closed
+nvidia_c836e606559a23e3,Healthcare AI,research_domains,biopharma,2026-05-13,Unspecified,Lead,closed
+nvidia_c872e8068889cbc1,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_caf80bf8ffe7354e,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Principal,Engineer,closed
+nvidia_caf80bf8ffe7354e,Datacenter Systems,hardware_systems,dgx,2026-05-13,Principal,Engineer,closed
+nvidia_cbaff4a501e86f5d,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_cbaff4a501e86f5d,Cybersecurity,mlops_devops,security,2026-05-13,Unspecified,Manager,closed
+nvidia_cc91ad670ead2fb3,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_cc91ad670ead2fb3,LLMs,research_domains,generative ai,2026-05-13,Senior,Architect,closed
+nvidia_ce6c9e48bcfd1fdb,Agentic AI,research_domains,ai agent,2026-05-13,Senior,Engineer,closed
+nvidia_cececd3c9557ce13,Autonomous Vehicles,research_domains,drive,2026-05-13,Senior,Engineer,closed
+nvidia_d050e57ac6bf4c21,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_d0cb817653fb28fd,Digital Twin and Simulation,research_domains,simulation,2026-05-13,Senior,Architect,closed
+nvidia_d17adc1f0a3bb715,Datacenter Systems,hardware_systems,data center,2026-05-13,Unspecified,Engineer,closed
+nvidia_d2d2aa607a225fa6,Agentic AI,research_domains,agents,2026-05-13,Senior,Engineer,closed
+nvidia_d3d672021ea9ea7f,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_d4271ab30659f1f2,Compilers,hardware_systems,compiler,2026-05-13,Unspecified,Engineer,closed
+nvidia_d4271ab30659f1f2,Site Reliability,mlops_devops,devops,2026-05-13,Unspecified,Engineer,closed
+nvidia_d7a3377963f03f9c,Cloud Infrastructure,cloud_infra,cloud service provider,2026-05-13,Unspecified,Manager,closed
+nvidia_d7a3377963f03f9c,Developer Relations,product_process,developer relations,2026-05-13,Unspecified,Manager,closed
+nvidia_d7b9535280dcff9b,Datacenter Systems,hardware_systems,datacenter systems,2026-05-13,Senior,Engineer,closed
+nvidia_d7c279ec30d3c60b,C++,languages,c++,2026-05-13,Senior,Engineer,closed
+nvidia_d89caa6ce79f2b0c,Silicon Verification,silicon_design,verification,2026-05-13,Junior,Engineer,closed
+nvidia_d9cf4b9c19ed8e40,Silicon Verification,silicon_design,formal verification,2026-05-13,Unspecified,Engineer,closed
+nvidia_dad7147a3f20ca08,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_dad7147a3f20ca08,Inference and Serving,research_domains,inference,2026-05-13,Senior,Engineer,closed
+nvidia_dad7147a3f20ca08,Deep Learning,research_domains,dl,2026-05-13,Senior,Engineer,closed
+nvidia_db7fbc8e09c9336d,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_dc81fa8110d6cbf3,HPC,hardware_systems,hpc,2026-05-13,Senior,Architect,active
+nvidia_dd33af4afa365ef0,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Senior,Manager,closed
+nvidia_dd33af4afa365ef0,Model Monitoring,mlops_devops,observability,2026-05-13,Senior,Manager,closed
+nvidia_de0dcc5cae486dfb,Graphics and Rendering,research_domains,neural graphics,2026-05-13,Unspecified,Engineer,closed
+nvidia_df337fc9f6b80b6f,Cybersecurity,mlops_devops,cybersecurity,2026-05-13,Unspecified,Manager,closed
+nvidia_dfbd5fed9193208e,Machine Learning,research_domains,machine learning,2026-05-13,Junior,Engineer,closed
+nvidia_dfbd5fed9193208e,Compilers,hardware_systems,compiler,2026-05-13,Junior,Engineer,closed
+nvidia_e112a3f598fd753f,Distributed Training,hardware_systems,nccl,2026-05-13,Senior,Engineer,closed
+nvidia_e1492bab4665c0ea,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_e1492bab4665c0ea,DPU and Offload,hardware_systems,bluefield,2026-05-13,Senior,Engineer,closed
+nvidia_e1492bab4665c0ea,Firmware,hardware_systems,bmc,2026-05-13,Senior,Engineer,closed
+nvidia_e2b06d8a87f14ed6,HPC,hardware_systems,hpc,2026-05-13,Unspecified,Manager,closed
+nvidia_e2c49b0dd4cc10fd,Machine Learning,research_domains,machine learning,2026-05-13,Senior,Engineer,closed
+nvidia_e37850d74582376c,Computer Architecture,hardware_systems,asic,2026-05-13,Senior,Engineer,active
+nvidia_e3d577b1742c7014,Datacenter Systems,hardware_systems,datacenter,2026-05-13,Senior,Manager,active
+nvidia_e41cfffa5728fa53,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Senior,Manager,closed
+nvidia_e41cfffa5728fa53,Datacenter Systems,hardware_systems,dgx,2026-05-13,Senior,Manager,closed
+nvidia_e4b7086e9475de69,Silicon Verification,silicon_design,formal verification,2026-05-13,Senior,Engineer,closed
+nvidia_e4b774fd7f8e423b,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Unspecified,Manager,active
+nvidia_e5f9121167a87b5b,Analog and Mixed Signal,silicon_design,mixed signal,2026-05-13,Senior,Engineer,closed
+nvidia_e6fc20ca76361be7,Networking,hardware_systems,networking,2026-05-13,Senior,Engineer,closed
+nvidia_e769808cf1b736c0,Triton Inference Server,ml_frameworks,triton inference server,2026-05-13,Senior,Engineer,closed
+nvidia_e7dde6614db9852a,Solutions Architecture,product_process,solutions architecture,2026-05-13,Unspecified,Manager,closed
+nvidia_e7dde6614db9852a,Performance Engineering,hardware_systems,optimization,2026-05-13,Unspecified,Manager,closed
+nvidia_e7dde6614db9852a,Firmware,hardware_systems,bringup,2026-05-13,Unspecified,Manager,closed
+nvidia_ea2bd6505a00b0c1,Embedded Systems,hardware_systems,firmware,2026-05-13,Unspecified,Engineer,closed
+nvidia_eb7c2d2583fbae22,Developer Relations,product_process,developer relations,2026-05-13,Senior,Manager,closed
+nvidia_ebaa38bafcc15c70,Reinforcement Learning,research_domains,rl,2026-05-13,Senior,Engineer,active
+nvidia_ec1774c2e56f0528,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_ec1774c2e56f0528,Inference and Serving,research_domains,inference,2026-05-13,Senior,Engineer,closed
+nvidia_ed96465875868985,Datacenter Systems,hardware_systems,datacenter,2026-05-13,Senior,Manager,closed
+nvidia_ed9d19b80b022d60,Cybersecurity,mlops_devops,security,2026-05-13,Unspecified,Analyst,closed
+nvidia_edcf2f60ceb4ef68,Cybersecurity,mlops_devops,security,2026-05-13,Unspecified,Lead,closed
+nvidia_edcf2f60ceb4ef68,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Unspecified,Lead,closed
+nvidia_eee116e56f48870f,HPC,hardware_systems,hpc,2026-05-13,Senior,Engineer,closed
+nvidia_ef5e02236c6232dc,Solutions Architecture,product_process,solutions architect,2026-05-13,Unspecified,Architect,closed
+nvidia_f0f9d3282cb5f228,Autonomous Vehicles,research_domains,drive,2026-05-13,Senior,Architect,closed
+nvidia_f30e8029a9cd4892,Cloud Infrastructure,cloud_infra,cloud,2026-05-13,Lead,Engineer,closed
+nvidia_f30e8029a9cd4892,Datacenter Systems,hardware_systems,dgx,2026-05-13,Lead,Engineer,closed
+nvidia_f3cd3fccd885ad13,Embedded Systems,hardware_systems,firmware,2026-05-13,Senior,Architect,closed
+nvidia_f423f9945cbb3e6a,Performance Engineering,hardware_systems,performance,2026-05-13,Senior,Engineer,closed
+nvidia_f423f9945cbb3e6a,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_f423f9945cbb3e6a,Triton Inference Server,ml_frameworks,triton,2026-05-13,Senior,Engineer,closed
+nvidia_f8a164e02ad5e99f,Machine Learning,research_domains,machine learning,2026-05-13,Senior,Engineer,closed
+nvidia_f8a164e02ad5e99f,Compilers,hardware_systems,compiler,2026-05-13,Senior,Engineer,closed
+nvidia_f91e69e8ed9eaec3,Physical Design,silicon_design,physical design,2026-05-13,Senior,Engineer,closed
+nvidia_f9fc4c4fe4927f8d,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-05-13,Senior,Architect,closed
+nvidia_f9fc4c4fe4927f8d,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_f9fc4c4fe4927f8d,Site Reliability,mlops_devops,devops,2026-05-13,Senior,Architect,closed
+nvidia_fa052453a0f108b9,Machine Learning,research_domains,machine learning,2026-05-13,Junior,Engineer,closed
+nvidia_fa052453a0f108b9,Analog and Mixed Signal,silicon_design,circuit design,2026-05-13,Junior,Engineer,closed
+nvidia_fa4e03d1c6a3f29a,Solutions Architecture,product_process,solutions architect,2026-05-13,Senior,Architect,closed
+nvidia_fbbb141dd1abbf3d,Deep Learning,research_domains,deep learning,2026-05-13,Senior,Engineer,closed
+nvidia_ffa4cdaa36763b47,Silicon Verification,silicon_design,verification,2026-05-13,Senior,Engineer,closed
+nvidia_ffd1abb3c6835135,Networking,hardware_systems,nvlink,2026-05-13,Unspecified,Engineer,closed
+nvidia_0072387dbb7811f1,CUDA,hardware_systems,cuda,2026-05-20,Senior,Engineer,closed
+nvidia_00ab0147cf98b5ac,Networking,hardware_systems,network,2026-05-20,Senior,Engineer,closed
+nvidia_0612d75c86475209,Networking,hardware_systems,switch,2026-05-20,Unspecified,Engineer,closed
+nvidia_0ea7e951b3ebd807,Networking,hardware_systems,networking,2026-05-20,Senior,Manager,closed
+nvidia_1a49463c809f4f3b,Embedded Systems,hardware_systems,firmware,2026-05-20,Unspecified,Manager,closed
+nvidia_1c2387ee86d22c5b,Solutions Architecture,product_process,solutions architect,2026-05-20,Senior,Architect,closed
+nvidia_22f3f7518958dc82,Performance Engineering,hardware_systems,performance,2026-05-20,Senior,Architect,closed
+nvidia_239759fd1ef7beb2,Design Automation,silicon_design,eda,2026-05-20,Senior,Manager,closed
+nvidia_24b9bfc1413e2aed,Graphics and Rendering,research_domains,graphics,2026-05-20,Senior,Engineer,closed
+nvidia_2cb195107e3b59a1,Embedded Systems,hardware_systems,firmware,2026-05-20,Unspecified,Engineer,closed
+nvidia_2eca5dd7a203e6c8,Performance Engineering,hardware_systems,performance,2026-05-20,Senior,Engineer,closed
+nvidia_2fad531d121d079e,C++,languages,c++,2026-05-20,Senior,Engineer,closed
+nvidia_322be724e7db8d98,Design Automation,silicon_design,eda,2026-05-20,Unspecified,Architect,closed
+nvidia_35778753506011ad,Cybersecurity,mlops_devops,security,2026-05-20,Unspecified,Engineer,closed
+nvidia_3664019b0cf1894d,Solutions Architecture,product_process,solutions architect,2026-05-20,Senior,Architect,closed
+nvidia_3664019b0cf1894d,Networking,hardware_systems,networking,2026-05-20,Senior,Architect,closed
+nvidia_37603c2cd1db6f12,Silicon Verification,silicon_design,design verification,2026-05-20,Senior,Engineer,closed
+nvidia_3865eaf1535138c5,Deep Learning,research_domains,deep learning,2026-05-20,Senior,Engineer,closed
+nvidia_3865eaf1535138c5,CUDA,hardware_systems,cuda,2026-05-20,Senior,Engineer,closed
+nvidia_392d4c91807ef99e,Performance Engineering,hardware_systems,performance,2026-05-20,Senior,Engineer,closed
+nvidia_39362687e13740fe,Performance Engineering,hardware_systems,profiling,2026-05-20,Unspecified,Engineer,closed
+nvidia_39362687e13740fe,SoC Design,silicon_design,soc,2026-05-20,Unspecified,Engineer,closed
+nvidia_39362687e13740fe,CPU Architecture,silicon_design,cpu,2026-05-20,Unspecified,Engineer,closed
+nvidia_396dcfd82d709ebd,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Manager,closed
+nvidia_396dcfd82d709ebd,Datacenter Systems,hardware_systems,dgx,2026-05-20,Senior,Manager,closed
+nvidia_3aabdc3db3c36e41,Site Reliability,mlops_devops,devops,2026-05-20,Senior,Engineer,closed
+nvidia_3aabdc3db3c36e41,HPC,hardware_systems,hpc,2026-05-20,Senior,Engineer,closed
+nvidia_3f309b5942c1fefb,Deep Learning,research_domains,deep learning,2026-05-20,Senior,Engineer,active
+nvidia_3f309b5942c1fefb,CUDA,hardware_systems,cuda,2026-05-20,Senior,Engineer,active
+nvidia_44fa2314bdf0acb3,Compilers,hardware_systems,compiler,2026-05-20,Senior,Engineer,closed
+nvidia_50a251de4630d751,Datacenter Systems,hardware_systems,rack scale,2026-05-20,Principal,Engineer,active
+nvidia_548813828e883091,Silicon Verification,silicon_design,verification,2026-05-20,Senior,Manager,closed
+nvidia_548813828e883091,Networking,hardware_systems,networking,2026-05-20,Senior,Manager,closed
+nvidia_551171b6d533aee0,Networking,hardware_systems,networking,2026-05-20,Senior,Manager,closed
+nvidia_5d0a61fbd3478d53,Networking,hardware_systems,networking,2026-05-20,Unspecified,Engineer,closed
+nvidia_5d0a61fbd3478d53,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Unspecified,Engineer,closed
+nvidia_5eb91a0124ddd5d6,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Principal,Engineer,closed
+nvidia_5eb91a0124ddd5d6,Datacenter Systems,hardware_systems,dgx,2026-05-20,Principal,Engineer,closed
+nvidia_62b14a43a529e000,DPU and Offload,hardware_systems,doca,2026-05-20,Senior,Engineer,closed
+nvidia_663975976bfff6c1,Site Reliability,mlops_devops,site reliability,2026-05-20,Senior,Engineer,closed
+nvidia_663975976bfff6c1,Model Monitoring,mlops_devops,observability,2026-05-20,Senior,Engineer,closed
+nvidia_695681f8c265b8ac,Digital Twin and Simulation,research_domains,simulation,2026-05-20,Principal,Architect,closed
+nvidia_69c4b00a1878b67a,Solutions Architecture,product_process,solution architect,2026-05-20,Senior,Architect,closed
+nvidia_6bb24cd818b36367,Reinforcement Learning,research_domains,reinforcement learning,2026-05-20,Unspecified,Developer,closed
+nvidia_7a40bdd0337bc1f9,Kernel and Drivers,hardware_systems,kernel,2026-05-20,Junior,Engineer,closed
+nvidia_7a40bdd0337bc1f9,Deep Learning,research_domains,dl,2026-05-20,Junior,Engineer,closed
+nvidia_7a7d9c19de429277,Solutions Architecture,product_process,solutions architect,2026-05-20,Senior,Architect,closed
+nvidia_7a7d9c19de429277,Networking,hardware_systems,networking,2026-05-20,Senior,Architect,closed
+nvidia_7d6de271a547b4f9,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Engineer,closed
+nvidia_7d6de271a547b4f9,Datacenter Systems,hardware_systems,dgx,2026-05-20,Senior,Engineer,closed
+nvidia_7f4d514611bde53c,SoC Design,silicon_design,soc,2026-05-20,Unspecified,Architect,closed
+nvidia_86903fe57d12945c,Networking,hardware_systems,networking,2026-05-20,Senior,Manager,closed
+nvidia_8e075249de630667,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Engineer,closed
+nvidia_8e075249de630667,Datacenter Systems,hardware_systems,dgx,2026-05-20,Senior,Engineer,closed
+nvidia_93386b594c5cb348,Robotics,research_domains,av,2026-05-20,Senior,Engineer,closed
+nvidia_95596c6037557248,Physical Design,silicon_design,physical design,2026-05-20,Unspecified,Engineer,closed
+nvidia_9c204690878817da,Solutions Architecture,product_process,solutions architect,2026-05-20,Senior,Architect,closed
+nvidia_9c204690878817da,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Architect,closed
+nvidia_9ddaedba9b087a19,Developer Relations,product_process,developer experience,2026-05-20,Senior,Manager,closed
+nvidia_a2f345b3f5439626,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Unspecified,Manager,closed
+nvidia_a2f345b3f5439626,Datacenter Systems,hardware_systems,dgx,2026-05-20,Unspecified,Manager,closed
+nvidia_a8d0af2f7d907384,Physical Design,silicon_design,physical design,2026-05-20,Principal,Architect,active
+nvidia_a8d0af2f7d907384,Performance Engineering,hardware_systems,performance,2026-05-20,Principal,Architect,active
+nvidia_a8d0af2f7d907384,CPU Architecture,silicon_design,cpu,2026-05-20,Principal,Architect,active
+nvidia_acf17ec5203ce5ea,Silicon Verification,silicon_design,design verification,2026-05-20,Senior,Engineer,active
+nvidia_ada9e34f24a3ca7f,SoC Design,silicon_design,chip design,2026-05-20,Senior,Engineer,closed
+nvidia_bddbd2881f9790b6,Computer Architecture,hardware_systems,rtl,2026-05-20,Senior,Engineer,closed
+nvidia_c03ec08c49f079c2,Networking,hardware_systems,network,2026-05-20,Senior,Architect,closed
+nvidia_c26b038f19f24e8a,Solutions Architecture,product_process,solutions architect,2026-05-20,Unspecified,Architect,closed
+nvidia_c26b038f19f24e8a,Agentic AI,research_domains,agentic ai,2026-05-20,Unspecified,Architect,closed
+nvidia_c3db4a587bc17b56,Solutions Architecture,product_process,solutions architect,2026-05-20,Senior,Architect,closed
+nvidia_c3f73472624b3ab2,Silicon Verification,silicon_design,design verification,2026-05-20,Unspecified,Engineer,closed
+nvidia_c424a80657df1584,Digital Twin and Simulation,research_domains,omniverse,2026-05-20,Senior,Engineer,closed
+nvidia_c4a1ca88111a3a91,Networking,hardware_systems,networking,2026-05-20,Principal,Architect,closed
+nvidia_c61fe55768bc266a,Networking,hardware_systems,networking,2026-05-20,Principal,Engineer,closed
+nvidia_c6bddb57cb48451e,Networking,hardware_systems,switch,2026-05-20,Senior,Researcher,closed
+nvidia_c9ce261f2a671240,Networking,hardware_systems,networking,2026-05-20,Unspecified,Engineer,closed
+nvidia_d485f815c8a6c597,Cybersecurity,mlops_devops,security,2026-05-20,Senior,Engineer,active
+nvidia_db7e1367cda79d69,Agentic AI,research_domains,agentic ai,2026-05-20,Unspecified,Developer,closed
+nvidia_e2a66a877f24bbac,Networking,hardware_systems,networking,2026-05-20,Unspecified,Developer,closed
+nvidia_e74352a204247895,Datacenter Systems,hardware_systems,data center,2026-05-20,Senior,Specialist,closed
+nvidia_e897a805a203c034,Autonomous Vehicles,research_domains,autonomous vehicles,2026-05-20,Senior,Engineer,closed
+nvidia_e897a805a203c034,Deep Learning,research_domains,deep learning,2026-05-20,Senior,Engineer,closed
+nvidia_eeeaf51451f64eb7,Physical Design,silicon_design,physical design,2026-05-20,Unspecified,Engineer,closed
+nvidia_f1198820db25891b,Model Monitoring,mlops_devops,observability,2026-05-20,Principal,Engineer,closed
+nvidia_f537e6ab28eeb988,Compilers,hardware_systems,compiler,2026-05-20,Senior,Engineer,closed
+nvidia_f8aecd46111ca2ba,Agentic AI,research_domains,ai agent,2026-05-20,Senior,Engineer,closed
+nvidia_fb9433e16c921d5b,Silicon Verification,silicon_design,verification,2026-05-20,Unspecified,Engineer,closed
+nvidia_fb9433e16c921d5b,DPU and Offload,hardware_systems,bluefield,2026-05-20,Unspecified,Engineer,closed
+nvidia_fb9433e16c921d5b,Firmware,hardware_systems,bmc,2026-05-20,Unspecified,Engineer,closed
+nvidia_fbc43e39b6d1da4d,Cybersecurity,mlops_devops,security,2026-05-20,Senior,Architect,closed
+nvidia_fbc43e39b6d1da4d,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Architect,closed
+nvidia_fbe63f4719bb9c6c,Performance Engineering,hardware_systems,performance,2026-05-20,Senior,Engineer,closed
+nvidia_fc94fa4fc3c14947,Cloud Infrastructure,cloud_infra,cloud,2026-05-20,Senior,Engineer,closed
+nvidia_fc94fa4fc3c14947,Datacenter Systems,hardware_systems,dgx,2026-05-20,Senior,Engineer,closed
+nvidia_ff0839602fd72284,RTL Design,silicon_design,logic synthesis,2026-05-20,Junior,Engineer,closed
+nvidia_ffb5dbb1fbfe8c4d,Design Automation,silicon_design,design automation,2026-05-20,Senior,Engineer,closed
+nvidia_004626bcb116bef6,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-10,Senior,Engineer,closed
+nvidia_004626bcb116bef6,Computer Vision,research_domains,computer vision,2026-06-10,Senior,Engineer,closed
+nvidia_004626bcb116bef6,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Engineer,closed
+nvidia_01e85d76ee434084,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Scientist,closed
+nvidia_02d402a51663f05a,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_03ba144aa4b36604,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Architect,closed
+nvidia_03ba144aa4b36604,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Architect,closed
+nvidia_042cbfacc0412a55,Business Development,product_process,gtm,2026-06-10,Unspecified,Lead,closed
+nvidia_06890fa7d4400d10,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_06890fa7d4400d10,Networking,hardware_systems,spectrum-x,2026-06-10,Senior,Architect,closed
+nvidia_06a0fe5f421998c6,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Engineer,closed
+nvidia_06b6332ca01b9d21,Networking,hardware_systems,networking,2026-06-10,Unspecified,Architect,closed
+nvidia_07f01c19408133d7,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Engineer,closed
+nvidia_07f01c19408133d7,Compilers,hardware_systems,compiler,2026-06-10,Unspecified,Engineer,closed
+nvidia_07f01c19408133d7,CUDA,hardware_systems,cuda,2026-06-10,Unspecified,Engineer,closed
+nvidia_09044d1049c67169,Solutions Architecture,product_process,solution architect,2026-06-10,Unspecified,Architect,closed
+nvidia_09044d1049c67169,Robotics,research_domains,robotics,2026-06-10,Unspecified,Architect,closed
+nvidia_0d9e00a34f3a95b7,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_0ebce67e65d0ced8,Storage Systems,hardware_systems,storage,2026-06-10,Senior,Engineer,closed
+nvidia_0ebce67e65d0ced8,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,closed
+nvidia_0ebce67e65d0ced8,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_0edc98726cf02b38,Cybersecurity,mlops_devops,security,2026-06-10,Senior,Architect,closed
+nvidia_10328fe54fddb606,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Architect,closed
+nvidia_10328fe54fddb606,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Architect,closed
+nvidia_104b2e805bfab9f7,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-06-10,Senior,Manager,closed
+nvidia_1487c0c8a7dafa98,Digital Twin and Simulation,research_domains,simulation,2026-06-10,Senior,Engineer,active
+nvidia_1487c0c8a7dafa98,Networking,hardware_systems,switch,2026-06-10,Senior,Engineer,active
+nvidia_1510782417faa732,Solutions Architecture,product_process,solution architect,2026-06-10,Senior,Architect,closed
+nvidia_17765ec422c4433a,Machine Learning,research_domains,machine learning,2026-06-10,Senior,Engineer,closed
+nvidia_1819df2baf0d2fef,Solutions Architecture,product_process,solutions architect,2026-06-10,Unspecified,Architect,closed
+nvidia_1819df2baf0d2fef,Site Reliability,mlops_devops,devops,2026-06-10,Unspecified,Architect,closed
+nvidia_1b20d6c0d84539c1,Performance Engineering,hardware_systems,optimization,2026-06-10,Senior,Engineer,closed
+nvidia_1b2487aeaa6f0428,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_1d822e5f4be493fc,Physical Design,silicon_design,physical design,2026-06-10,Senior,Engineer,closed
+nvidia_1e32a0e99889acaf,Business Development,product_process,channel,2026-06-10,Unspecified,Lead,closed
+nvidia_1e58149c92dbb0bc,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_1fe46483b2bbc7c6,Cybersecurity,mlops_devops,security,2026-06-10,Unspecified,Analyst,active
+nvidia_2072777ac71200e9,Agentic AI,research_domains,agents,2026-06-10,Senior,Architect,closed
+nvidia_232cff724525014b,Robotics,research_domains,robotics,2026-06-10,Unspecified,Engineer,closed
+nvidia_23584ab22b9b951a,Networking,hardware_systems,rdma,2026-06-10,Senior,Engineer,closed
+nvidia_24d17146f06cda15,RTL Design,silicon_design,logic synthesis,2026-06-10,Senior,Engineer,closed
+nvidia_275d7189715797b4,Silicon Verification,silicon_design,verification,2026-06-10,Unspecified,Engineer,closed
+nvidia_275d7189715797b4,SoC Design,silicon_design,soc,2026-06-10,Unspecified,Engineer,closed
+nvidia_283197c126111d97,Solutions Architecture,product_process,solution architect,2026-06-10,Unspecified,Architect,closed
+nvidia_283197c126111d97,Computer Vision,research_domains,computer vision,2026-06-10,Unspecified,Architect,closed
+nvidia_294dc717ab7831e3,Datacenter Systems,hardware_systems,data center,2026-06-10,Unspecified,Engineer,closed
+nvidia_29507a6756b83df2,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_29507a6756b83df2,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Architect,closed
+nvidia_295ba780e3cec149,Signal and Power Integrity,silicon_design,signal and power integrity,2026-06-10,Senior,Engineer,closed
+nvidia_298c05e99e155af8,Rust,languages,rust,2026-06-10,Senior,Engineer,closed
+nvidia_2a390a73772d505f,Solutions Architecture,product_process,solution architect,2026-06-10,Senior,Architect,closed
+nvidia_2a5ad0de773e19a4,SoC Design,silicon_design,soc,2026-06-10,Senior,Engineer,closed
+nvidia_2b386b83823cda35,Performance Engineering,hardware_systems,performance,2026-06-10,Junior,Engineer,closed
+nvidia_2b386b83823cda35,Agentic AI,research_domains,agentic ai,2026-06-10,Junior,Engineer,closed
+nvidia_2ba6091091d7da04,Developer Relations,product_process,developer relations,2026-06-10,Unspecified,Manager,closed
+nvidia_2cba34f72d5ac487,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_2cba34f72d5ac487,Networking,hardware_systems,networking,2026-06-10,Senior,Architect,closed
+nvidia_2d8279e1ef9af39d,Datacenter Systems,hardware_systems,data center,2026-06-10,Unspecified,Engineer,closed
+nvidia_2d8279e1ef9af39d,HPC,hardware_systems,hpc,2026-06-10,Unspecified,Engineer,closed
+nvidia_2e21cdfa41ecf47f,Silicon Verification,silicon_design,verification,2026-06-10,Senior,Engineer,active
+nvidia_2e21cdfa41ecf47f,SoC Design,silicon_design,soc,2026-06-10,Senior,Engineer,active
+nvidia_2e5873243888de38,Site Reliability,mlops_devops,devops,2026-06-10,Senior,Engineer,closed
+nvidia_2e6f42e668ce3b96,SoC Design,silicon_design,chip design,2026-06-10,Senior,Engineer,closed
+nvidia_303825a850c51e73,Networking,hardware_systems,nvlink,2026-06-10,Senior,Engineer,closed
+nvidia_30d9ad80fab7d793,SoC Design,silicon_design,soc design,2026-06-10,Unspecified,Engineer,closed
+nvidia_33364647e4bd91cc,Performance Engineering,hardware_systems,profiling,2026-06-10,Senior,Architect,closed
+nvidia_347bc5801f1f22c8,Cybersecurity,mlops_devops,cybersecurity,2026-06-10,Senior,Engineer,closed
+nvidia_36421e72f1b71123,Storage Systems,hardware_systems,storage,2026-06-10,Senior,Engineer,active
+nvidia_36421e72f1b71123,HPC,hardware_systems,hpc,2026-06-10,Senior,Engineer,active
+nvidia_36f2e122c4e2d8d9,Networking,hardware_systems,network,2026-06-10,Senior,Engineer,closed
+nvidia_395797390f5597cd,Datacenter Systems,hardware_systems,datacenter,2026-06-10,Senior,Manager,closed
+nvidia_3a54eb5b7528fbad,Cybersecurity,mlops_devops,security,2026-06-10,Unspecified,Analyst,closed
+nvidia_3a9e203c6302e98a,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Engineer,closed
+nvidia_3b4b5ceb473f003d,Silicon Verification,silicon_design,verification,2026-06-10,Senior,Engineer,closed
+nvidia_3b4b5ceb473f003d,SoC Design,silicon_design,soc,2026-06-10,Senior,Engineer,closed
+nvidia_3b9f208adcdf1986,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Engineer,closed
+nvidia_3bc061a4b3db46ad,Solutions Architecture,product_process,solution architect,2026-06-10,Unspecified,Architect,closed
+nvidia_3c40e3ed5de34d45,Silicon Verification,silicon_design,verification,2026-06-10,Senior,Engineer,closed
+nvidia_3c9a86356ae34873,Site Reliability,mlops_devops,site reliability,2026-06-10,Senior,Engineer,closed
+nvidia_3d59383ad251af80,Cybersecurity,mlops_devops,security,2026-06-10,Principal,Engineer,closed
+nvidia_3d59383ad251af80,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Principal,Engineer,closed
+nvidia_3d59383ad251af80,Datacenter Systems,hardware_systems,dgx,2026-06-10,Principal,Engineer,closed
+nvidia_3e7fc24ae32f9dba,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-06-10,Unspecified,Manager,closed
+nvidia_3eb0267827a673e9,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_3eb0267827a673e9,Digital Twin and Simulation,research_domains,physical ai,2026-06-10,Senior,Architect,closed
+nvidia_3eb0267827a673e9,Robotics,research_domains,robotics,2026-06-10,Senior,Architect,closed
+nvidia_40abd49ce79cc96f,Cybersecurity,mlops_devops,security,2026-06-10,Senior,Architect,closed
+nvidia_433256bba457a088,Developer Relations,product_process,developer relations,2026-06-10,Unspecified,Manager,closed
+nvidia_44444f139874b51a,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-10,Unspecified,Manager,closed
+nvidia_460290e2bf2d31c7,Developer Relations,product_process,developer relations,2026-06-10,Senior,Manager,closed
+nvidia_491d6c6d5c834ed9,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_4c581e6ec3429654,Python,languages,python,2026-06-10,Senior,Engineer,closed
+nvidia_4d64d43a273d6614,Compilers,hardware_systems,compiler,2026-06-10,Senior,Engineer,closed
+nvidia_4f1e2925d5c10926,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,closed
+nvidia_4f1e2925d5c10926,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_50394670ef7f4580,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-10,Unspecified,Engineer,closed
+nvidia_535507f11b7d8410,Datacenter Systems,hardware_systems,data center,2026-06-10,Senior,Engineer,closed
+nvidia_544b1852324e3983,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_554b4cf25e02d8a8,Compilers,hardware_systems,compiler,2026-06-10,Junior,Engineer,closed
+nvidia_55b6a4e3530abfd7,GPU Computing,hardware_systems,accelerated computing,2026-06-10,Unspecified,Architect,closed
+nvidia_55b6a4e3530abfd7,Solutions Architecture,product_process,solutions architect,2026-06-10,Unspecified,Architect,closed
+nvidia_55b6a4e3530abfd7,Technical Program Management,product_process,tpm,2026-06-10,Unspecified,Architect,closed
+nvidia_55dba78cc624a694,Embedded Systems,hardware_systems,firmware,2026-06-10,Senior,Engineer,closed
+nvidia_56d7e87009a6d912,LLMs,research_domains,generative ai,2026-06-10,Unspecified,Manager,closed
+nvidia_5985260ca6029e2d,Graphics and Rendering,research_domains,graphics,2026-06-10,Senior,Engineer,closed
+nvidia_5a63aff110d33dc1,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_5d0b70b3ba21ac20,CPU Architecture,silicon_design,cpu,2026-06-10,Senior,Engineer,closed
+nvidia_5d2d70ee46480e9c,Developer Relations,product_process,developer relations,2026-06-10,Unspecified,Manager,closed
+nvidia_615e3101c6839e93,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Architect,closed
+nvidia_615e3101c6839e93,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Architect,closed
+nvidia_6612ca7c46feb6c9,Silicon Verification,silicon_design,verification,2026-06-10,Senior,Engineer,closed
+nvidia_6612ca7c46feb6c9,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_67df88e827b0d16f,SoC Design,silicon_design,asic design,2026-06-10,Unspecified,Engineer,closed
+nvidia_6abff0aa288ce33c,Datacenter Systems,hardware_systems,data center,2026-06-10,Senior,Engineer,closed
+nvidia_6d0a8bdae5888580,Compilers,hardware_systems,compiler,2026-06-10,Senior,Engineer,closed
+nvidia_6d0a8bdae5888580,Deep Learning,research_domains,dl,2026-06-10,Senior,Engineer,closed
+nvidia_6d3c5dadbdbacc2b,Deep Learning,research_domains,deep learning,2026-06-10,Junior,Architect,closed
+nvidia_6ebdc06eb7f620e1,Business Development,product_process,channel,2026-06-10,Unspecified,Lead,closed
+nvidia_72f4dc3b8bbb1b18,Agentic AI,research_domains,agentic,2026-06-10,Senior,Engineer,closed
+nvidia_740aa4016e3b3de8,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-10,Senior,Engineer,closed
+nvidia_7771affcdc0919b1,Solutions Architecture,product_process,solutions architect,2026-06-10,Unspecified,Architect,closed
+nvidia_7771affcdc0919b1,Datacenter Systems,hardware_systems,data center,2026-06-10,Unspecified,Architect,closed
+nvidia_799d2e07117ed7a3,Embedded Systems,hardware_systems,firmware,2026-06-10,Unspecified,Engineer,closed
+nvidia_799d2e07117ed7a3,Test Automation,mlops_devops,qa,2026-06-10,Unspecified,Engineer,closed
+nvidia_79a3f43334efc1ed,Developer Relations,product_process,developer relations,2026-06-10,Senior,Manager,closed
+nvidia_7abce64d05ac108b,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Architect,closed
+nvidia_7abce64d05ac108b,CPU Architecture,silicon_design,cpu,2026-06-10,Senior,Architect,closed
+nvidia_7c6b4612110939a5,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-10,Senior,Engineer,closed
+nvidia_7cd9bf8e54737c55,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Architect,closed
+nvidia_7e80ee03ff4c001f,Machine Learning,research_domains,ml,2026-06-10,Senior,Engineer,closed
+nvidia_7e99089d527aa21a,Test Automation,mlops_devops,qa,2026-06-10,Unspecified,Manager,closed
+nvidia_80be1cd4dbc2648e,Datacenter Systems,hardware_systems,data center,2026-06-10,Principal,Architect,active
+nvidia_81de067e8d57fce1,Site Reliability,mlops_devops,reliability,2026-06-10,Senior,Engineer,closed
+nvidia_81de067e8d57fce1,Datacenter Systems,hardware_systems,rack scale,2026-06-10,Senior,Engineer,closed
+nvidia_81de067e8d57fce1,Networking,hardware_systems,nvlink,2026-06-10,Senior,Engineer,closed
+nvidia_81f643a81dbaeaab,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Manager,closed
+nvidia_81f643a81dbaeaab,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Manager,closed
+nvidia_824104db526b92ea,Developer Relations,product_process,developer relations,2026-06-10,Unspecified,Manager,closed
+nvidia_824104db526b92ea,MLOps,mlops_devops,mlops,2026-06-10,Unspecified,Manager,closed
+nvidia_8486409881cf28e7,Networking,hardware_systems,networking,2026-06-10,Senior,Architect,closed
+nvidia_848683235d678ea4,Solutions Architecture,product_process,solutions architect,2026-06-10,Unspecified,Architect,closed
+nvidia_852a4249882aec81,Solutions Architecture,product_process,solution architect,2026-06-10,Senior,Architect,closed
+nvidia_852a4249882aec81,Digital Twin and Simulation,research_domains,physical ai,2026-06-10,Senior,Architect,closed
+nvidia_852a4249882aec81,Robotics,research_domains,robotics,2026-06-10,Senior,Architect,closed
+nvidia_85e3441f67e544e5,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Engineer,closed
+nvidia_874948643653521e,Analog and Mixed Signal,silicon_design,mixed signal,2026-06-10,Senior,Designer,closed
+nvidia_88f62c91e1ae3c76,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_88f62c91e1ae3c76,LLMs,research_domains,generative ai,2026-06-10,Senior,Architect,closed
+nvidia_8a273385497283a8,HPC,hardware_systems,hpc,2026-06-10,Senior,Engineer,closed
+nvidia_8ef78974f04c407f,Performance Engineering,hardware_systems,benchmarking,2026-06-10,Unspecified,Manager,closed
+nvidia_8ef78974f04c407f,Inference and Serving,research_domains,inference,2026-06-10,Unspecified,Manager,closed
+nvidia_90dd54baa6c7fb29,Embedded Systems,hardware_systems,firmware,2026-06-10,Senior,Architect,closed
+nvidia_9535b03507ac106c,Datacenter Systems,hardware_systems,rack scale,2026-06-10,Director,Director,active
+nvidia_95f4c6640cb66d6b,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,closed
+nvidia_95f4c6640cb66d6b,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_97591a40883762df,Design for Test,silicon_design,atpg,2026-06-10,Senior,Engineer,closed
+nvidia_97ecdfbd2904abc6,Solutions Architecture,product_process,solution architect,2026-06-10,Senior,Architect,closed
+nvidia_97ecdfbd2904abc6,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Architect,closed
+nvidia_982be31faacaab05,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Engineer,closed
+nvidia_982be31faacaab05,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_9b39e4bc945f1450,Networking,hardware_systems,networking,2026-06-10,Senior,Architect,closed
+nvidia_9b72be2b5313b5db,Solutions Architecture,product_process,solutions architect,2026-06-10,Unspecified,Architect,closed
+nvidia_9b72be2b5313b5db,Datacenter Systems,hardware_systems,data center,2026-06-10,Unspecified,Architect,closed
+nvidia_a1621567eee07daa,Compilers,hardware_systems,compiler,2026-06-10,Senior,Engineer,closed
+nvidia_a1621567eee07daa,Graphics and Rendering,research_domains,graphics,2026-06-10,Senior,Engineer,closed
+nvidia_a16858d6c6286841,Site Reliability,mlops_devops,devops,2026-06-10,Senior,Engineer,closed
+nvidia_a16858d6c6286841,HPC,hardware_systems,hpc,2026-06-10,Senior,Engineer,closed
+nvidia_a17b7f5e3dadb71b,Networking,hardware_systems,networking,2026-06-10,Unspecified,Manager,active
+nvidia_a1a0752c0ba52fc7,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_a1a0752c0ba52fc7,Digital Twin and Simulation,research_domains,physical ai,2026-06-10,Senior,Architect,closed
+nvidia_a1a0752c0ba52fc7,Robotics,research_domains,robotics,2026-06-10,Senior,Architect,closed
+nvidia_a1df2e7b39939701,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_a5a23f7b5b6b5b92,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_a7527d77dfae745b,Robotics,research_domains,robotics,2026-06-10,Unspecified,Engineer,closed
+nvidia_a9ca8d19222506d0,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Engineer,closed
+nvidia_ad1ad9f42dd98262,SoC Design,silicon_design,soc,2026-06-10,Unspecified,Engineer,closed
+nvidia_adb90fc600eafe64,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_adb90fc600eafe64,Networking,hardware_systems,networking,2026-06-10,Senior,Architect,closed
+nvidia_ae7c9a264de26eee,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Architect,closed
+nvidia_b0d1d2da597238c7,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_b0d1d2da597238c7,Digital Twin and Simulation,research_domains,physical ai,2026-06-10,Senior,Architect,closed
+nvidia_b16459047b18140e,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Engineer,closed
+nvidia_b16459047b18140e,CPU Architecture,silicon_design,cpu,2026-06-10,Senior,Engineer,closed
+nvidia_b208ce52a0739196,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Architect,closed
+nvidia_b208ce52a0739196,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Architect,closed
+nvidia_b2fd86017ae0b481,Embedded Systems,hardware_systems,firmware,2026-06-10,Unspecified,Engineer,active
+nvidia_b3c3d3b40381fa5a,Cybersecurity,mlops_devops,security,2026-06-10,Senior,Architect,closed
+nvidia_b455fa17c596eb8c,Machine Learning,research_domains,machine learning,2026-06-10,Senior,Engineer,active
+nvidia_b547b18ad28c35b2,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Engineer,closed
+nvidia_b8b77cd9082b35f8,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_b91fa1c78e7c3176,Analog and Mixed Signal,silicon_design,circuit design,2026-06-10,Junior,Engineer,closed
+nvidia_bb3a16db8f496db3,Digital Twin and Simulation,research_domains,simulation,2026-06-10,Principal,Engineer,closed
+nvidia_bb3a16db8f496db3,Robotics,research_domains,robotics,2026-06-10,Principal,Engineer,closed
+nvidia_bbec3aa72942beb2,Agentic AI,research_domains,agentic,2026-06-10,Unspecified,Lead,closed
+nvidia_bc2981916e31c90b,Networking,hardware_systems,networking,2026-06-10,Senior,Engineer,closed
+nvidia_bfc815c75c2d607e,Digital Twin and Simulation,research_domains,simulation,2026-06-10,Unspecified,Manager,closed
+nvidia_bfc815c75c2d607e,Networking,hardware_systems,network,2026-06-10,Unspecified,Manager,closed
+nvidia_c078c3be40cb56c9,Developer Relations,product_process,developer relations,2026-06-10,Senior,Developer,active
+nvidia_c09365dcd07303c9,Embedded Systems,hardware_systems,firmware,2026-06-10,Unspecified,Engineer,closed
+nvidia_c09365dcd07303c9,Networking,hardware_systems,ethernet,2026-06-10,Unspecified,Engineer,closed
+nvidia_c11b52f0a885b3e4,Agentic AI,research_domains,agentic,2026-06-10,Senior,Engineer,closed
+nvidia_c11d847c3b9b3951,Networking,hardware_systems,networking,2026-06-10,Unspecified,Engineer,closed
+nvidia_c26477b61ce94e38,Computer Architecture,hardware_systems,asic,2026-06-10,Senior,Engineer,closed
+nvidia_c55ee4358953fa38,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Unspecified,Engineer,closed
+nvidia_c55ee4358953fa38,Datacenter Systems,hardware_systems,dgx,2026-06-10,Unspecified,Engineer,closed
+nvidia_c736ee4c07dde71a,Embedded Systems,hardware_systems,firmware,2026-06-10,Senior,Engineer,closed
+nvidia_c7623fc69ed991de,Networking,hardware_systems,nvlink,2026-06-10,Senior,Engineer,closed
+nvidia_c7e166317242e930,Deep Learning,research_domains,deep learning,2026-06-10,Senior,Architect,closed
+nvidia_c83f48514a4d7341,Machine Learning,research_domains,machine learning,2026-06-10,Senior,Manager,closed
+nvidia_c9ddfca31927ebc2,Developer Relations,product_process,developer relations,2026-06-10,Senior,Manager,closed
+nvidia_cadd3760734ca45c,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_cadd3760734ca45c,Networking,hardware_systems,networking,2026-06-10,Senior,Architect,closed
+nvidia_cb8707d122fe40e6,Datacenter Systems,hardware_systems,datacenter,2026-06-10,Senior,Manager,closed
+nvidia_cc0223bee7b46546,Solutions Architecture,product_process,solution architect,2026-06-10,Unspecified,Architect,closed
+nvidia_cc1299aee3c12623,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,active
+nvidia_cd1f5c510b20da3a,SoC Design,silicon_design,chip design,2026-06-10,Director,Director,closed
+nvidia_cf0b5a697c81bd6f,C++,languages,c++,2026-06-10,Senior,Engineer,closed
+nvidia_cf13e0cbdd0ca834,Agentic AI,research_domains,agents,2026-06-10,Senior,Architect,closed
+nvidia_cf9c8d9d10676fda,Developer Relations,product_process,developer relations,2026-06-10,Senior,Manager,closed
+nvidia_d326c830bbee7530,Computer Architecture,hardware_systems,asic,2026-06-10,Junior,Engineer,closed
+nvidia_d3db2e55ba7a6797,Networking,hardware_systems,network,2026-06-10,Unspecified,Engineer,closed
+nvidia_d5afafdfe2881f32,Distributed Training,hardware_systems,distributed training,2026-06-10,Unspecified,Developer,closed
+nvidia_d850ab60416e19b3,Cybersecurity,mlops_devops,security,2026-06-10,Senior,Scientist,closed
+nvidia_d8c0ecbd32e9786f,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Engineer,closed
+nvidia_d8f36d54928d92a0,Cybersecurity,mlops_devops,cybersecurity,2026-06-10,Unspecified,Manager,closed
+nvidia_d8f62a3eadcf5d98,Silicon Verification,silicon_design,verification,2026-06-10,Senior,Engineer,closed
+nvidia_dc3210af24e63fc3,Performance Engineering,hardware_systems,performance,2026-06-10,Principal,Architect,active
+nvidia_dcc2f5d67eb939d2,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Architect,closed
+nvidia_dcc2f5d67eb939d2,Performance Engineering,hardware_systems,performance,2026-06-10,Unspecified,Architect,closed
+nvidia_de0fc2073ae22061,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,closed
+nvidia_de0fc2073ae22061,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_df9c427beb7abe73,Robotics,research_domains,robotics,2026-06-10,Unspecified,Manager,closed
+nvidia_e3ab846ac4d696a5,Solutions Architecture,product_process,solution architecture,2026-06-10,Unspecified,Manager,closed
+nvidia_e3ae094c20dd5bb4,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Senior,Engineer,closed
+nvidia_e3ae094c20dd5bb4,Datacenter Systems,hardware_systems,dgx,2026-06-10,Senior,Engineer,closed
+nvidia_e58d1a9cf0aa9d53,CUDA,hardware_systems,cuda,2026-06-10,Senior,Engineer,closed
+nvidia_ea234e205b7e4c2f,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,active
+nvidia_eaec1c049820aab3,Cybersecurity,mlops_devops,security,2026-06-10,Senior,Researcher,closed
+nvidia_eb6a0dd34a33f4b0,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_eed92e9e489c4b4b,DPU and Offload,hardware_systems,doca,2026-06-10,Unspecified,Engineer,closed
+nvidia_f1a1752552c80dc4,Business Development,product_process,business development,2026-06-10,Unspecified,Manager,closed
+nvidia_f2938845f57fd815,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_f2938845f57fd815,Agentic AI,research_domains,agentic,2026-06-10,Senior,Architect,closed
+nvidia_f2938845f57fd815,LLMs,research_domains,genai,2026-06-10,Senior,Architect,closed
+nvidia_f3d100f20c32ad24,Deep Learning,research_domains,deep learning,2026-06-10,Unspecified,Manager,active
+nvidia_f893ca9278743fdc,Cloud Infrastructure,cloud_infra,cloud,2026-06-10,Unspecified,Manager,closed
+nvidia_f893ca9278743fdc,Datacenter Systems,hardware_systems,dgx,2026-06-10,Unspecified,Manager,closed
+nvidia_fa687d07ef2e4b69,Solutions Architecture,product_process,solution architecture,2026-06-10,Intern,Intern,closed
+nvidia_fa79918b2358a852,Solutions Architecture,product_process,solutions architect,2026-06-10,Senior,Architect,closed
+nvidia_fa79918b2358a852,Datacenter Systems,hardware_systems,data center,2026-06-10,Senior,Architect,closed
+nvidia_facdaa7c183a5f98,Performance Engineering,hardware_systems,performance,2026-06-10,Senior,Architect,closed
+nvidia_facdaa7c183a5f98,CPU Architecture,silicon_design,cpu,2026-06-10,Senior,Architect,closed
+nvidia_fb3ad77da42e5066,DPU and Offload,hardware_systems,doca,2026-06-10,Unspecified,Engineer,closed
+nvidia_fdd525e28722f1e0,Digital Twin and Simulation,research_domains,simulation,2026-06-10,Senior,Engineer,closed
+nvidia_fdd525e28722f1e0,Networking,hardware_systems,network,2026-06-10,Senior,Engineer,closed
+nvidia_fdd525e28722f1e0,Test Automation,mlops_devops,qa,2026-06-10,Senior,Engineer,closed
+nvidia_fff28b99d3e01e2c,Networking,hardware_systems,nvlink,2026-06-10,Unspecified,Architect,closed
+nvidia_0b6d08c750e9514f,Silicon Verification,silicon_design,verification,2026-06-24,Senior,Engineer,closed
+nvidia_0b6d08c750e9514f,Computer Architecture,hardware_systems,asic,2026-06-24,Senior,Engineer,closed
+nvidia_10962efcdb7ab899,Kubernetes,cloud_infra,kubernetes,2026-06-24,Senior,Engineer,closed
+nvidia_10962efcdb7ab899,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_10962efcdb7ab899,Datacenter Systems,hardware_systems,dgx,2026-06-24,Senior,Engineer,closed
+nvidia_10f24408c5abed59,Site Reliability,mlops_devops,site reliability,2026-06-24,Senior,Engineer,closed
+nvidia_10f24408c5abed59,HPC,hardware_systems,hpc,2026-06-24,Senior,Engineer,closed
+nvidia_1392c31e8a6d4ad3,SoC Design,silicon_design,chip design,2026-06-24,Unspecified,Manager,closed
+nvidia_17a6e9818964a207,Robotics,research_domains,robotics,2026-06-24,Intern,Intern,closed
+nvidia_1fa745cb1dfe1709,Embedded Systems,hardware_systems,firmware,2026-06-24,Senior,Engineer,closed
+nvidia_21b2753ded66db48,Solutions Architecture,product_process,solution architect,2026-06-24,Unspecified,Architect,closed
+nvidia_22d936ac2ad4e5b9,Graphics and Rendering,research_domains,graphics,2026-06-24,Principal,Engineer,closed
+nvidia_263913466cd8eb35,Networking,hardware_systems,networking,2026-06-24,Senior,Engineer,closed
+nvidia_28e671eee483243d,Digital Twin and Simulation,research_domains,physical ai,2026-06-24,Senior,Engineer,closed
+nvidia_28e671eee483243d,Robotics,research_domains,robotics,2026-06-24,Senior,Engineer,closed
+nvidia_2a0c2bf63013731e,Computer Architecture,hardware_systems,asic,2026-06-24,Senior,Engineer,closed
+nvidia_2bd5fc0e42232ebf,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,closed
+nvidia_2dcffd1bcd3e946f,HPC,hardware_systems,hpc,2026-06-24,Senior,Engineer,closed
+nvidia_306c20c42eed8c9e,Design for Test,silicon_design,dft,2026-06-24,Senior,Engineer,closed
+nvidia_30dc0da5c87b6879,Cybersecurity,mlops_devops,security,2026-06-24,Senior,Engineer,closed
+nvidia_34258fd23eb7cfa0,Deep Learning,research_domains,deep learning,2026-06-24,Senior,Manager,closed
+nvidia_350a99d20692b81c,Analog and Mixed Signal,silicon_design,circuit design,2026-06-24,Senior,Engineer,closed
+nvidia_350a99d20692b81c,Digital Twin and Simulation,research_domains,simulation,2026-06-24,Senior,Engineer,closed
+nvidia_3a2be56bbe23c618,SoC Design,silicon_design,chip design,2026-06-24,Senior,Developer,closed
+nvidia_3a7f48d5e4a40146,Performance Engineering,hardware_systems,performance,2026-06-24,Unspecified,Engineer,closed
+nvidia_3a7f48d5e4a40146,CPU Architecture,silicon_design,cpu,2026-06-24,Unspecified,Engineer,closed
+nvidia_3a92f51418a1f333,Networking,hardware_systems,networking,2026-06-24,Principal,Developer,closed
+nvidia_3cc6faf54266ec29,Networking,hardware_systems,networking,2026-06-24,Senior,Manager,closed
+nvidia_3cec9bbc16062331,Developer Relations,product_process,developer relations,2026-06-24,Senior,Manager,closed
+nvidia_3e7b026d5491b514,Solutions Architecture,product_process,solution architecture,2026-06-24,Intern,Intern,closed
+nvidia_40642f68197739ab,Signal and Power Integrity,silicon_design,power integrity,2026-06-24,Senior,Engineer,closed
+nvidia_446b413bdcefee0b,Datacenter Systems,hardware_systems,data center,2026-06-24,Unspecified,Specialist,closed
+nvidia_499e7bd1ba3e71cf,Kubernetes,cloud_infra,kubernetes,2026-06-24,Senior,Engineer,closed
+nvidia_499e7bd1ba3e71cf,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_499e7bd1ba3e71cf,Datacenter Systems,hardware_systems,dgx,2026-06-24,Senior,Engineer,closed
+nvidia_4bab49222fadffef,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,closed
+nvidia_4f2cef5902e8697b,Silicon Verification,silicon_design,verification,2026-06-24,Senior,Engineer,closed
+nvidia_50960a63684bff91,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_50960a63684bff91,Datacenter Systems,hardware_systems,dgx,2026-06-24,Senior,Engineer,closed
+nvidia_50a43c4693470c7f,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_50a43c4693470c7f,Datacenter Systems,hardware_systems,dgx,2026-06-24,Senior,Engineer,closed
+nvidia_5152ad74bbcc42e1,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,active
+nvidia_532521561f2047e9,Networking,hardware_systems,networking,2026-06-24,Senior,Manager,closed
+nvidia_532521561f2047e9,DPU and Offload,hardware_systems,doca,2026-06-24,Senior,Manager,closed
+nvidia_542ad0b811c009cd,Storage Systems,hardware_systems,storage,2026-06-24,Senior,Engineer,closed
+nvidia_542ad0b811c009cd,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_542ad0b811c009cd,Datacenter Systems,hardware_systems,dgx,2026-06-24,Senior,Engineer,closed
+nvidia_5f85b1d20b5f3f6a,Cloud Infrastructure,cloud_infra,cloud infrastructure,2026-06-24,Senior,Manager,closed
+nvidia_62c5759bd5c23ad9,Developer Relations,product_process,developer relations,2026-06-24,Senior,Developer,closed
+nvidia_63d85609a6f066c9,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,active
+nvidia_63d85609a6f066c9,Site Reliability,mlops_devops,devops,2026-06-24,Unspecified,Architect,active
+nvidia_66b769717b8f26ab,Silicon Verification,silicon_design,design verification,2026-06-24,Senior,Engineer,closed
+nvidia_67510c1639c65cd0,Deep Learning,research_domains,deep learning,2026-06-24,Senior,Engineer,active
+nvidia_6a522383f616289c,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,closed
+nvidia_6b7089b8a7dd0d1e,Inference and Serving,research_domains,inference,2026-06-24,Unspecified,Engineer,closed
+nvidia_6e6e5c0091d4e5ae,Networking,hardware_systems,networking,2026-06-24,Senior,Architect,closed
+nvidia_7c1f530910a1c5f5,Autonomous Vehicles,research_domains,autonomous vehicles,2026-06-24,Senior,Engineer,active
+nvidia_82d5203a91f54b36,Performance Engineering,hardware_systems,performance,2026-06-24,Unspecified,Engineer,closed
+nvidia_82d5203a91f54b36,Compilers,hardware_systems,compiler,2026-06-24,Unspecified,Engineer,closed
+nvidia_855e9389e56dd1a5,Silicon Verification,silicon_design,formal verification,2026-06-24,Senior,Engineer,closed
+nvidia_89374c15455587d8,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_8bdd78a57cc76a3b,CPU Architecture,silicon_design,cpu,2026-06-24,Junior,Engineer,closed
+nvidia_8dceb542cbd6fc25,Solutions Architecture,product_process,solution architect,2026-06-24,Unspecified,Architect,closed
+nvidia_972d3228e9bf46be,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Engineer,closed
+nvidia_9ae8c9a4d056aee9,Deep Learning,research_domains,deep learning,2026-06-24,Senior,Engineer,closed
+nvidia_9ae8c9a4d056aee9,PyTorch,ml_frameworks,pytorch,2026-06-24,Senior,Engineer,closed
+nvidia_a10d6d94d73432e3,Developer Relations,product_process,developer relations,2026-06-24,Senior,Developer,closed
+nvidia_a1b1b3a9782569b7,Solutions Architecture,product_process,solutions architect,2026-06-24,Unspecified,Architect,closed
+nvidia_a2025c9c36726301,Networking,hardware_systems,networking,2026-06-24,Senior,Manager,closed
+nvidia_a21be0a31ec2d522,Healthcare AI,research_domains,medical imaging,2026-06-24,Principal,Engineer,closed
+nvidia_a3a06d8c920351ef,Cybersecurity,mlops_devops,security,2026-06-24,Unspecified,Architect,closed
+nvidia_a555cdfaf70915b2,Networking,hardware_systems,networking,2026-06-24,Senior,Architect,closed
+nvidia_a7aba380e0c78338,DPU and Offload,hardware_systems,doca,2026-06-24,Director,Director,closed
+nvidia_af8bccdf33841ef2,Compilers,hardware_systems,compiler,2026-06-24,Senior,Engineer,closed
+nvidia_af8bccdf33841ef2,CUDA,hardware_systems,cuda,2026-06-24,Senior,Engineer,closed
+nvidia_af8bccdf33841ef2,Deep Learning,research_domains,dl,2026-06-24,Senior,Engineer,closed
+nvidia_b3938c1dd7a3e1a3,Silicon Verification,silicon_design,verification,2026-06-24,Unspecified,Engineer,closed
+nvidia_b3938c1dd7a3e1a3,Computer Architecture,hardware_systems,asic,2026-06-24,Unspecified,Engineer,closed
+nvidia_b71ba6b246084cd6,Site Reliability,mlops_devops,reliability,2026-06-24,Senior,Architect,active
+nvidia_c0880e270f7c379e,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Manager,closed
+nvidia_c0e350a0e034235f,Kernel and Drivers,hardware_systems,driver,2026-06-24,Senior,Engineer,closed
+nvidia_c0e350a0e034235f,CUDA,hardware_systems,cuda,2026-06-24,Senior,Engineer,closed
+nvidia_c125a7b03b27f513,Generative AI,research_domains,world model,2026-06-24,Senior,Manager,closed
+nvidia_c1a506ba689ad8bd,Developer Relations,product_process,developer relations,2026-06-24,Senior,Manager,closed
+nvidia_c1a506ba689ad8bd,Cybersecurity,mlops_devops,security,2026-06-24,Senior,Manager,closed
+nvidia_c74f35555ba42bc9,SoC Design,silicon_design,chip design,2026-06-24,Senior,Engineer,closed
+nvidia_ca7a3d08e19a41f8,Compilers,hardware_systems,compiler,2026-06-24,Senior,Engineer,closed
+nvidia_cb43d6a3683d301c,Solutions Architecture,product_process,solutions architect,2026-06-24,Senior,Architect,closed
+nvidia_cb43d6a3683d301c,Networking,hardware_systems,networking,2026-06-24,Senior,Architect,closed
+nvidia_ce59d088fda20d02,Analog and Mixed Signal,silicon_design,circuit design,2026-06-24,Senior,Engineer,closed
+nvidia_cf5bb793cc9af31e,Solutions Architecture,product_process,solutions architect,2026-06-24,Senior,Architect,closed
+nvidia_cf5bb793cc9af31e,Networking,hardware_systems,networking,2026-06-24,Senior,Architect,closed
+nvidia_d0c88604f3fe3172,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Principal,Scientist,closed
+nvidia_d40d27b7d599c16f,Agentic AI,research_domains,agentic ai,2026-06-24,Senior,Engineer,closed
+nvidia_d40e6f50b310c35d,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Manager,closed
+nvidia_d4b246abcc018c92,Datacenter Systems,hardware_systems,data center,2026-06-24,Senior,Manager,active
+nvidia_d4b246abcc018c92,Embedded Systems,hardware_systems,firmware,2026-06-24,Senior,Manager,active
+nvidia_d9b154ecb0fc708d,Performance Engineering,hardware_systems,optimization,2026-06-24,Unspecified,Engineer,closed
+nvidia_d9b154ecb0fc708d,Computer Architecture,hardware_systems,rtl,2026-06-24,Unspecified,Engineer,closed
+nvidia_d9e589a45ec23089,CUDA,hardware_systems,cuda,2026-06-24,Senior,Engineer,active
+nvidia_dc67eb722c71a3df,Digital Twin and Simulation,research_domains,omniverse,2026-06-24,Unspecified,Engineer,closed
+nvidia_e04ccb3a768f7ac2,Autonomous Vehicles,research_domains,drive,2026-06-24,Senior,Engineer,closed
+nvidia_e18815ccfa975852,HPC,hardware_systems,hpc,2026-06-24,Senior,Engineer,closed
+nvidia_e2fddc9b8537bbac,Cybersecurity,mlops_devops,security,2026-06-24,Principal,Architect,closed
+nvidia_e3835795f05c9a99,Generative AI,research_domains,world model,2026-06-24,Senior,Manager,closed
+nvidia_eb41e973fd941edd,Networking,hardware_systems,networking,2026-06-24,Unspecified,Researcher,closed
+nvidia_ec9251dd479454e5,Cloud Infrastructure,cloud_infra,cloud,2026-06-24,Senior,Manager,closed
+nvidia_eebe66b78d56aad7,Networking,hardware_systems,networking,2026-06-24,Senior,Engineer,closed
+nvidia_ef85c5174ac09ca6,Networking,hardware_systems,network,2026-06-24,Senior,Architect,closed
+nvidia_ef85c5174ac09ca6,HPC,hardware_systems,hpc,2026-06-24,Senior,Architect,closed
+nvidia_efd4b1ff3cbbabad,Datacenter Systems,hardware_systems,data center,2026-06-24,Unspecified,Specialist,closed
+nvidia_f19c774a06dfcb3a,CPU Architecture,silicon_design,cpu,2026-06-24,Principal,Architect,closed
+nvidia_f3db89f9f7504b36,TensorRT,ml_frameworks,tensorrt,2026-06-24,Unspecified,Engineer,closed
+nvidia_f5d3dabba0effdfa,Cybersecurity,mlops_devops,security,2026-06-24,Senior,Architect,closed
+nvidia_f66fa78b86264250,Inference and Serving,research_domains,inference,2026-06-24,Senior,Engineer,closed
+nvidia_043ac95484dd9ca7,Networking,hardware_systems,network,2026-07-01,Senior,Engineer,closed
+nvidia_054c459fcd259da1,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Senior,Engineer,closed
+nvidia_067b6d2b5eaf8c02,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-01,Senior,Engineer,active
+nvidia_0af6ec3dc13eadab,Networking,hardware_systems,networking,2026-07-01,Senior,Engineer,closed
+nvidia_0e9ac518e2c80787,Developer Relations,product_process,developer relations,2026-07-01,Unspecified,Manager,closed
+nvidia_0e9ac518e2c80787,Digital Twin and Simulation,research_domains,omniverse,2026-07-01,Unspecified,Manager,closed
+nvidia_0fd02db7c7948e94,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,active
+nvidia_12557a6adc2ac251,Deep Learning,research_domains,deep learning,2026-07-01,Unspecified,Engineer,closed
+nvidia_12557a6adc2ac251,Compilers,hardware_systems,compiler,2026-07-01,Unspecified,Engineer,closed
+nvidia_139170603ddcc347,Analog and Mixed Signal,silicon_design,mixed signal,2026-07-01,Senior,Engineer,closed
+nvidia_177e144189342426,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_177e144189342426,Business Development,product_process,gtm,2026-07-01,Senior,Architect,closed
+nvidia_1bad73208fb1534d,Digital Twin and Simulation,research_domains,simulation,2026-07-01,Unspecified,Engineer,closed
+nvidia_1bad73208fb1534d,Robotics,research_domains,robotics,2026-07-01,Unspecified,Engineer,closed
+nvidia_23bfc9cfb5c925ee,Silicon Verification,silicon_design,design verification,2026-07-01,Senior,Engineer,closed
+nvidia_2a1d7700c90c8358,Silicon Verification,silicon_design,design verification,2026-07-01,Senior,Engineer,closed
+nvidia_2a1d7700c90c8358,Analog and Mixed Signal,silicon_design,mixed signal,2026-07-01,Senior,Engineer,closed
+nvidia_37a584a7b6f97a61,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-01,Principal,Engineer,active
+nvidia_392eead4f5f22d6e,Analog and Mixed Signal,silicon_design,circuit design,2026-07-01,Senior,Engineer,closed
+nvidia_3f9328f6c2b66b05,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-01,Senior,Engineer,closed
+nvidia_49d1d93476025a19,Networking,hardware_systems,networking,2026-07-01,Senior,Engineer,closed
+nvidia_4c068701e5b31043,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Director,Director,closed
+nvidia_5263713397ec3acb,DPU and Offload,hardware_systems,doca,2026-07-01,Senior,Engineer,closed
+nvidia_59496eed90cfa8e1,SoC Design,silicon_design,soc,2026-07-01,Unspecified,Architect,closed
+nvidia_5f0513a2d7d785b4,Silicon Verification,silicon_design,formal verification,2026-07-01,Unspecified,Engineer,closed
+nvidia_60b772d877028caa,Digital Twin and Simulation,research_domains,simulation,2026-07-01,Unspecified,Engineer,closed
+nvidia_6365d066c08047f1,Digital Twin and Simulation,research_domains,simulation,2026-07-01,Senior,Engineer,closed
+nvidia_6365d066c08047f1,Networking,hardware_systems,network,2026-07-01,Senior,Engineer,closed
+nvidia_6365d066c08047f1,Test Automation,mlops_devops,qa,2026-07-01,Senior,Engineer,closed
+nvidia_65458dd4452d53b0,HPC,hardware_systems,hpc,2026-07-01,Unspecified,Engineer,closed
+nvidia_72e1ff611a59a7e4,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_748c1134e25fc2dd,Embedded Systems,hardware_systems,firmware,2026-07-01,Principal,Engineer,active
+nvidia_748c1134e25fc2dd,Cloud Infrastructure,cloud_infra,csp,2026-07-01,Principal,Engineer,active
+nvidia_75a5065936521299,SoC Design,silicon_design,soc,2026-07-01,Senior,Architect,closed
+nvidia_7b96dd48bf9fc3ef,Silicon Verification,silicon_design,verification,2026-07-01,Senior,Engineer,active
+nvidia_809b1c2e45395194,Computer Architecture,hardware_systems,asic,2026-07-01,Senior,Engineer,closed
+nvidia_874d0b5e2ffe8d17,Performance Engineering,hardware_systems,performance,2026-07-01,Principal,Engineer,active
+nvidia_874d0b5e2ffe8d17,Cloud Infrastructure,cloud_infra,csp,2026-07-01,Principal,Engineer,active
+nvidia_a4750404c2fa5a37,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_a4750404c2fa5a37,LLMs,research_domains,generative ai,2026-07-01,Senior,Architect,closed
+nvidia_a8448cf1da904928,Kubernetes,cloud_infra,kubernetes,2026-07-01,Unspecified,Engineer,closed
+nvidia_a8448cf1da904928,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Unspecified,Engineer,closed
+nvidia_a8448cf1da904928,Datacenter Systems,hardware_systems,dgx,2026-07-01,Unspecified,Engineer,closed
+nvidia_ad1e4ea37d86580b,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_b05e4f88cf27abbf,Cloud Infrastructure,cloud_infra,csp,2026-07-01,Principal,Engineer,active
+nvidia_b2e2d8b63297c122,Performance Engineering,hardware_systems,performance,2026-07-01,Senior,Engineer,closed
+nvidia_b2e2d8b63297c122,Kubernetes,cloud_infra,kubernetes,2026-07-01,Senior,Engineer,closed
+nvidia_b2e2d8b63297c122,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Senior,Engineer,closed
+nvidia_b2e2d8b63297c122,Datacenter Systems,hardware_systems,dgx,2026-07-01,Senior,Engineer,closed
+nvidia_b708e0c3195368d1,Deep Learning,research_domains,deep learning,2026-07-01,Senior,Engineer,closed
+nvidia_b74ec5758491bbb3,Site Reliability,mlops_devops,devops,2026-07-01,Unspecified,Engineer,closed
+nvidia_b92123bbf60ff6fd,Silicon Verification,silicon_design,design verification,2026-07-01,Unspecified,Engineer,closed
+nvidia_beeb1344d3c0148d,SoC Design,silicon_design,asic design,2026-07-01,Senior,Engineer,closed
+nvidia_beeb1344d3c0148d,Agentic AI,research_domains,agentic ai,2026-07-01,Senior,Engineer,closed
+nvidia_c210736cf63c0861,HPC,hardware_systems,hpc,2026-07-01,Senior,Engineer,closed
+nvidia_c210736cf63c0861,Datacenter Systems,hardware_systems,dgx,2026-07-01,Senior,Engineer,closed
+nvidia_c2d8e5aed3ab1682,Silicon Verification,silicon_design,verification,2026-07-01,Unspecified,Engineer,closed
+nvidia_c2d8e5aed3ab1682,SoC Design,silicon_design,soc,2026-07-01,Unspecified,Engineer,closed
+nvidia_c4e9b2372c554009,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-01,Senior,Engineer,closed
+nvidia_c4e9b2372c554009,Deep Learning,research_domains,deep learning,2026-07-01,Senior,Engineer,closed
+nvidia_c60201f80daf2054,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Senior,Engineer,active
+nvidia_c7a710f39f34a738,Kubernetes,cloud_infra,kubernetes,2026-07-01,Senior,Engineer,closed
+nvidia_c7a710f39f34a738,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Senior,Engineer,closed
+nvidia_c7a710f39f34a738,Datacenter Systems,hardware_systems,dgx,2026-07-01,Senior,Engineer,closed
+nvidia_cebf1bbb170ab226,Kernel and Drivers,hardware_systems,driver,2026-07-01,Senior,Engineer,active
+nvidia_cebf1bbb170ab226,CUDA,hardware_systems,cuda,2026-07-01,Senior,Engineer,active
+nvidia_d20b2235098b9e91,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_d20b2235098b9e91,HPC,hardware_systems,hpc,2026-07-01,Senior,Architect,closed
+nvidia_dd75921f52970f89,Solutions Architecture,product_process,solutions architect,2026-07-01,Unspecified,Architect,closed
+nvidia_dd75921f52970f89,Agentic AI,research_domains,agentic ai,2026-07-01,Unspecified,Architect,closed
+nvidia_de7a4717afe205a2,Solutions Architecture,product_process,solutions architect,2026-07-01,Unspecified,Architect,active
+nvidia_de7a4717afe205a2,Datacenter Systems,hardware_systems,data center,2026-07-01,Unspecified,Architect,active
+nvidia_dfee81a82fa5f80d,Deep Learning,research_domains,deep learning,2026-07-01,Senior,Architect,active
+nvidia_dfee81a82fa5f80d,HPC,hardware_systems,hpc,2026-07-01,Senior,Architect,active
+nvidia_e5625c5b148c0e28,Performance Engineering,hardware_systems,performance,2026-07-01,Senior,Engineer,closed
+nvidia_e5625c5b148c0e28,Kubernetes,cloud_infra,kubernetes,2026-07-01,Senior,Engineer,closed
+nvidia_e5625c5b148c0e28,Cloud Infrastructure,cloud_infra,cloud,2026-07-01,Senior,Engineer,closed
+nvidia_e5625c5b148c0e28,Datacenter Systems,hardware_systems,dgx,2026-07-01,Senior,Engineer,closed
+nvidia_eb31948c315edbb4,Solutions Architecture,product_process,solutions architect,2026-07-01,Senior,Architect,closed
+nvidia_eb31948c315edbb4,Model Monitoring,mlops_devops,observability,2026-07-01,Senior,Architect,closed
+nvidia_ee41a73b09ea9964,SoC Design,silicon_design,soc,2026-07-01,Unspecified,Engineer,closed
+nvidia_eec2ebfbddd54712,Performance Engineering,hardware_systems,performance,2026-07-01,Senior,Engineer,closed
+nvidia_eefeaba6a28d8c93,Developer Relations,product_process,developer relations,2026-07-01,Unspecified,Manager,closed
+nvidia_efebef5d6342f957,Python,languages,python,2026-07-01,Senior,Engineer,active
+nvidia_f5335f6a9f66f732,Kernel and Drivers,hardware_systems,driver,2026-07-01,Senior,Engineer,active
+nvidia_f5335f6a9f66f732,CUDA,hardware_systems,cuda,2026-07-01,Senior,Engineer,active
+nvidia_f679a6d591e5911e,Deep Learning,research_domains,deep learning,2026-07-01,Unspecified,Architect,closed
+nvidia_f679a6d591e5911e,Performance Engineering,hardware_systems,performance,2026-07-01,Unspecified,Architect,closed
+nvidia_fc38198ba078f2e6,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-01,Unspecified,Architect,closed
+nvidia_fc38198ba078f2e6,Agentic AI,research_domains,agents,2026-07-01,Unspecified,Architect,closed
+nvidia_fc7ce3c11f95e15b,Physical Design,silicon_design,physical design,2026-07-01,Unspecified,Engineer,closed
+nvidia_091a727935a22784,Reinforcement Learning,research_domains,rl,2026-07-08,Senior,Engineer,closed
+nvidia_0ec82116455de406,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-08,Senior,Engineer,closed
+nvidia_120f576ca26be400,Developer Relations,product_process,developer relations,2026-07-08,Unspecified,Manager,closed
+nvidia_120f576ca26be400,Performance Engineering,hardware_systems,optimization,2026-07-08,Unspecified,Manager,closed
+nvidia_1251956e9b40bda1,Cybersecurity,mlops_devops,security,2026-07-08,Senior,Architect,closed
+nvidia_1a630da2c9f58b04,Deep Learning,research_domains,deep learning,2026-07-08,Senior,Architect,closed
+nvidia_1c904ca8084de4f5,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_3334ba390e69332d,Silicon Verification,silicon_design,verification,2026-07-08,Unspecified,Engineer,closed
+nvidia_3334ba390e69332d,Networking,hardware_systems,networking,2026-07-08,Unspecified,Engineer,closed
+nvidia_36a6b5322476d3f9,Solutions Architecture,product_process,solutions architect,2026-07-08,Unspecified,Architect,closed
+nvidia_36a6b5322476d3f9,Datacenter Systems,hardware_systems,data center,2026-07-08,Unspecified,Architect,closed
+nvidia_3732b86c340e5617,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_3732b86c340e5617,Digital Twin and Simulation,research_domains,physical ai,2026-07-08,Senior,Architect,closed
+nvidia_37edfa2c6c3daabf,Analog and Mixed Signal,silicon_design,circuit design,2026-07-08,Senior,Engineer,closed
+nvidia_3df606da82af4c54,Cybersecurity,mlops_devops,security,2026-07-08,Unspecified,Researcher,closed
+nvidia_4174e5878f345b73,Agentic AI,research_domains,agentic ai,2026-07-08,Senior,Engineer,closed
+nvidia_4174e5878f345b73,Machine Learning,research_domains,ml,2026-07-08,Senior,Engineer,closed
+nvidia_439f0c29bb1d1bf1,Agentic AI,research_domains,agentic,2026-07-08,Senior,Manager,closed
+nvidia_46d5b85577f62fca,Technical Leadership,product_process,tech lead,2026-07-08,Senior,Lead,closed
+nvidia_46d5b85577f62fca,Networking,hardware_systems,network,2026-07-08,Senior,Lead,closed
+nvidia_5490ed47ededc9eb,Storage Systems,hardware_systems,storage,2026-07-08,Senior,Engineer,closed
+nvidia_57d36d1cb63302ce,Networking,hardware_systems,networking,2026-07-08,Senior,Architect,closed
+nvidia_5b50cdd5ab46fb4a,Solutions Architecture,product_process,solutions architect,2026-07-08,Unspecified,Architect,active
+nvidia_5c09c5c9fc884fe1,Solutions Architecture,product_process,solutions architect,2026-07-08,Unspecified,Architect,closed
+nvidia_5d0f3ffe3e7b1c53,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Senior,Engineer,closed
+nvidia_644caf336696aea8,Developer Relations,product_process,developer relations,2026-07-08,Unspecified,Manager,closed
+nvidia_6b6cd6d993a99fe6,Solutions Architecture,product_process,solutions architecture,2026-07-08,Unspecified,Manager,closed
+nvidia_741154e2331ee84b,SoC Design,silicon_design,chip design,2026-07-08,Unspecified,Engineer,closed
+nvidia_747593309cd9848b,Silicon Verification,silicon_design,verification,2026-07-08,Senior,Engineer,closed
+nvidia_7648c73e54cdc443,Agentic AI,research_domains,agents,2026-07-08,Senior,Engineer,closed
+nvidia_78fca5f64181c293,Developer Relations,product_process,developer relations,2026-07-08,Unspecified,Manager,closed
+nvidia_82285701098ac537,Site Reliability,mlops_devops,devops,2026-07-08,Unspecified,Engineer,closed
+nvidia_85fa45ee6d3dd3c8,Deep Learning,research_domains,deep learning,2026-07-08,Senior,Engineer,closed
+nvidia_85fa45ee6d3dd3c8,PyTorch,ml_frameworks,pytorch,2026-07-08,Senior,Engineer,closed
+nvidia_898c394c41f50a0e,Silicon Verification,silicon_design,verification,2026-07-08,Senior,Engineer,active
+nvidia_8cdd857c71a05cdf,Graphics and Rendering,research_domains,graphics,2026-07-08,Senior,Engineer,closed
+nvidia_8da110c598a890b9,Solutions Architecture,product_process,solutions architect,2026-07-08,Unspecified,Architect,closed
+nvidia_8da110c598a890b9,Datacenter Systems,hardware_systems,data center,2026-07-08,Unspecified,Architect,closed
+nvidia_952fe63ab98f4b19,Solutions Architecture,product_process,solutions architect,2026-07-08,Unspecified,Architect,closed
+nvidia_952fe63ab98f4b19,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Unspecified,Architect,closed
+nvidia_9600cb4e5451087f,Networking,hardware_systems,networking,2026-07-08,Director,Director,closed
+nvidia_9f33b2dadd3e0785,SoC Design,silicon_design,soc,2026-07-08,Junior,Engineer,active
+nvidia_9f533d35e498822f,CUDA,hardware_systems,cuda,2026-07-08,Unspecified,Engineer,closed
+nvidia_a5bd8627158b41f4,Networking,hardware_systems,networking,2026-07-08,Principal,Engineer,closed
+nvidia_a603edf9a10a280b,Silicon Verification,silicon_design,verification,2026-07-08,Senior,Engineer,active
+nvidia_a603edf9a10a280b,SoC Design,silicon_design,soc,2026-07-08,Senior,Engineer,active
+nvidia_a615cd2dc1b25bad,Networking,hardware_systems,network,2026-07-08,Unspecified,Architect,closed
+nvidia_a799c28b462069b3,Developer Relations,product_process,developer relations,2026-07-08,Senior,Manager,closed
+nvidia_a8927bae2fdc9d16,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_a8927bae2fdc9d16,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Senior,Architect,closed
+nvidia_b4f34c86d37feb73,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_beed9081d945324d,Silicon Verification,silicon_design,verification,2026-07-08,Unspecified,Engineer,closed
+nvidia_beed9081d945324d,Computer Architecture,hardware_systems,asic,2026-07-08,Unspecified,Engineer,closed
+nvidia_c4b80da180cb5e72,Performance Engineering,hardware_systems,optimization,2026-07-08,Senior,Scientist,active
+nvidia_c4b80da180cb5e72,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Senior,Scientist,active
+nvidia_c6d8834fb3b60675,JAX,ml_frameworks,jax,2026-07-08,Senior,Manager,closed
+nvidia_c78044236045c564,Silicon Verification,silicon_design,verification,2026-07-08,Senior,Engineer,closed
+nvidia_cc7955a0175310a1,Datacenter Systems,hardware_systems,datacenter,2026-07-08,Senior,Manager,closed
+nvidia_cea2391c0e37082f,Silicon Verification,silicon_design,verification,2026-07-08,Unspecified,Architect,closed
+nvidia_cea2391c0e37082f,CPU Architecture,silicon_design,cpu,2026-07-08,Unspecified,Architect,closed
+nvidia_d0f5bdc3e725e82d,Storage Systems,hardware_systems,storage,2026-07-08,Senior,Engineer,active
+nvidia_ebcf822cddd99a3d,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Senior,Engineer,closed
+nvidia_ebcf822cddd99a3d,HPC,hardware_systems,hpc,2026-07-08,Senior,Engineer,closed
+nvidia_ebcf822cddd99a3d,Datacenter Systems,hardware_systems,dgx,2026-07-08,Senior,Engineer,closed
+nvidia_ed28eac2e470c4a8,Physical Design,silicon_design,physical design,2026-07-08,Senior,Engineer,closed
+nvidia_ed6ac30f0ff5d83b,SoC Design,silicon_design,asic design,2026-07-08,Unspecified,Engineer,closed
+nvidia_ee9f36e44882a828,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_f00a2699a0ef430a,Design for Test,silicon_design,atpg,2026-07-08,Unspecified,Engineer,closed
+nvidia_f3e426233bb1e8ed,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_f3e426233bb1e8ed,Cloud Infrastructure,cloud_infra,cloud,2026-07-08,Senior,Architect,closed
+nvidia_f5c2a4f61ec7c1f2,Silicon Verification,silicon_design,verification,2026-07-08,Senior,Engineer,closed
+nvidia_f5c2a4f61ec7c1f2,SoC Design,silicon_design,soc,2026-07-08,Senior,Engineer,closed
+nvidia_f713777f6e33b1a8,SoC Design,silicon_design,asic design,2026-07-08,Unspecified,Engineer,closed
+nvidia_f8105cde743bdc77,Performance Engineering,hardware_systems,profiling,2026-07-08,Unspecified,Engineer,closed
+nvidia_f8d6f064a9f40037,Site Reliability,mlops_devops,reliability,2026-07-08,Senior,Engineer,closed
+nvidia_f94f4d2cce227c98,Solutions Architecture,product_process,solutions architect,2026-07-08,Senior,Architect,closed
+nvidia_f9cbde7fb72c96ea,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-08,Senior,Engineer,closed
+nvidia_fdc65ac886726b66,Cybersecurity,mlops_devops,security,2026-07-08,Senior,Manager,closed
+nvidia_02cd3a29224f0dcb,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_04c35fb9e7d796e2,Embedded Systems,hardware_systems,firmware,2026-07-29,Unspecified,Architect,closed
+nvidia_04c35fb9e7d796e2,Networking,hardware_systems,network,2026-07-29,Unspecified,Architect,closed
+nvidia_04c76f311c71f215,Compilers,hardware_systems,compiler,2026-07-29,Director,Director,closed
+nvidia_05035f877213a728,Graphics and Rendering,research_domains,graphics,2026-07-29,Unspecified,Engineer,closed
+nvidia_05819438ace5e9dc,Networking,hardware_systems,networking,2026-07-29,Senior,Architect,closed
+nvidia_0620aa5fffaaddf7,Performance Engineering,hardware_systems,performance,2026-07-29,Senior,Engineer,closed
+nvidia_0a50a34ee6f61da7,Physical Design,silicon_design,physical design,2026-07-29,Junior,Engineer,closed
+nvidia_0aa9b70a709dcc12,Deep Learning,research_domains,deep learning,2026-07-29,Principal,Engineer,closed
+nvidia_110d861cefaeb640,Compilers,hardware_systems,compiler,2026-07-29,Junior,Engineer,closed
+nvidia_114b7bc211df61e7,Performance Engineering,hardware_systems,performance,2026-07-29,Distinguished,Engineer,closed
+nvidia_14ccce8ccc4cdf12,HPC,hardware_systems,hpc,2026-07-29,Senior,Engineer,active
+nvidia_154d8d516e2b4086,AI Safety,research_domains,ai safety,2026-07-29,Senior,Manager,closed
+nvidia_154d8d516e2b4086,Cybersecurity,mlops_devops,security,2026-07-29,Senior,Manager,closed
+nvidia_155ad962d01f311e,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_155ad962d01f311e,Networking,hardware_systems,networking,2026-07-29,Senior,Architect,closed
+nvidia_16cf72a84d135af6,Agentic AI,research_domains,agents,2026-07-29,Principal,Engineer,closed
+nvidia_17f7c66695cae5bf,Performance Engineering,hardware_systems,profiling,2026-07-29,Senior,Engineer,active
+nvidia_189c587d1c6746a1,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_189c587d1c6746a1,Networking,hardware_systems,networking,2026-07-29,Senior,Architect,closed
+nvidia_1cc723310a1dc111,Test Automation,mlops_devops,qa,2026-07-29,Senior,Engineer,closed
+nvidia_1feab31fa46dbb69,Networking,hardware_systems,networking,2026-07-29,Senior,Engineer,closed
+nvidia_20079c6b7c6344de,Machine Learning,research_domains,machine learning,2026-07-29,Unspecified,Engineer,closed
+nvidia_20079c6b7c6344de,AI Safety,research_domains,ai safety,2026-07-29,Unspecified,Engineer,closed
+nvidia_207f0319d13a3412,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_207f0319d13a3412,Design for Test,silicon_design,dft,2026-07-29,Unspecified,Engineer,closed
+nvidia_217418750e17d2ff,Design Automation,silicon_design,design automation,2026-07-29,Unspecified,Engineer,closed
+nvidia_234936396b475903,Silicon Verification,silicon_design,verification,2026-07-29,Senior,Engineer,closed
+nvidia_234936396b475903,DPU and Offload,hardware_systems,doca,2026-07-29,Senior,Engineer,closed
+nvidia_24022472e017cd0f,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_242b43d9a5182bd4,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,closed
+nvidia_242b43d9a5182bd4,Agentic AI,research_domains,agentic,2026-07-29,Senior,Engineer,closed
+nvidia_275980897361c845,Cybersecurity,mlops_devops,cybersecurity,2026-07-29,Senior,Engineer,closed
+nvidia_29a61d83d17fffd8,Performance Engineering,hardware_systems,optimization,2026-07-29,Senior,Engineer,closed
+nvidia_29a61d83d17fffd8,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,closed
+nvidia_2a0a9166321dc7a8,AI Safety,research_domains,ai safety,2026-07-29,Unspecified,Engineer,closed
+nvidia_2a0a9166321dc7a8,Cybersecurity,mlops_devops,security,2026-07-29,Unspecified,Engineer,closed
+nvidia_2a0a9166321dc7a8,Machine Learning,research_domains,ml,2026-07-29,Unspecified,Engineer,closed
+nvidia_2a4ff9bb57d83efe,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_2a4ff9bb57d83efe,LLMs,research_domains,genai,2026-07-29,Unspecified,Architect,closed
+nvidia_2b4dbe76d7c8bb55,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_2b4dbe76d7c8bb55,SoC Design,silicon_design,soc,2026-07-29,Unspecified,Engineer,closed
+nvidia_2bbd1f2591db5867,LLMs,research_domains,genai,2026-07-29,Senior,Manager,closed
+nvidia_2c117d8bbe45ce78,Compilers,hardware_systems,compilers,2026-07-29,Unspecified,Engineer,closed
+nvidia_2c117d8bbe45ce78,Site Reliability,mlops_devops,devops,2026-07-29,Unspecified,Engineer,closed
+nvidia_3115816b98880a58,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Administrator,closed
+nvidia_3115816b98880a58,HPC,hardware_systems,hpc,2026-07-29,Senior,Administrator,closed
+nvidia_31afbe4297a2a8bc,Agentic AI,research_domains,agents,2026-07-29,Senior,Engineer,closed
+nvidia_32eaf4d677831e7e,SoC Design,silicon_design,chip design,2026-07-29,Senior,Engineer,closed
+nvidia_32eaf4d677831e7e,Site Reliability,mlops_devops,devops,2026-07-29,Senior,Engineer,closed
+nvidia_357a1be08ef7ed26,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_35df8c953e3722da,Rust,languages,rust,2026-07-29,Senior,Engineer,active
+nvidia_35df8c953e3722da,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,active
+nvidia_366dd1dcbb96ba3d,Performance Engineering,hardware_systems,performance,2026-07-29,Senior,Engineer,closed
+nvidia_366dd1dcbb96ba3d,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_366dd1dcbb96ba3d,CPU Architecture,silicon_design,cpu,2026-07-29,Senior,Engineer,closed
+nvidia_375a76dd7309816c,Embedded Systems,hardware_systems,firmware,2026-07-29,Senior,Engineer,closed
+nvidia_386feba8805efc85,Networking,hardware_systems,networking,2026-07-29,Senior,Engineer,closed
+nvidia_390c0e41e17b0a2b,Solutions Architecture,product_process,solution architect,2026-07-29,Unspecified,Architect,closed
+nvidia_39c3ab12193064a0,Agentic AI,research_domains,agentic ai,2026-07-29,Unspecified,Engineer,closed
+nvidia_39c3ab12193064a0,Speech and Audio,research_domains,speech,2026-07-29,Unspecified,Engineer,closed
+nvidia_3d01723e3e72eb70,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Principal,Engineer,closed
+nvidia_3e9ff66bd79f6e4d,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-29,Senior,Engineer,active
+nvidia_40760664ab9e03b8,Networking,hardware_systems,networking,2026-07-29,Senior,Engineer,closed
+nvidia_41d2e7346dd55110,HPC,hardware_systems,hpc,2026-07-29,Unspecified,Engineer,closed
+nvidia_436b25a24ef814cd,Datacenter Systems,hardware_systems,datacenter,2026-07-29,Senior,Engineer,closed
+nvidia_496b3eca5cfd39f6,Robotics,research_domains,robotics,2026-07-29,Senior,Manager,closed
+nvidia_4c4f233c956b8f17,SoC Design,silicon_design,chip design,2026-07-29,Principal,Engineer,closed
+nvidia_4c4f233c956b8f17,Computer Architecture,hardware_systems,asic,2026-07-29,Principal,Engineer,closed
+nvidia_4cc807fffabcf3cd,Silicon Verification,silicon_design,verification,2026-07-29,Senior,Engineer,closed
+nvidia_4cc807fffabcf3cd,SoC Design,silicon_design,chip design,2026-07-29,Senior,Engineer,closed
+nvidia_4ce36fa8e08b2d82,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_4d4d0eb9ce1c06c2,Site Reliability,mlops_devops,site reliability,2026-07-29,Senior,Engineer,closed
+nvidia_4e754d1d43c76147,HPC,hardware_systems,hpc,2026-07-29,Unspecified,Developer,closed
+nvidia_4e758afef468b749,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_4e758afef468b749,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,closed
+nvidia_4e758afef468b749,Deep Learning,research_domains,dl,2026-07-29,Senior,Engineer,closed
+nvidia_4f34dce7e7ac2d72,Networking,hardware_systems,networking,2026-07-29,Director,Director,closed
+nvidia_4f34dce7e7ac2d72,Agentic AI,research_domains,agentic,2026-07-29,Director,Director,closed
+nvidia_5259021362b54a6e,Healthcare AI,research_domains,biopharma,2026-07-29,Unspecified,Manager,closed
+nvidia_56195b8332c65fd3,SoC Design,silicon_design,asic design,2026-07-29,Senior,Engineer,closed
+nvidia_591d68c2e72bd5b9,Robotics,research_domains,robotics,2026-07-29,Unspecified,Engineer,closed
+nvidia_59aaf5599dc57577,Design for Test,silicon_design,dft,2026-07-29,Senior,Engineer,closed
+nvidia_5a93d28d388fd033,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_5a93d28d388fd033,HPC,hardware_systems,hpc,2026-07-29,Senior,Engineer,closed
+nvidia_5a93d28d388fd033,CPU Architecture,silicon_design,cpu,2026-07-29,Senior,Engineer,closed
+nvidia_5ba8f934c956ce68,Performance Engineering,hardware_systems,performance,2026-07-29,Unspecified,Engineer,closed
+nvidia_5ba8f934c956ce68,HPC,hardware_systems,hpc,2026-07-29,Unspecified,Engineer,closed
+nvidia_5bca4f226676e053,Robotics,research_domains,robotics,2026-07-29,Senior,Engineer,closed
+nvidia_5dd9a32ed5314ce3,Silicon Verification,silicon_design,verification,2026-07-29,Senior,Engineer,closed
+nvidia_5ea265fb655346ad,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_5ea265fb655346ad,Agentic AI,research_domains,agentic ai,2026-07-29,Senior,Architect,closed
+nvidia_5ec4515bc40a3021,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Engineer,active
+nvidia_5ec4515bc40a3021,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,active
+nvidia_5f6a13276b04d0f8,Deep Learning,research_domains,deep learning,2026-07-29,Unspecified,Architect,closed
+nvidia_5f6a13276b04d0f8,Performance Engineering,hardware_systems,performance,2026-07-29,Unspecified,Architect,closed
+nvidia_5f6a13276b04d0f8,Kernel and Drivers,hardware_systems,kernel,2026-07-29,Unspecified,Architect,closed
+nvidia_5f74767b935cbfac,Developer Relations,product_process,developer relations,2026-07-29,Unspecified,Manager,closed
+nvidia_60c1e81e4ef1306b,Developer Relations,product_process,developer relations,2026-07-29,Principal,Manager,closed
+nvidia_6108e3f915ced157,Datacenter Systems,hardware_systems,datacenter,2026-07-29,Senior,Manager,closed
+nvidia_610ab0593122a68c,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,active
+nvidia_610ab0593122a68c,C++,languages,c++,2026-07-29,Senior,Engineer,active
+nvidia_636226a5c3c268fa,Performance Engineering,hardware_systems,optimization,2026-07-29,Senior,Engineer,closed
+nvidia_636226a5c3c268fa,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_64a8fb3fce3f2429,Site Reliability,mlops_devops,devops,2026-07-29,Senior,Engineer,closed
+nvidia_66059e26042483cf,Solutions Architecture,product_process,solution architect,2026-07-29,Intern,Manager,closed
+nvidia_675349901e1dcc1a,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_675349901e1dcc1a,Networking,hardware_systems,networking,2026-07-29,Senior,Architect,closed
+nvidia_691114600d9ccd10,Site Reliability,mlops_devops,devops,2026-07-29,Senior,Engineer,closed
+nvidia_6925dae63478dcb5,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_6b381abcd48ec2b5,Cybersecurity,mlops_devops,cybersecurity,2026-07-29,Unspecified,Reviewer,closed
+nvidia_6b969a08aaa308df,SoC Design,silicon_design,soc,2026-07-29,Senior,Architect,closed
+nvidia_6d4c3b3b0c7f697f,Machine Learning,research_domains,machine learning,2026-07-29,Senior,Engineer,closed
+nvidia_6d4c3b3b0c7f697f,Graphics and Rendering,research_domains,graphics,2026-07-29,Senior,Engineer,closed
+nvidia_6d99a6c87c177ebd,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_6d99a6c87c177ebd,Digital Twin and Simulation,research_domains,physical ai,2026-07-29,Unspecified,Architect,closed
+nvidia_6de8007562fb43cb,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_6de8007562fb43cb,Datacenter Systems,hardware_systems,rack scale,2026-07-29,Unspecified,Architect,closed
+nvidia_6e85f8ee142088f0,Autonomous Vehicles,research_domains,drive,2026-07-29,Senior,Engineer,closed
+nvidia_71674a6c154ef313,Signal and Power Integrity,silicon_design,power integrity,2026-07-29,Senior,Engineer,closed
+nvidia_7183aefa5842a4e3,Networking,hardware_systems,network,2026-07-29,Senior,Engineer,active
+nvidia_7183aefa5842a4e3,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,active
+nvidia_7183aefa5842a4e3,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,active
+nvidia_74a2d9b1d09b1c4f,AI Safety,research_domains,ai safety,2026-07-29,Distinguished,Engineer,closed
+nvidia_74a2d9b1d09b1c4f,Cybersecurity,mlops_devops,security,2026-07-29,Distinguished,Engineer,closed
+nvidia_75007d6daffe4d4f,Embedded Systems,hardware_systems,firmware,2026-07-29,Unspecified,Engineer,closed
+nvidia_757e761d3e2617ef,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Scientist,closed
+nvidia_757e761d3e2617ef,Agentic AI,research_domains,agentic,2026-07-29,Senior,Scientist,closed
+nvidia_757e761d3e2617ef,Reinforcement Learning,research_domains,rl,2026-07-29,Senior,Scientist,closed
+nvidia_758ec8fcb822ec28,Physical Design,silicon_design,physical design,2026-07-29,Unspecified,Engineer,closed
+nvidia_7674f422e40b2a08,GPU Computing,hardware_systems,accelerated computing,2026-07-29,Unspecified,Manager,closed
+nvidia_7d1c17040be1a372,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Architect,closed
+nvidia_7e9441ddbb7422a0,Agentic AI,research_domains,agentic ai,2026-07-29,Senior,Engineer,closed
+nvidia_7fef35737cec4f73,Deep Learning,research_domains,deep learning,2026-07-29,Unspecified,Engineer,closed
+nvidia_7fef35737cec4f73,Compilers,hardware_systems,compiler,2026-07-29,Unspecified,Engineer,closed
+nvidia_7fef35737cec4f73,CUDA,hardware_systems,cuda,2026-07-29,Unspecified,Engineer,closed
+nvidia_800b19a4f42ed147,Networking,hardware_systems,network,2026-07-29,Unspecified,Architect,closed
+nvidia_83529cdce38364c3,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_83529cdce38364c3,Networking,hardware_systems,network,2026-07-29,Unspecified,Engineer,closed
+nvidia_84c3bab722b55703,Signal and Power Integrity,silicon_design,packaging,2026-07-29,Unspecified,Engineer,closed
+nvidia_85e83d9fdc22cc88,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_85e83d9fdc22cc88,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_8783da92f566f992,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Unspecified,Manager,closed
+nvidia_89076c52f9597bdb,Triton Inference Server,ml_frameworks,triton inference server,2026-07-29,Junior,Engineer,closed
+nvidia_8b6d881bf74143d0,Cybersecurity,mlops_devops,security,2026-07-29,Unspecified,Engineer,active
+nvidia_8e2c7107772c60ed,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Manager,closed
+nvidia_8fba4f40db2b07a6,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,closed
+nvidia_90315170c04eb17d,SoC Design,silicon_design,asic design,2026-07-29,Senior,Engineer,closed
+nvidia_905c8fd863b44f44,Machine Learning,research_domains,machine learning,2026-07-29,Senior,Engineer,closed
+nvidia_905c8fd863b44f44,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_9356fc6af834d0a2,Performance Engineering,hardware_systems,benchmarking,2026-07-29,Unspecified,Engineer,closed
+nvidia_9356fc6af834d0a2,Digital Twin and Simulation,research_domains,simulation,2026-07-29,Unspecified,Engineer,closed
+nvidia_9356fc6af834d0a2,Robotics,research_domains,robotics,2026-07-29,Unspecified,Engineer,closed
+nvidia_9461f5e9600e254c,Agentic AI,research_domains,agentic ai,2026-07-29,Unspecified,Lead,closed
+nvidia_950868fade96e4bf,Physical Design,silicon_design,physical design,2026-07-29,Senior,Engineer,closed
+nvidia_96bb8dcc7134510a,Physical Design,silicon_design,physical design,2026-07-29,Senior,Engineer,closed
+nvidia_96bb8dcc7134510a,Computer Architecture,hardware_systems,asic,2026-07-29,Senior,Engineer,closed
+nvidia_9c19ed48658ac36f,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,closed
+nvidia_9da3676a6631d29b,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_9da3676a6631d29b,LLMs,research_domains,generative ai,2026-07-29,Senior,Architect,closed
+nvidia_a41506ff933ed728,Networking,hardware_systems,networking,2026-07-29,Senior,Developer,closed
+nvidia_a47bd9a734b6f77e,Cybersecurity,mlops_devops,security,2026-07-29,Senior,Engineer,closed
+nvidia_a47bd9a734b6f77e,Networking,hardware_systems,network,2026-07-29,Senior,Engineer,closed
+nvidia_a47bd9a734b6f77e,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_a47bd9a734b6f77e,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_a497d1ae3f9362f7,Agentic AI,research_domains,agentic ai,2026-07-29,Unspecified,Lead,closed
+nvidia_a497d1ae3f9362f7,Technical Leadership,product_process,tech lead,2026-07-29,Unspecified,Lead,closed
+nvidia_a4a51b54df695de7,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Unspecified,Manager,closed
+nvidia_a4a51b54df695de7,Datacenter Systems,hardware_systems,dgx,2026-07-29,Unspecified,Manager,closed
+nvidia_a65b4ccd2946c222,Machine Learning,research_domains,machine learning,2026-07-29,Senior,Engineer,closed
+nvidia_a87e7f08c45a38fa,Business Development,product_process,business development,2026-07-29,Unspecified,Lead,closed
+nvidia_a8da505186ad59fd,Deep Learning,research_domains,deep learning,2026-07-29,Unspecified,Engineer,closed
+nvidia_a8e6e7ea93403a1f,Analog and Mixed Signal,silicon_design,circuit design,2026-07-29,Senior,Engineer,closed
+nvidia_a9181d9e54c6e1dc,TensorRT,ml_frameworks,tensorrt,2026-07-29,Senior,Engineer,closed
+nvidia_aaf1210149c852c9,Analog and Mixed Signal,silicon_design,mixed signal,2026-07-29,Senior,Designer,closed
+nvidia_ac59418e4b01a5a8,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,active
+nvidia_ac59418e4b01a5a8,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,active
+nvidia_adc95218df8ac4d4,Storage Systems,hardware_systems,storage,2026-07-29,Senior,Manager,closed
+nvidia_adc95218df8ac4d4,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Manager,closed
+nvidia_adc95218df8ac4d4,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Manager,closed
+nvidia_ae077cd4e866ad21,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_ae077cd4e866ad21,Agentic AI,research_domains,agentic ai,2026-07-29,Senior,Architect,closed
+nvidia_af9bdd2fec42b430,Design Automation,silicon_design,design automation,2026-07-29,Unspecified,Engineer,closed
+nvidia_afa9a4cc35e0f1b1,Cybersecurity,mlops_devops,cybersecurity,2026-07-29,Senior,Engineer,closed
+nvidia_afa9a4cc35e0f1b1,Kernel and Drivers,hardware_systems,linux kernel,2026-07-29,Senior,Engineer,closed
+nvidia_affd39a06a1a7a1e,Agentic AI,research_domains,agents,2026-07-29,Senior,Engineer,closed
+nvidia_b2ba5cb87af784f8,Analog and Mixed Signal,silicon_design,mixed signal,2026-07-29,Senior,Designer,closed
+nvidia_b46ec27450b9871b,DPU and Offload,hardware_systems,doca,2026-07-29,Senior,Engineer,closed
+nvidia_b5dec4e5b594c237,Analog and Mixed Signal,silicon_design,circuit design,2026-07-29,Senior,Engineer,closed
+nvidia_b67fb772d11a961d,Site Reliability,mlops_devops,devops,2026-07-29,Senior,Engineer,active
+nvidia_c249ba38331b0bcd,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,closed
+nvidia_c253966157e05595,SoC Design,silicon_design,soc,2026-07-29,Senior,Architect,closed
+nvidia_c356914246a780cf,SoC Design,silicon_design,asic design,2026-07-29,Senior,Engineer,active
+nvidia_c407c7e5dfad2099,Networking,hardware_systems,network,2026-07-29,Senior,Engineer,closed
+nvidia_c407c7e5dfad2099,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_c407c7e5dfad2099,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_c4a848c7f3718a19,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_c59d2b2c81ee2a74,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Manager,closed
+nvidia_c59d2b2c81ee2a74,Networking,hardware_systems,network,2026-07-29,Unspecified,Manager,closed
+nvidia_c686914e51aadcfc,Business Development,product_process,business development,2026-07-29,Unspecified,Manager,closed
+nvidia_c88a6e7f8ec278df,Networking,hardware_systems,switch,2026-07-29,Senior,Engineer,closed
+nvidia_c9f46adaac4d8dbd,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_cd602b2785af4968,AI Safety,research_domains,ai safety,2026-07-29,Unspecified,Engineer,active
+nvidia_cd602b2785af4968,Cybersecurity,mlops_devops,security,2026-07-29,Unspecified,Engineer,active
+nvidia_d20f5dedb6d5ef45,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_d20f5dedb6d5ef45,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_d3db83672b47467d,Compilers,hardware_systems,compiler,2026-07-29,Unspecified,Engineer,closed
+nvidia_d4a9f58e84e71ee2,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Manager,active
+nvidia_d4a9f58e84e71ee2,DPU and Offload,hardware_systems,bluefield,2026-07-29,Unspecified,Manager,active
+nvidia_d4a9f58e84e71ee2,Firmware,hardware_systems,bmc,2026-07-29,Unspecified,Manager,active
+nvidia_d6dc971fff16721c,Performance Engineering,hardware_systems,optimization,2026-07-29,Senior,Engineer,closed
+nvidia_d6dc971fff16721c,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,closed
+nvidia_d6dc971fff16721c,Kernel and Drivers,hardware_systems,kernel,2026-07-29,Senior,Engineer,closed
+nvidia_d89daf6ab0d18335,Performance Engineering,hardware_systems,performance,2026-07-29,Senior,Architect,closed
+nvidia_dc3ad2d9147c73f7,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_dc3ad2d9147c73f7,Networking,hardware_systems,networking,2026-07-29,Senior,Architect,closed
+nvidia_dd7ff4186008111b,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_df3eaf9072ef6487,Silicon Verification,silicon_design,design verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_df8502c92ff5cf00,Developer Relations,product_process,developer relations,2026-07-29,Unspecified,Manager,closed
+nvidia_e07da099bad02930,Python,languages,python,2026-07-29,Senior,Engineer,active
+nvidia_e07da099bad02930,CUDA,hardware_systems,cuda,2026-07-29,Senior,Engineer,active
+nvidia_e2d3413c50a73490,Site Reliability,mlops_devops,site reliability,2026-07-29,Senior,Engineer,closed
+nvidia_e2d3413c50a73490,Networking,hardware_systems,network,2026-07-29,Senior,Engineer,closed
+nvidia_e3233ece6178e3bd,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Manager,closed
+nvidia_e384f5514f7dd2f4,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_e384f5514f7dd2f4,Performance Engineering,hardware_systems,optimization,2026-07-29,Unspecified,Architect,closed
+nvidia_e384f5514f7dd2f4,Agentic AI,research_domains,agentic,2026-07-29,Unspecified,Architect,closed
+nvidia_e4f42e1a2394cb4a,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-29,Senior,Engineer,active
+nvidia_e752b83ba66c3b3e,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_e752b83ba66c3b3e,Design for Test,silicon_design,dft,2026-07-29,Unspecified,Engineer,closed
+nvidia_e79bdd548fe268ee,Silicon Verification,silicon_design,verification,2026-07-29,Senior,Engineer,closed
+nvidia_e79bdd548fe268ee,Computer Architecture,hardware_systems,asic,2026-07-29,Senior,Engineer,closed
+nvidia_e86f96335b3dc787,Datacenter Systems,hardware_systems,data center,2026-07-29,Senior,Engineer,closed
+nvidia_e8e30ef9fffa0b10,Performance Engineering,hardware_systems,profiling,2026-07-29,Senior,Engineer,closed
+nvidia_eb4bd52a1ddd1e1d,Solutions Architecture,product_process,solutions architect,2026-07-29,Unspecified,Architect,closed
+nvidia_eb4bd52a1ddd1e1d,Networking,hardware_systems,network,2026-07-29,Unspecified,Architect,closed
+nvidia_eb4bd52a1ddd1e1d,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Unspecified,Architect,closed
+nvidia_ecc8ef75932e8070,GPU Architecture,silicon_design,gpu architecture,2026-07-29,Junior,Engineer,closed
+nvidia_ecf5bde71649992b,SoC Design,silicon_design,soc,2026-07-29,Unspecified,Architect,closed
+nvidia_ee7e36069b690c26,Deep Learning,research_domains,deep learning,2026-07-29,Unspecified,Manager,closed
+nvidia_ee7e36069b690c26,Inference and Serving,research_domains,inference,2026-07-29,Unspecified,Manager,closed
+nvidia_f02cffbb01fa9948,Deep Learning,research_domains,deep learning,2026-07-29,Junior,Engineer,closed
+nvidia_f02cffbb01fa9948,Performance Engineering,hardware_systems,performance,2026-07-29,Junior,Engineer,closed
+nvidia_f02cffbb01fa9948,TensorRT,ml_frameworks,tensorrt,2026-07-29,Junior,Engineer,closed
+nvidia_f0997cd18814d439,Performance Engineering,hardware_systems,performance,2026-07-29,Senior,Engineer,closed
+nvidia_f0997cd18814d439,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_f0997cd18814d439,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_f12d2259fb9de4d5,Silicon Verification,silicon_design,verification,2026-07-29,Unspecified,Engineer,closed
+nvidia_f12d2259fb9de4d5,Performance Engineering,hardware_systems,performance,2026-07-29,Unspecified,Engineer,closed
+nvidia_f1d71b25818db4ac,Business Development,product_process,gtm,2026-07-29,Unspecified,Lead,closed
+nvidia_f26c64458d8427b4,Performance Engineering,hardware_systems,profiling,2026-07-29,Senior,Engineer,closed
+nvidia_f26c64458d8427b4,Cybersecurity,mlops_devops,security,2026-07-29,Senior,Engineer,closed
+nvidia_f2b44768deeeceeb,Inference and Serving,research_domains,inference,2026-07-29,Senior,Engineer,closed
+nvidia_f33e2acd88cfb222,Deep Learning,research_domains,deep learning,2026-07-29,Unspecified,Architect,closed
+nvidia_f33e2acd88cfb222,Performance Engineering,hardware_systems,performance,2026-07-29,Unspecified,Architect,closed
+nvidia_f3d581f1ef9a9e6f,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_f4c12064df8754c8,Healthcare AI,research_domains,healthcare ai,2026-07-29,Unspecified,Lead,closed
+nvidia_f4fd254ea3416f71,CPU Architecture,silicon_design,cpu,2026-07-29,Unspecified,Engineer,closed
+nvidia_f5b133fef4781d55,SoC Design,silicon_design,asic design,2026-07-29,Unspecified,Engineer,closed
+nvidia_f71ec2ffc5c3eab5,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_f71ec2ffc5c3eab5,HPC,hardware_systems,hpc,2026-07-29,Senior,Architect,closed
+nvidia_f731ea48843a0e74,Physical Design,silicon_design,physical design,2026-07-29,Senior,Engineer,closed
+nvidia_f7985302fa1c7250,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-29,Director,Engineer,closed
+nvidia_f7b31532097456fc,Storage Systems,hardware_systems,storage,2026-07-29,Senior,Engineer,closed
+nvidia_f7b31532097456fc,Cloud Infrastructure,cloud_infra,cloud,2026-07-29,Senior,Engineer,closed
+nvidia_f7b31532097456fc,Datacenter Systems,hardware_systems,dgx,2026-07-29,Senior,Engineer,closed
+nvidia_f9c1df7fd2275ac8,Silicon Verification,silicon_design,formal verification,2026-07-29,Junior,Engineer,closed
+nvidia_f9ee996fa0352b1a,AI Safety,research_domains,ai safety,2026-07-29,Unspecified,Engineer,closed
+nvidia_f9ee996fa0352b1a,Cybersecurity,mlops_devops,security,2026-07-29,Unspecified,Engineer,closed
+nvidia_fd291ee130cb14ed,Compilers,hardware_systems,compiler,2026-07-29,Senior,Engineer,closed
+nvidia_fd291ee130cb14ed,Rust,languages,rust,2026-07-29,Senior,Engineer,closed
+nvidia_fd4d48d0cb9edc69,Solutions Architecture,product_process,solutions architect,2026-07-29,Senior,Architect,closed
+nvidia_fd8ce057b945a7c7,Agentic AI,research_domains,agents,2026-07-29,Principal,Engineer,closed
+nvidia_fe41eb53b4c72330,Autonomous Vehicles,research_domains,autonomous vehicles,2026-07-29,Senior,Engineer,closed
+nvidia_fe41eb53b4c72330,Computer Vision,research_domains,computer vision,2026-07-29,Senior,Engineer,closed
+nvidia_fe41eb53b4c72330,Deep Learning,research_domains,deep learning,2026-07-29,Senior,Engineer,closed
+nvidia_ff9cd314cca524d7,Agentic AI,research_domains,agentic,2026-07-29,Unspecified,Engineer,closed
+nvidia_01a5827d8f750c62,Performance Engineering,hardware_systems,performance,2026-08-05,Senior,Engineer,closed
+nvidia_09c4cb853a5d0e97,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_0a471ca765f081cd,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_103afc2c7b1f9384,SoC Design,silicon_design,asic design,2026-08-05,Senior,Engineer,closed
+nvidia_13cc407ec8d09827,Embedded Systems,hardware_systems,firmware,2026-08-05,Senior,Engineer,closed
+nvidia_13cc407ec8d09827,SoC Design,silicon_design,soc,2026-08-05,Senior,Engineer,closed
+nvidia_13cc407ec8d09827,CPU Architecture,silicon_design,cpu,2026-08-05,Senior,Engineer,closed
+nvidia_187d93cb80f28508,Performance Engineering,hardware_systems,performance,2026-08-05,Senior,Engineer,active
+nvidia_187d93cb80f28508,HPC,hardware_systems,hpc,2026-08-05,Senior,Engineer,active
+nvidia_197591f826e75a30,Machine Learning,research_domains,machine learning,2026-08-05,Senior,Engineer,closed
+nvidia_1d7fb16419d8ab6b,Solutions Architecture,product_process,solutions architect,2026-08-05,Senior,Architect,closed
+nvidia_1d7fb16419d8ab6b,LLMs,research_domains,generative ai,2026-08-05,Senior,Architect,closed
+nvidia_22278d8070bac3c6,Silicon Verification,silicon_design,verification,2026-08-05,Unspecified,Engineer,closed
+nvidia_22278d8070bac3c6,SoC Design,silicon_design,soc,2026-08-05,Unspecified,Engineer,closed
+nvidia_2347539a2caf5503,Business Development,product_process,channel,2026-08-05,Senior,Manager,closed
+nvidia_237d81bb4de50665,Agentic AI,research_domains,ai agent,2026-08-05,Senior,Engineer,closed
+nvidia_2932f289e46496e9,Networking,hardware_systems,networking,2026-08-05,Senior,Engineer,active
+nvidia_2932f289e46496e9,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Senior,Engineer,active
+nvidia_2932f289e46496e9,Datacenter Systems,hardware_systems,dgx,2026-08-05,Senior,Engineer,active
+nvidia_2a3865c5bd9d56b8,Agentic AI,research_domains,agentic ai,2026-08-05,Senior,Engineer,closed
+nvidia_2b476a96d3299cec,Developer Relations,product_process,developer relations,2026-08-05,Senior,Manager,closed
+nvidia_2cf9bd61da786f0e,Business Development,product_process,channel,2026-08-05,Unspecified,Manager,closed
+nvidia_2ebf9ed201684ca1,Performance Engineering,hardware_systems,performance,2026-08-05,Unspecified,Engineer,active
+nvidia_2ebf9ed201684ca1,HPC,hardware_systems,hpc,2026-08-05,Unspecified,Engineer,active
+nvidia_30adffa6c8b049e4,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_3641beea15ba7d77,SoC Design,silicon_design,asic design,2026-08-05,Senior,Engineer,active
+nvidia_3958cc4d2acdd46e,JAX,ml_frameworks,jax,2026-08-05,Senior,Engineer,closed
+nvidia_3ab153addae68a46,Agentic AI,research_domains,agentic ai,2026-08-05,Senior,Researcher,closed
+nvidia_403be9e461d6ebd4,Networking,hardware_systems,nvlink,2026-08-05,Unspecified,Engineer,closed
+nvidia_42dfe6cba40058a8,Networking,hardware_systems,networking,2026-08-05,Senior,Manager,closed
+nvidia_42dfe6cba40058a8,Cloud Infrastructure,cloud_infra,csp,2026-08-05,Senior,Manager,closed
+nvidia_4b462d74cb6f16dc,Analog and Mixed Signal,silicon_design,mixed signal,2026-08-05,Senior,Engineer,closed
+nvidia_4d1641df1f06a0b9,Physical Design,silicon_design,physical design,2026-08-05,Unspecified,Engineer,closed
+nvidia_511a7a051b3dea0a,Embedded Systems,hardware_systems,firmware,2026-08-05,Unspecified,Engineer,active
+nvidia_54b7fd9cf7ff4277,Storage Systems,hardware_systems,storage,2026-08-05,Senior,Manager,closed
+nvidia_55720debe72a4f50,Business Development,product_process,business development,2026-08-05,Director,Director,closed
+nvidia_57d7eed7c5ab025e,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Senior,Engineer,active
+nvidia_57d7eed7c5ab025e,Datacenter Systems,hardware_systems,dgx,2026-08-05,Senior,Engineer,active
+nvidia_583cfa1d53b1528c,Deep Learning,research_domains,deep learning,2026-08-05,Unspecified,Engineer,closed
+nvidia_583cfa1d53b1528c,Performance Engineering,hardware_systems,performance,2026-08-05,Unspecified,Engineer,closed
+nvidia_5b64c06a6c500b36,Embedded Systems,hardware_systems,firmware,2026-08-05,Senior,Engineer,closed
+nvidia_5eabde903c66250b,Solutions Architecture,product_process,solutions architect,2026-08-05,Senior,Architect,closed
+nvidia_5eabde903c66250b,HPC,hardware_systems,hpc,2026-08-05,Senior,Architect,closed
+nvidia_5f25087a08e80304,Solutions Architecture,product_process,solutions architect,2026-08-05,Senior,Architect,closed
+nvidia_64cb2c3a2222b2bd,Cloud Infrastructure,cloud_infra,csp,2026-08-05,Senior,Manager,closed
+nvidia_657fb3d42ec046fd,Storage Systems,hardware_systems,storage,2026-08-05,Senior,Engineer,closed
+nvidia_657fb3d42ec046fd,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Senior,Engineer,closed
+nvidia_657fb3d42ec046fd,Datacenter Systems,hardware_systems,dgx,2026-08-05,Senior,Engineer,closed
+nvidia_696f26582c66c098,Solutions Architecture,product_process,solutions architect,2026-08-05,Junior,Architect,closed
+nvidia_6d4619d0ed0bb40d,Developer Relations,product_process,developer relations,2026-08-05,Senior,Manager,active
+nvidia_6da07fd29746438f,Networking,hardware_systems,networking,2026-08-05,Senior,Architect,closed
+nvidia_744010e6a8dce36e,Embedded Systems,hardware_systems,firmware,2026-08-05,Senior,Architect,closed
+nvidia_75969cf08ef01a0e,Compilers,hardware_systems,compiler,2026-08-05,Unspecified,Manager,active
+nvidia_75ac4bf0decec638,Embedded Systems,hardware_systems,firmware,2026-08-05,Unspecified,Engineer,closed
+nvidia_7c20032cf46c44be,Developer Relations,product_process,developer relations,2026-08-05,Senior,Manager,closed
+nvidia_8149295a43b83b3f,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_863177bf346447b6,Performance Engineering,hardware_systems,performance,2026-08-05,Senior,Engineer,active
+nvidia_8d0d460eec764224,Graphics and Rendering,research_domains,neural graphics,2026-08-05,Senior,Manager,closed
+nvidia_8e5a77c4e21c05c2,Digital Twin and Simulation,research_domains,simulation,2026-08-05,Distinguished,Architect,closed
+nvidia_8fa96f244d797d0d,Agentic AI,research_domains,agents,2026-08-05,Senior,Engineer,closed
+nvidia_982c0e85a1782986,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_9fb31c38b11755c5,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_a365b2a0eb15d66e,Networking,hardware_systems,networking,2026-08-05,Unspecified,Architect,closed
+nvidia_a3ad763ceeabcba8,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_aa37f58ec8ddfca3,Deep Learning,research_domains,deep learning,2026-08-05,Senior,Engineer,closed
+nvidia_b1414714ae254e11,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Senior,Engineer,active
+nvidia_b1414714ae254e11,Datacenter Systems,hardware_systems,dgx,2026-08-05,Senior,Engineer,active
+nvidia_b64df9541534988f,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Senior,Engineer,closed
+nvidia_b64df9541534988f,Datacenter Systems,hardware_systems,dgx,2026-08-05,Senior,Engineer,closed
+nvidia_bdea2f9e012870de,Kernel and Drivers,hardware_systems,driver,2026-08-05,Senior,Engineer,active
+nvidia_bdea2f9e012870de,CUDA,hardware_systems,cuda,2026-08-05,Senior,Engineer,active
+nvidia_be52f5d0fdb9edc0,Solutions Architecture,product_process,solutions architect,2026-08-05,Senior,Architect,closed
+nvidia_c8d233adc8d36a08,Storage Systems,hardware_systems,storage,2026-08-05,Senior,Architect,closed
+nvidia_ccbcc64e283e0dba,Performance Engineering,hardware_systems,performance,2026-08-05,Unspecified,Manager,closed
+nvidia_d20d4d18eec2dfa5,Site Reliability,mlops_devops,sre,2026-08-05,Senior,Engineer,closed
+nvidia_d7640f1a4aaa8b44,Design Automation,silicon_design,design automation,2026-08-05,Senior,Engineer,closed
+nvidia_d7640f1a4aaa8b44,CPU Architecture,silicon_design,cpu,2026-08-05,Senior,Engineer,closed
+nvidia_d9d8c5d1f76f065f,RTL Design,silicon_design,rtl design,2026-08-05,Unspecified,Engineer,closed
+nvidia_d9d8c5d1f76f065f,SoC Design,silicon_design,soc,2026-08-05,Unspecified,Engineer,closed
+nvidia_d9fab7e74452bfac,Solutions Architecture,product_process,solutions architect,2026-08-05,Junior,Architect,closed
+nvidia_dd9ff12bf5f590f9,RTL Design,silicon_design,rtl design,2026-08-05,Senior,Engineer,closed
+nvidia_dd9ff12bf5f590f9,SoC Design,silicon_design,soc,2026-08-05,Senior,Engineer,closed
+nvidia_e19831a457dfc2db,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_e1c48676141a8d33,Performance Engineering,hardware_systems,performance,2026-08-05,Senior,Engineer,closed
+nvidia_e1c48676141a8d33,SoC Design,silicon_design,soc,2026-08-05,Senior,Engineer,closed
+nvidia_e82340d51369a350,Solutions Architecture,product_process,solutions architect,2026-08-05,Junior,Architect,closed
+nvidia_ed54030e45aacfb5,Developer Relations,product_process,developer relations,2026-08-05,Unspecified,Manager,closed
+nvidia_ed54030e45aacfb5,Digital Twin and Simulation,research_domains,physical ai,2026-08-05,Unspecified,Manager,closed
+nvidia_f29451d9faa4b65d,Developer Relations,product_process,developer relations,2026-08-05,Senior,Manager,closed
+nvidia_f76f083ea7751ea0,Performance Engineering,hardware_systems,performance,2026-08-05,Senior,Engineer,closed
+nvidia_f78944e9895c9ec3,Solutions Architecture,product_process,solutions architect,2026-08-05,Unspecified,Architect,active
+nvidia_f78944e9895c9ec3,Cloud Infrastructure,cloud_infra,cloud,2026-08-05,Unspecified,Architect,active
+nvidia_009f68b0971d91e4,Physical Design,silicon_design,physical design,2026-08-12,Unspecified,Engineer,closed
+nvidia_06edbf391b4946a1,HPC,hardware_systems,hpc,2026-08-12,Senior,Engineer,active
+nvidia_099dbdd507c7ef32,Physical Design,silicon_design,physical design,2026-08-12,Unspecified,Engineer,active
+nvidia_0a2c460ca6e7c04d,Solutions Architecture,product_process,solution architect,2026-08-12,Senior,Architect,active
+nvidia_0a2c460ca6e7c04d,Networking,hardware_systems,network,2026-08-12,Senior,Architect,active
+nvidia_132d53d31478ad5e,Deep Learning,research_domains,deep learning,2026-08-12,Senior,Engineer,closed
+nvidia_16b09c602aa0f6a7,Embedded Systems,hardware_systems,firmware,2026-08-12,Unspecified,Engineer,active
+nvidia_19cd579052e0e6a6,TensorRT,ml_frameworks,tensorrt,2026-08-12,Unspecified,Engineer,active
+nvidia_243047dea8592d41,Embedded Systems,hardware_systems,firmware,2026-08-12,Senior,Engineer,active
+nvidia_243047dea8592d41,SoC Design,silicon_design,soc,2026-08-12,Senior,Engineer,active
+nvidia_243047dea8592d41,CPU Architecture,silicon_design,cpu,2026-08-12,Senior,Engineer,active
+nvidia_2a92b6dffc82585d,SoC Design,silicon_design,chip design,2026-08-12,Unspecified,Engineer,closed
+nvidia_2beb6e0eac1ac22a,Inference and Serving,research_domains,inference,2026-08-12,Unspecified,Manager,closed
+nvidia_2d1e030886b3f958,Networking,hardware_systems,switch,2026-08-12,Senior,Architect,closed
+nvidia_33ed69f731c7aee2,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-12,Senior,Manager,active
+nvidia_34d0abe9abb8df45,Cloud Infrastructure,cloud_infra,cloud,2026-08-12,Senior,Engineer,closed
+nvidia_34d0abe9abb8df45,Datacenter Systems,hardware_systems,dgx,2026-08-12,Senior,Engineer,closed
+nvidia_3f466c0cbf8b91c7,Compilers,hardware_systems,compiler,2026-08-12,Unspecified,Engineer,closed
+nvidia_3f466c0cbf8b91c7,Cybersecurity,mlops_devops,security,2026-08-12,Unspecified,Engineer,closed
+nvidia_4172d24f6c37eccf,Solutions Architecture,product_process,solutions architecture,2026-08-12,Unspecified,Manager,active
+nvidia_47053e9c9cf999cc,Networking,hardware_systems,infiniband,2026-08-12,Senior,Engineer,closed
+nvidia_47053e9c9cf999cc,HPC,hardware_systems,hpc,2026-08-12,Senior,Engineer,closed
+nvidia_51cb06c1a8dfe7bc,HPC,hardware_systems,hpc,2026-08-12,Senior,Engineer,closed
+nvidia_51cb06c1a8dfe7bc,Machine Learning,research_domains,ml,2026-08-12,Senior,Engineer,closed
+nvidia_583ac685c20100b5,Performance Engineering,hardware_systems,performance,2026-08-12,Senior,Engineer,closed
+nvidia_583ac685c20100b5,CPU Architecture,silicon_design,cpu,2026-08-12,Senior,Engineer,closed
+nvidia_5cde8df81e754c4f,Networking,hardware_systems,networking,2026-08-12,Senior,Engineer,closed
+nvidia_5e099a26a1afbf7c,Signal and Power Integrity,silicon_design,packaging,2026-08-12,Senior,Architect,active
+nvidia_6549cfc36d6ceb88,Networking,hardware_systems,networking,2026-08-12,Unspecified,Engineer,closed
+nvidia_72f45dc599d6d237,Solutions Architecture,product_process,solutions architect,2026-08-12,Senior,Architect,active
+nvidia_72f45dc599d6d237,Robotics,research_domains,robotics,2026-08-12,Senior,Architect,active
+nvidia_740f75672ddbf335,Silicon Verification,silicon_design,verification,2026-08-12,Senior,Engineer,closed
+nvidia_74609371e7cb292a,Networking,hardware_systems,network,2026-08-12,Senior,Engineer,closed
+nvidia_7f367c853916c855,Deep Learning,research_domains,deep learning,2026-08-12,Senior,Engineer,active
+nvidia_7f367c853916c855,CUDA,hardware_systems,cuda,2026-08-12,Senior,Engineer,active
+nvidia_83c41c24234fea34,Deep Learning,research_domains,deep learning,2026-08-12,Senior,Engineer,active
+nvidia_83c41c24234fea34,Inference and Serving,research_domains,inference,2026-08-12,Senior,Engineer,active
+nvidia_842243b57fddbe79,TensorRT,ml_frameworks,tensorrt,2026-08-12,Senior,Engineer,closed
+nvidia_8b1d427de81eff82,Cloud Infrastructure,cloud_infra,cloud,2026-08-12,Senior,Engineer,closed
+nvidia_8b1d427de81eff82,Datacenter Systems,hardware_systems,dgx,2026-08-12,Senior,Engineer,closed
+nvidia_8cbb07c960c0157a,Solutions Architecture,product_process,solutions architect,2026-08-12,Senior,Architect,active
+nvidia_8cbb07c960c0157a,Digital Twin and Simulation,research_domains,physical ai,2026-08-12,Senior,Architect,active
+nvidia_8cbb07c960c0157a,Cloud Infrastructure,cloud_infra,cloud,2026-08-12,Senior,Architect,active
+nvidia_8e5c6ef62eaff8fd,Solutions Architecture,product_process,solution architect,2026-08-12,Senior,Architect,active
+nvidia_8e5c6ef62eaff8fd,Networking,hardware_systems,network,2026-08-12,Senior,Architect,active
+nvidia_90b705cbf2f74a0b,Silicon Verification,silicon_design,post silicon,2026-08-12,Senior,Lead,active
+nvidia_90b705cbf2f74a0b,Firmware,hardware_systems,bringup,2026-08-12,Senior,Lead,active
+nvidia_925f8584fac08f3e,Performance Engineering,hardware_systems,performance,2026-08-12,Senior,Engineer,closed
+nvidia_937a8b0c677e0615,Solutions Architecture,product_process,solutions architect,2026-08-12,Unspecified,Architect,closed
+nvidia_937a8b0c677e0615,Machine Learning,research_domains,ml,2026-08-12,Unspecified,Architect,closed
+nvidia_93ff0ec6f4f6ab72,Compilers,hardware_systems,compiler,2026-08-12,Senior,Engineer,active
+nvidia_9502fb9f3734e4da,Solutions Architecture,product_process,solutions architect,2026-08-12,Unspecified,Architect,active
+nvidia_9502fb9f3734e4da,Networking,hardware_systems,networking,2026-08-12,Unspecified,Architect,active
+nvidia_95c5381d960b33ef,Digital Twin and Simulation,research_domains,simulation,2026-08-12,Senior,Engineer,active
+nvidia_97c33b5bb73841fd,Cloud Infrastructure,cloud_infra,cloud,2026-08-12,Principal,Engineer,active
+nvidia_97c33b5bb73841fd,Datacenter Systems,hardware_systems,dgx,2026-08-12,Principal,Engineer,active
+nvidia_9982f6e71beb3c97,Performance Engineering,hardware_systems,performance,2026-08-12,Unspecified,Engineer,closed
+nvidia_9a4e1bfc13d06957,LLMs,research_domains,generative ai,2026-08-12,Senior,Engineer,active
+nvidia_9ab08fad7cd1b496,Solutions Architecture,product_process,solutions architecture,2026-08-12,Unspecified,Manager,active
+nvidia_9c18df4f1a8384af,Model Monitoring,mlops_devops,observability,2026-08-12,Senior,Engineer,closed
+nvidia_aae07a12b65a8a40,Kubernetes,cloud_infra,kubernetes,2026-08-12,Unspecified,Manager,closed
+nvidia_b063bf367bbaead5,Computer Architecture,hardware_systems,asic,2026-08-12,Senior,Engineer,closed
+nvidia_b0828015cd96bece,Performance Engineering,hardware_systems,performance,2026-08-12,Senior,Engineer,closed
+nvidia_b69fe686bf63006e,Performance Engineering,hardware_systems,performance,2026-08-12,Unspecified,Architect,active
+nvidia_bcb975b7683cf614,Deep Learning,research_domains,deep learning,2026-08-12,Unspecified,Manager,closed
+nvidia_bcb975b7683cf614,Inference and Serving,research_domains,inference,2026-08-12,Unspecified,Manager,closed
+nvidia_bdc73c89e36d5ddd,Deep Learning,research_domains,deep learning,2026-08-12,Unspecified,Engineer,active
+nvidia_bdc73c89e36d5ddd,CUDA,hardware_systems,cuda,2026-08-12,Unspecified,Engineer,active
+nvidia_cba96e52b1a42473,Performance Engineering,hardware_systems,optimization,2026-08-12,Unspecified,Engineer,closed
+nvidia_cba96e52b1a42473,Inference and Serving,research_domains,inference,2026-08-12,Unspecified,Engineer,closed
+nvidia_ceeef0654188676e,Solutions Architecture,product_process,solutions architect,2026-08-12,Senior,Architect,active
+nvidia_d975fa7a79ee50b9,Physical Design,silicon_design,physical design,2026-08-12,Senior,Engineer,active
+nvidia_d975fa7a79ee50b9,Computer Architecture,hardware_systems,asic,2026-08-12,Senior,Engineer,active
+nvidia_dd80888425a90fde,Networking,hardware_systems,network,2026-08-12,Senior,Engineer,closed
+nvidia_e4201de0d16ec5aa,Cybersecurity,mlops_devops,security,2026-08-12,Senior,Engineer,active
+nvidia_e4201de0d16ec5aa,Embedded Systems,hardware_systems,rtos,2026-08-12,Senior,Engineer,active
+nvidia_ea5bc6c1215c8030,SoC Design,silicon_design,asic design,2026-08-12,Unspecified,Engineer,closed
+nvidia_f66e2eddb1e3ce84,Developer Relations,product_process,developer relations,2026-08-12,Unspecified,Manager,active
+nvidia_f6d82d147ac1f7e9,Cloud Infrastructure,cloud_infra,cloud,2026-08-12,Principal,Engineer,closed
+nvidia_f6d82d147ac1f7e9,Datacenter Systems,hardware_systems,dgx,2026-08-12,Principal,Engineer,closed
+nvidia_fadfda0ee0beb2e6,Solutions Architecture,product_process,solutions architect,2026-08-12,Senior,Architect,active
+nvidia_fadfda0ee0beb2e6,Robotics,research_domains,robotics,2026-08-12,Senior,Architect,active
+nvidia_fece8a75beb87f8a,Kubernetes,cloud_infra,kubernetes,2026-08-12,Senior,Engineer,closed
+nvidia_00af6a33248e3421,Silicon Verification,silicon_design,verification,2026-08-20,Unspecified,Engineer,active
+nvidia_01bb465d6fac0222,Computer Architecture,hardware_systems,asic,2026-08-20,Unspecified,Engineer,active
+nvidia_0328af1da33b0979,Compilers,hardware_systems,compiler,2026-08-20,Unspecified,Engineer,closed
+nvidia_0328af1da33b0979,Cybersecurity,mlops_devops,security,2026-08-20,Unspecified,Engineer,closed
+nvidia_04245082a26bf2ba,Cybersecurity,mlops_devops,threat detection,2026-08-20,Unspecified,Engineer,closed
+nvidia_06b2427acf5b79f7,Networking,hardware_systems,networking,2026-08-20,Unspecified,Manager,active
+nvidia_1b7e115478237c0e,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,active
+nvidia_1d8354cf261d6d27,Silicon Verification,silicon_design,verification,2026-08-20,Senior,Engineer,active
+nvidia_1d8354cf261d6d27,Computer Architecture,hardware_systems,asic,2026-08-20,Senior,Engineer,active
+nvidia_238806f0d20a6c78,Distributed Training,hardware_systems,nccl,2026-08-20,Intern,Intern,active
+nvidia_246df77077fe4004,Design Automation,silicon_design,eda,2026-08-20,Junior,Engineer,active
+nvidia_24d2f472946ac303,Design Automation,silicon_design,eda,2026-08-20,Senior,Engineer,active
+nvidia_276a2dfd6226401a,Networking,hardware_systems,networking,2026-08-20,Senior,Engineer,active
+nvidia_29ced76f1fcbb6e8,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,active
+nvidia_29ced76f1fcbb6e8,Networking,hardware_systems,networking,2026-08-20,Senior,Architect,active
+nvidia_2b70b8708cec6a25,Networking,hardware_systems,networking,2026-08-20,Senior,Architect,active
+nvidia_2b70b8708cec6a25,Embedded Systems,hardware_systems,firmware,2026-08-20,Senior,Architect,active
+nvidia_2b70b8708cec6a25,Cybersecurity,mlops_devops,security,2026-08-20,Senior,Architect,active
+nvidia_362653adce242973,Compilers,hardware_systems,compiler,2026-08-20,Senior,Engineer,active
+nvidia_38ad3408b3998d73,Signal and Power Integrity,silicon_design,signal and power integrity,2026-08-20,Senior,Engineer,active
+nvidia_40d0bd75487a6d1e,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,closed
+nvidia_447032b8e074a3b7,Inference and Serving,research_domains,inference,2026-08-20,Unspecified,Engineer,active
+nvidia_447032b8e074a3b7,Compilers,hardware_systems,compiler,2026-08-20,Unspecified,Engineer,active
+nvidia_4bc5044472ecc9ce,Solutions Architecture,product_process,solution architect,2026-08-20,Senior,Architect,active
+nvidia_4bc5044472ecc9ce,LLMs,research_domains,generative ai,2026-08-20,Senior,Architect,active
+nvidia_4bc5044472ecc9ce,Cloud Infrastructure,cloud_infra,csp,2026-08-20,Senior,Architect,active
+nvidia_4c50a3d51ee944f5,Signal and Power Integrity,silicon_design,packaging,2026-08-20,Senior,Engineer,active
+nvidia_4ceb397c39ce8619,HPC,hardware_systems,hpc,2026-08-20,Senior,Engineer,active
+nvidia_4d34b5fad18f0587,Site Reliability,mlops_devops,site reliability,2026-08-20,Senior,Engineer,active
+nvidia_4d34b5fad18f0587,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Engineer,active
+nvidia_4d34b5fad18f0587,Datacenter Systems,hardware_systems,dgx,2026-08-20,Senior,Engineer,active
+nvidia_4db674be46ff4d0b,Cybersecurity,mlops_devops,security,2026-08-20,Senior,Engineer,closed
+nvidia_505b459a408ca676,CPU Architecture,silicon_design,cpu,2026-08-20,Unspecified,Engineer,active
+nvidia_530879ab996d02b1,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,closed
+nvidia_53d982aa59468124,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,active
+nvidia_53d982aa59468124,Cloud Infrastructure,cloud_infra,csp,2026-08-20,Senior,Architect,active
+nvidia_5475664e54557c6c,Silicon Verification,silicon_design,verification,2026-08-20,Junior,Engineer,active
+nvidia_558efd700bf22289,Silicon Verification,silicon_design,verification,2026-08-20,Unspecified,Engineer,active
+nvidia_558efd700bf22289,SoC Design,silicon_design,soc,2026-08-20,Unspecified,Engineer,active
+nvidia_560f89fe0b3bd62b,Compilers,hardware_systems,compiler,2026-08-20,Senior,Engineer,active
+nvidia_566bf36c3244ef9f,Agentic AI,research_domains,agentic ai,2026-08-20,Senior,Manager,closed
+nvidia_5761a4b18c9a7978,Networking,hardware_systems,networking,2026-08-20,Senior,Manager,active
+nvidia_5761a4b18c9a7978,Cloud Infrastructure,cloud_infra,csp,2026-08-20,Senior,Manager,active
+nvidia_5cf9c3e62849e437,Developer Relations,product_process,developer relations,2026-08-20,Senior,Manager,active
+nvidia_5cf9c3e62849e437,Cybersecurity,mlops_devops,security,2026-08-20,Senior,Manager,active
+nvidia_5f1e6f662c5cd0ba,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,closed
+nvidia_5f1e6f662c5cd0ba,Networking,hardware_systems,networking,2026-08-20,Senior,Architect,closed
+nvidia_61e1f184993b0cd7,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Engineer,active
+nvidia_6504306615a33a77,Analog and Mixed Signal,silicon_design,serdes,2026-08-20,Senior,Engineer,active
+nvidia_669e2da106d86412,Deep Learning,research_domains,deep learning,2026-08-20,Unspecified,Engineer,active
+nvidia_669e2da106d86412,Compilers,hardware_systems,compiler,2026-08-20,Unspecified,Engineer,active
+nvidia_6991ea4f57f5d521,Solutions Architecture,product_process,solutions architect,2026-08-20,Unspecified,Architect,active
+nvidia_6ea063094077b6c3,Physical Design,silicon_design,physical design,2026-08-20,Unspecified,Engineer,active
+nvidia_737d875c7f5b9626,Solutions Architecture,product_process,solutions architect,2026-08-20,Unspecified,Architect,active
+nvidia_737d875c7f5b9626,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Unspecified,Architect,active
+nvidia_7be6d23de92a6ef9,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,active
+nvidia_7be6d23de92a6ef9,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Architect,active
+nvidia_824a0b64595319a7,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-20,Intern,Intern,active
+nvidia_824a0b64595319a7,Test Automation,mlops_devops,test automation,2026-08-20,Intern,Intern,active
+nvidia_89b886cca4a05e6e,Deep Learning,research_domains,deep learning,2026-08-20,Unspecified,Architect,active
+nvidia_89b886cca4a05e6e,Performance Engineering,hardware_systems,performance,2026-08-20,Unspecified,Architect,active
+nvidia_8ab02c21cedae517,Silicon Verification,silicon_design,post silicon,2026-08-20,Unspecified,Manager,active
+nvidia_8ab02c21cedae517,Design for Test,silicon_design,dft,2026-08-20,Unspecified,Manager,active
+nvidia_8c9f9094329d9688,Agentic AI,research_domains,ai agent,2026-08-20,Senior,Engineer,closed
+nvidia_910510439f74aa17,HPC,hardware_systems,hpc,2026-08-20,Unspecified,Engineer,closed
+nvidia_92c96b082bdafc8a,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-20,Senior,Engineer,active
+nvidia_9c84170a1cfc2ad1,Deep Learning,research_domains,deep learning,2026-08-20,Senior,Engineer,active
+nvidia_9c84170a1cfc2ad1,Compilers,hardware_systems,compiler,2026-08-20,Senior,Engineer,active
+nvidia_9de97b6ab8d75b2d,Site Reliability,mlops_devops,site reliability,2026-08-20,Senior,Engineer,closed
+nvidia_9de97b6ab8d75b2d,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Engineer,closed
+nvidia_9de97b6ab8d75b2d,Datacenter Systems,hardware_systems,dgx,2026-08-20,Senior,Engineer,closed
+nvidia_9fb29db164f38423,Performance Engineering,hardware_systems,performance,2026-08-20,Senior,Engineer,active
+nvidia_a2e69c30c0a935d9,Deep Learning,research_domains,deep learning,2026-08-20,Senior,Engineer,closed
+nvidia_a8421758bb7c2429,Performance Engineering,hardware_systems,performance,2026-08-20,Senior,Engineer,active
+nvidia_ad56c9c6040fce93,Networking,hardware_systems,networking,2026-08-20,Senior,Engineer,active
+nvidia_ae3d2b19ccb65ba1,Developer Relations,product_process,developer relations,2026-08-20,Unspecified,Manager,active
+nvidia_ae3d2b19ccb65ba1,Performance Engineering,hardware_systems,optimization,2026-08-20,Unspecified,Manager,active
+nvidia_afabe1f717f52c65,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Engineer,closed
+nvidia_afabe1f717f52c65,Datacenter Systems,hardware_systems,dgx,2026-08-20,Senior,Engineer,closed
+nvidia_bab40d1b032262f3,Silicon Verification,silicon_design,design verification,2026-08-20,Senior,Engineer,active
+nvidia_bab40d1b032262f3,Computer Architecture,hardware_systems,asic,2026-08-20,Senior,Engineer,active
+nvidia_be60440bc2bdf95f,CUDA,hardware_systems,cuda,2026-08-20,Senior,Engineer,active
+nvidia_be60440bc2bdf95f,C++,languages,c++,2026-08-20,Senior,Engineer,active
+nvidia_bfcea4d43d69dad3,Compilers,hardware_systems,compiler,2026-08-20,Unspecified,Engineer,active
+nvidia_c274b95ef5ec8fa0,Robotics,research_domains,robotics,2026-08-20,Unspecified,Engineer,active
+nvidia_c91fc943fff77614,Silicon Verification,silicon_design,verification,2026-08-20,Junior,Engineer,closed
+nvidia_d3adadc4dc9bf2dc,Site Reliability,mlops_devops,devops,2026-08-20,Senior,Engineer,active
+nvidia_d3adadc4dc9bf2dc,HPC,hardware_systems,hpc,2026-08-20,Senior,Engineer,active
+nvidia_d44d4e82fa7fd97d,Cybersecurity,mlops_devops,security,2026-08-20,Unspecified,Analyst,active
+nvidia_d6f81cc7a03d3a12,Solutions Architecture,product_process,solutions architect,2026-08-20,Senior,Architect,active
+nvidia_d6f81cc7a03d3a12,Agentic AI,research_domains,agentic ai,2026-08-20,Senior,Architect,active
+nvidia_d6f81cc7a03d3a12,Cybersecurity,mlops_devops,security,2026-08-20,Senior,Architect,active
+nvidia_d7de28ab6a5a4047,Datacenter Systems,hardware_systems,supercomputer,2026-08-20,Senior,Engineer,active
+nvidia_edf69716573029ed,Cloud Infrastructure,cloud_infra,cloud,2026-08-20,Senior,Engineer,closed
+nvidia_edf69716573029ed,Datacenter Systems,hardware_systems,dgx,2026-08-20,Senior,Engineer,closed
+nvidia_f17fb3b2fb2657d8,Agentic AI,research_domains,ai agent,2026-08-20,Senior,Engineer,closed
+nvidia_f17fb3b2fb2657d8,Site Reliability,mlops_devops,devops,2026-08-20,Senior,Engineer,closed
+nvidia_f8e734a48be54dda,SoC Design,silicon_design,chip design,2026-08-20,Unspecified,Engineer,closed
+nvidia_ff60238c385cf6d9,Networking,hardware_systems,rdma,2026-08-20,Senior,Engineer,active
+nvidia_ff60238c385cf6d9,DPU and Offload,hardware_systems,doca,2026-08-20,Senior,Engineer,active
+nvidia_02e322bb46fa1aee,HPC,hardware_systems,hpc,2026-08-27,Senior,Engineer,active
+nvidia_030436d00263f7b6,Machine Learning,research_domains,ml,2026-08-27,Senior,Engineer,active
+nvidia_049e92130ca5482a,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_049e92130ca5482a,Robotics,research_domains,robotics,2026-08-27,Senior,Architect,active
+nvidia_05a30a2a24c2a465,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-27,Senior,Manager,active
+nvidia_05da48a9f916a72a,Networking,hardware_systems,networking,2026-08-27,Unspecified,Engineer,active
+nvidia_0f7b702164bbdafb,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_0f7b702164bbdafb,Networking,hardware_systems,networking,2026-08-27,Senior,Architect,active
+nvidia_113c3aa4c4c86769,Robotics,research_domains,robotics,2026-08-27,Intern,Intern,active
+nvidia_14cbdbadc0a70adb,Compilers,hardware_systems,compiler,2026-08-27,Unspecified,Engineer,active
+nvidia_14cbdbadc0a70adb,Cybersecurity,mlops_devops,security,2026-08-27,Unspecified,Engineer,active
+nvidia_150243b5ecf87f34,Digital Twin and Simulation,research_domains,simulation,2026-08-27,Lead,Developer,active
+nvidia_15ae5e8ea3587b21,Robotics,research_domains,robotics,2026-08-27,Unspecified,Lead,active
+nvidia_1651acc3d7a81c8c,SoC Design,silicon_design,chip design,2026-08-27,Senior,Architect,active
+nvidia_1651acc3d7a81c8c,Computer Architecture,hardware_systems,asic,2026-08-27,Senior,Architect,active
+nvidia_1667fb26ab892ef8,Digital Twin and Simulation,research_domains,physical ai,2026-08-27,Director,Director,closed
+nvidia_1804fbf143c191da,Silicon Verification,silicon_design,design verification,2026-08-27,Senior,Engineer,active
+nvidia_1aa182b3ccb604b9,Site Reliability,mlops_devops,sre,2026-08-27,Senior,Engineer,closed
+nvidia_1b0012e5d869b44c,Solutions Architecture,product_process,solution architect,2026-08-27,Senior,Architect,active
+nvidia_1b0012e5d869b44c,Deep Learning,research_domains,deep learning,2026-08-27,Senior,Architect,active
+nvidia_1bb59de9b9a0e651,Cloud Infrastructure,cloud_infra,cloud,2026-08-27,Senior,Engineer,active
+nvidia_1bb59de9b9a0e651,Datacenter Systems,hardware_systems,dgx,2026-08-27,Senior,Engineer,active
+nvidia_1c6ab3f1e8369e95,Embedded Systems,hardware_systems,firmware,2026-08-27,Unspecified,Engineer,active
+nvidia_21464f383a91611d,Networking,hardware_systems,networking,2026-08-27,Senior,Engineer,active
+nvidia_21464f383a91611d,Test Automation,mlops_devops,qa,2026-08-27,Senior,Engineer,active
+nvidia_280db195321b3b7d,Deep Learning,research_domains,deep learning,2026-08-27,Senior,Engineer,active
+nvidia_2e8a6639e21bbd5e,Site Reliability,mlops_devops,site reliability,2026-08-27,Senior,Engineer,active
+nvidia_2fcc341f2f61cce4,Performance Engineering,hardware_systems,performance,2026-08-27,Principal,Architect,active
+nvidia_327adf206edf8225,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_32f282cdb76cc02d,Networking,hardware_systems,networking,2026-08-27,Senior,Engineer,active
+nvidia_32f282cdb76cc02d,Test Automation,mlops_devops,qa,2026-08-27,Senior,Engineer,active
+nvidia_336a3bc3c3e3f86d,Performance Engineering,hardware_systems,performance,2026-08-27,Unspecified,Engineer,active
+nvidia_336a3bc3c3e3f86d,HPC,hardware_systems,hpc,2026-08-27,Unspecified,Engineer,active
+nvidia_3457bf8844bc41a3,Cybersecurity,mlops_devops,security,2026-08-27,Unspecified,Engineer,closed
+nvidia_4883c512f4047e89,Solutions Architecture,product_process,solution architect,2026-08-27,Unspecified,Architect,active
+nvidia_4883c512f4047e89,Performance Engineering,hardware_systems,performance,2026-08-27,Unspecified,Architect,active
+nvidia_496e60e436e4e0a3,HPC,hardware_systems,hpc,2026-08-27,Senior,Manager,active
+nvidia_4aa59ee86adae3d1,Agentic AI,research_domains,agentic ai,2026-08-27,Senior,Architect,active
+nvidia_4e3f91118e9959a6,Networking,hardware_systems,networking,2026-08-27,Unspecified,Engineer,closed
+nvidia_4e95134a08cf960d,Agentic AI,research_domains,agentic ai,2026-08-27,Senior,Manager,active
+nvidia_52970f08d70eb6ed,Physical Design,silicon_design,physical design,2026-08-27,Unspecified,Engineer,active
+nvidia_52970f08d70eb6ed,Performance Engineering,hardware_systems,optimization,2026-08-27,Unspecified,Engineer,active
+nvidia_5817af843ad49474,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_5817af843ad49474,Inference and Serving,research_domains,inference,2026-08-27,Senior,Architect,active
+nvidia_5ed6bf88355cc579,Digital Twin and Simulation,research_domains,simulation,2026-08-27,Senior,Engineer,active
+nvidia_5ed6bf88355cc579,Networking,hardware_systems,network,2026-08-27,Senior,Engineer,active
+nvidia_5ed6bf88355cc579,Test Automation,mlops_devops,qa,2026-08-27,Senior,Engineer,active
+nvidia_612fa238093dc4b6,Solutions Architecture,product_process,solutions architect,2026-08-27,Unspecified,Architect,active
+nvidia_612fa238093dc4b6,Cloud Infrastructure,cloud_infra,csp,2026-08-27,Unspecified,Architect,active
+nvidia_612fa238093dc4b6,Business Development,product_process,gtm,2026-08-27,Unspecified,Architect,active
+nvidia_67dd6765351b0c6a,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_67dd6765351b0c6a,Cloud Infrastructure,cloud_infra,csp,2026-08-27,Senior,Architect,active
+nvidia_6eac3a9c7ae6e78a,Networking,hardware_systems,network,2026-08-27,Unspecified,Architect,active
+nvidia_71be972596b83f8d,Robotics,research_domains,robotics,2026-08-27,Unspecified,Manager,active
+nvidia_7a2b9c5964117cef,MLOps,mlops_devops,mlops,2026-08-27,Senior,Engineer,active
+nvidia_7b0fd17bd2016551,Kubernetes,cloud_infra,k8s,2026-08-27,Senior,Architect,active
+nvidia_80cda2f61dd10b90,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-27,Junior,Other,active
+nvidia_80cda2f61dd10b90,Robotics,research_domains,robotics,2026-08-27,Junior,Other,active
+nvidia_8c6407af0c893476,Reinforcement Learning,research_domains,rl,2026-08-27,Senior,Manager,active
+nvidia_932d0f1f51552ac7,Cloud Infrastructure,cloud_infra,cloud,2026-08-27,Senior,Manager,closed
+nvidia_93a326f391980e28,Test Automation,mlops_devops,qa,2026-08-27,Senior,Engineer,active
+nvidia_950c4a884df6cb8d,Cloud Infrastructure,cloud_infra,cloud,2026-08-27,Senior,Manager,active
+nvidia_950c4a884df6cb8d,Datacenter Systems,hardware_systems,dgx,2026-08-27,Senior,Manager,active
+nvidia_97749f4c6255b969,Autonomous Vehicles,research_domains,autonomous vehicles,2026-08-27,Senior,Architect,active
+nvidia_9a8e863c640d04e3,HPC,hardware_systems,hpc,2026-08-27,Senior,Engineer,active
+nvidia_9d5c6affae08be54,Networking,hardware_systems,networking,2026-08-27,Senior,Engineer,active
+nvidia_a09d65d95951d4ba,Solutions Architecture,product_process,solution architect,2026-08-27,Senior,Architect,active
+nvidia_a09d65d95951d4ba,Technical Program Management,product_process,tpm,2026-08-27,Senior,Architect,active
+nvidia_a3b8cf4f63c7da9e,LLMs,research_domains,llms,2026-08-27,Unspecified,Scientist,active
+nvidia_a3b8cf4f63c7da9e,Reinforcement Learning,research_domains,rl,2026-08-27,Unspecified,Scientist,active
+nvidia_a8e11762a91ac78d,Go,languages,golang,2026-08-27,Senior,Engineer,active
+nvidia_a8e11762a91ac78d,Cloud Infrastructure,cloud_infra,cloud,2026-08-27,Senior,Engineer,active
+nvidia_a8e11762a91ac78d,Datacenter Systems,hardware_systems,dgx,2026-08-27,Senior,Engineer,active
+nvidia_acb3ce4dd6a5730e,Agentic AI,research_domains,agentic ai,2026-08-27,Senior,Manager,active
+nvidia_b1653f95556e7081,Networking,hardware_systems,networking,2026-08-27,Senior,Manager,active
+nvidia_b68820f25d7d9752,Cybersecurity,mlops_devops,security,2026-08-27,Senior,Architect,active
+nvidia_b93527b6d9992adb,Solutions Architecture,product_process,solutions architect,2026-08-27,Unspecified,Architect,active
+nvidia_bf30112a16253731,Deep Learning,research_domains,deep learning,2026-08-27,Senior,Engineer,active
+nvidia_bf30112a16253731,Performance Engineering,hardware_systems,optimization,2026-08-27,Senior,Engineer,active
+nvidia_bf30112a16253731,Inference and Serving,research_domains,inference,2026-08-27,Senior,Engineer,active
+nvidia_bf5d3da322958d14,Solutions Architecture,product_process,solution architect,2026-08-27,Unspecified,Architect,active
+nvidia_bf5d3da322958d14,Agentic AI,research_domains,agentic ai,2026-08-27,Unspecified,Architect,active
+nvidia_bf5d3da322958d14,Cloud Infrastructure,cloud_infra,csp,2026-08-27,Unspecified,Architect,active
+nvidia_c2bae7fca721994e,SoC Design,silicon_design,soc,2026-08-27,Senior,Engineer,active
+nvidia_c982bdf04883caea,Performance Engineering,hardware_systems,performance,2026-08-27,Unspecified,Engineer,active
+nvidia_c982bdf04883caea,CPU Architecture,silicon_design,cpu,2026-08-27,Unspecified,Engineer,active
+nvidia_c98ff22a015ed13a,Deep Learning,research_domains,deep learning,2026-08-27,Junior,Engineer,active
+nvidia_c98ff22a015ed13a,Performance Engineering,hardware_systems,performance,2026-08-27,Junior,Engineer,active
+nvidia_ce7308d8359a6cc0,GPU Architecture,silicon_design,gpu architecture,2026-08-27,Junior,Engineer,active
+nvidia_cf16ae7c551e7f68,Agentic AI,research_domains,agents,2026-08-27,Unspecified,Manager,active
+nvidia_cf8207a0cb8781f7,Computer Architecture,hardware_systems,asic,2026-08-27,Unspecified,Engineer,active
+nvidia_d09f551041d5ed0c,Agentic AI,research_domains,agents,2026-08-27,Unspecified,Manager,active
+nvidia_d1ce93b7893f8001,Developer Relations,product_process,developer relations,2026-08-27,Senior,Manager,active
+nvidia_d49d23fd347ed23c,Solutions Architecture,product_process,solutions architect,2026-08-27,Unspecified,Architect,active
+nvidia_d8ae2da79149bf3a,Deep Learning,research_domains,deep learning,2026-08-27,Unspecified,Architect,active
+nvidia_d8ae2da79149bf3a,Performance Engineering,hardware_systems,performance,2026-08-27,Unspecified,Architect,active
+nvidia_dd028aef5c0b654a,Solutions Architecture,product_process,solution architect,2026-08-27,Senior,Architect,active
+nvidia_dd028aef5c0b654a,Deep Learning,research_domains,deep learning,2026-08-27,Senior,Architect,active
+nvidia_ddfb90e28bf4570a,Solutions Architecture,product_process,solutions architecture,2026-08-27,Unspecified,Manager,active
+nvidia_e60889d122b867fc,Solutions Architecture,product_process,solutions architect,2026-08-27,Senior,Architect,active
+nvidia_e60889d122b867fc,Cloud Infrastructure,cloud_infra,cloud,2026-08-27,Senior,Architect,active
+nvidia_e90131f4bc961c1b,Deep Learning,research_domains,deep learning,2026-08-27,Senior,Engineer,active
+nvidia_eba8581263601c5d,HPC,hardware_systems,hpc,2026-08-27,Senior,Engineer,active
+nvidia_f281790dc97242aa,Solutions Architecture,product_process,solution architect,2026-08-27,Unspecified,Architect,active
+nvidia_f281790dc97242aa,Deep Learning,research_domains,deep learning,2026-08-27,Unspecified,Architect,active
+nvidia_f281790dc97242aa,Performance Engineering,hardware_systems,performance,2026-08-27,Unspecified,Architect,active
+nvidia_f281790dc97242aa,Agentic AI,research_domains,agentic,2026-08-27,Unspecified,Architect,active
+nvidia_f5b61891e97608d1,Solutions Architecture,product_process,solution architect,2026-08-27,Senior,Architect,active
+nvidia_006635320dfd48a1,Cybersecurity,mlops_devops,security,2026-09-02,Senior,Manager,active
+nvidia_006635320dfd48a1,Cloud Infrastructure,cloud_infra,cloud,2026-09-02,Senior,Manager,active
+nvidia_006635320dfd48a1,Datacenter Systems,hardware_systems,dgx,2026-09-02,Senior,Manager,active
+nvidia_013b25400400eff8,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_013b25400400eff8,Digital Twin and Simulation,research_domains,physical ai,2026-09-02,Senior,Architect,active
+nvidia_023595b1a4987788,Design Automation,silicon_design,eda,2026-09-02,Senior,Engineer,active
+nvidia_08ad20eadc72bcb5,Silicon Verification,silicon_design,verification,2026-09-02,Unspecified,Architect,active
+nvidia_08ad20eadc72bcb5,Performance Engineering,hardware_systems,performance,2026-09-02,Unspecified,Architect,active
+nvidia_0b3d5db9968b6c66,Design Automation,silicon_design,eda,2026-09-02,Senior,Engineer,active
+nvidia_198dbb92c5ac9826,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Engineer,active
+nvidia_198dbb92c5ac9826,CPU Architecture,silicon_design,cpu,2026-09-02,Senior,Engineer,active
+nvidia_1f3ff0d6ba655b9d,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_1f3ff0d6ba655b9d,Digital Twin and Simulation,research_domains,physical ai,2026-09-02,Senior,Architect,active
+nvidia_21c64a296f9a3422,Performance Engineering,hardware_systems,performance,2026-09-02,Unspecified,Architect,active
+nvidia_21c64a296f9a3422,Storage Systems,hardware_systems,storage,2026-09-02,Unspecified,Architect,active
+nvidia_2371ed942cc20da6,MLOps,mlops_devops,mlops,2026-09-02,Senior,Engineer,active
+nvidia_2496f60253d9f868,Design Automation,silicon_design,eda,2026-09-02,Senior,Engineer,active
+nvidia_26c6a453cd188f7d,Site Reliability,mlops_devops,site reliability,2026-09-02,Staff,Engineer,active
+nvidia_2823b5519645f7a5,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Architect,active
+nvidia_2823b5519645f7a5,Storage Systems,hardware_systems,storage,2026-09-02,Senior,Architect,active
+nvidia_29913d476c5d3876,Performance Engineering,hardware_systems,performance,2026-09-02,Unspecified,Engineer,active
+nvidia_29913d476c5d3876,DPU and Offload,hardware_systems,dpu,2026-09-02,Unspecified,Engineer,active
+nvidia_32e2fe4054d32797,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Engineer,active
+nvidia_32e2fe4054d32797,Cloud Infrastructure,cloud_infra,cloud,2026-09-02,Senior,Engineer,active
+nvidia_32e2fe4054d32797,Datacenter Systems,hardware_systems,dgx,2026-09-02,Senior,Engineer,active
+nvidia_35339561a7942b90,Cybersecurity,mlops_devops,security,2026-09-02,Senior,Architect,active
+nvidia_36acddb0f251fb6c,Datacenter Systems,hardware_systems,data center,2026-09-02,Unspecified,Specialist,active
+nvidia_3c63445e344c9719,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_3c63445e344c9719,Agentic AI,research_domains,agentic ai,2026-09-02,Senior,Architect,active
+nvidia_3c63445e344c9719,Cybersecurity,mlops_devops,security,2026-09-02,Senior,Architect,active
+nvidia_41a65f064db92bc5,Digital Twin and Simulation,research_domains,simulation,2026-09-02,Senior,Engineer,active
+nvidia_41a65f064db92bc5,Computer Architecture,hardware_systems,asic,2026-09-02,Senior,Engineer,active
+nvidia_41a65f064db92bc5,Test Automation,mlops_devops,qa,2026-09-02,Senior,Engineer,active
+nvidia_4cb18fdb48fab6cc,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Engineer,active
+nvidia_4f3bc4160ff5bba1,MLOps,mlops_devops,mlops,2026-09-02,Senior,Engineer,active
+nvidia_698e865c15639f69,Site Reliability,mlops_devops,devops,2026-09-02,Senior,Engineer,active
+nvidia_6a23b7f9a1f7cc33,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_70df0f0174001c2c,HPC,hardware_systems,hpc,2026-09-02,Senior,Manager,active
+nvidia_73967332cba6e0ae,Developer Relations,product_process,developer relations,2026-09-02,Senior,Manager,active
+nvidia_7787a241041ae5a7,Solutions Architecture,product_process,solutions architect,2026-09-02,Unspecified,Architect,active
+nvidia_7787a241041ae5a7,Cloud Infrastructure,cloud_infra,cloud,2026-09-02,Unspecified,Architect,active
+nvidia_7f9cf2810d2fc913,Robotics,research_domains,robotics,2026-09-02,Unspecified,Manager,active
+nvidia_805f1336081d8679,Networking,hardware_systems,networking,2026-09-02,Unspecified,Engineer,active
+nvidia_805f1336081d8679,Test Automation,mlops_devops,qa,2026-09-02,Unspecified,Engineer,active
+nvidia_812e52c6d2879304,Physical Design,silicon_design,physical design,2026-09-02,Junior,Other,active
+nvidia_8332792e1b8fd68d,Test Automation,mlops_devops,qa,2026-09-02,Unspecified,Engineer,active
+nvidia_8528c0044670c522,Machine Learning,research_domains,machine learning,2026-09-02,Senior,Engineer,active
+nvidia_8528c0044670c522,AI Safety,research_domains,ai safety,2026-09-02,Senior,Engineer,active
+nvidia_87553160ed44db2e,Solutions Architecture,product_process,solution architect,2026-09-02,Senior,Architect,active
+nvidia_87b165b4e42d9b3b,Kubernetes,cloud_infra,kubernetes,2026-09-02,Senior,Manager,active
+nvidia_8ad3913bf4597b62,Embedded Systems,hardware_systems,rtos,2026-09-02,Senior,Engineer,active
+nvidia_901053eb56227e47,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_901053eb56227e47,HPC,hardware_systems,hpc,2026-09-02,Senior,Architect,active
+nvidia_90fa97d68312925c,Networking,hardware_systems,network,2026-09-02,Senior,Architect,active
+nvidia_90fa97d68312925c,HPC,hardware_systems,hpc,2026-09-02,Senior,Architect,active
+nvidia_aa8be9c7fed87587,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_aa8be9c7fed87587,LLMs,research_domains,generative ai,2026-09-02,Senior,Architect,active
+nvidia_af99f5b1c623a37c,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_b5aae30c51f9fcc9,Datacenter Systems,hardware_systems,data center,2026-09-02,Senior,Engineer,active
+nvidia_b5aae30c51f9fcc9,Networking,hardware_systems,ethernet,2026-09-02,Senior,Engineer,active
+nvidia_b6d1b7a595abe26c,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Engineer,active
+nvidia_b6d1b7a595abe26c,Storage Systems,hardware_systems,storage,2026-09-02,Senior,Engineer,active
+nvidia_c335c3c71fda9a14,Compilers,hardware_systems,compiler,2026-09-02,Senior,Engineer,active
+nvidia_c335c3c71fda9a14,Graphics and Rendering,research_domains,graphics,2026-09-02,Senior,Engineer,active
+nvidia_c88f7b01c36ef202,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_c99454de363a0584,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_c99454de363a0584,Cloud Infrastructure,cloud_infra,cloud,2026-09-02,Senior,Architect,active
+nvidia_cb517857656fcb63,Cybersecurity,mlops_devops,security,2026-09-02,Senior,Architect,active
+nvidia_cbb105362c245dc9,Solutions Architecture,product_process,solutions architect,2026-09-02,Unspecified,Architect,active
+nvidia_ce9d522e97588d6c,Analog and Mixed Signal,silicon_design,circuit design,2026-09-02,Senior,Engineer,active
+nvidia_ceac1651dadbe306,Silicon Verification,silicon_design,verification,2026-09-02,Unspecified,Engineer,active
+nvidia_ceac1651dadbe306,Performance Engineering,hardware_systems,performance,2026-09-02,Unspecified,Engineer,active
+nvidia_ceac1651dadbe306,Compilers,hardware_systems,compiler,2026-09-02,Unspecified,Engineer,active
+nvidia_d929975445896d74,Design Automation,silicon_design,eda,2026-09-02,Senior,Engineer,active
+nvidia_e4fe9dab2dd846d0,Performance Engineering,hardware_systems,performance,2026-09-02,Senior,Architect,active
+nvidia_e4fe9dab2dd846d0,Storage Systems,hardware_systems,storage,2026-09-02,Senior,Architect,active
+nvidia_ebfef8571df3f8c7,Solutions Architecture,product_process,solutions architect,2026-09-02,Senior,Architect,active
+nvidia_edc762652ec8b987,Physical Design,silicon_design,physical design,2026-09-02,Senior,Engineer,active
+nvidia_fd195010e7956ea0,Datacenter Systems,hardware_systems,datacenter,2026-09-02,Senior,Engineer,active
+nvidia_ff64db87176c7850,Developer Relations,product_process,developer relations,2026-09-02,Unspecified,Developer,active

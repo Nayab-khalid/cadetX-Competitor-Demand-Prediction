@@ -13,8 +13,16 @@ categories:
   - mlops_devops
   - analytics_bi
   - hardware_systems
+  - silicon_design      # added Task 4: chip-level specialisations, heavily represented at NVIDIA
   - research_domains
   - product_process
+
+# Terms that must never be matched from a job title alone. Each caused a false positive when the
+# taxonomy was first run against NVIDIA titles in Task 4.
+#   r  - matched "R&D", which cleans to "r d", in 9 postings. The R language was in none of them.
+#   c  - matched the "c" inside "c++" in 11 postings, double-counting C and C++.
+# "go" was checked too and kept: it only ever matched "golang" and a genuine "rust go c++" listing.
+title_match_blocklist: [r, c]
 
 skills:
   # ---- languages
@@ -212,5 +220,138 @@ skills:
     category: product_process
     aliases: [neurips, icml, cvpr, publications]
 
+  # =======================================================================================
+  # Added in Task 4 by Nayab Khalid (NVIDIA), 2026-09-20. Proposed for team ratification.
+  #
+  # Why: the starter taxonomy was written for job DESCRIPTIONS, where tool names appear
+  # (AWS, Docker, Spark). Members whose source carries only job TITLES cannot match it:
+  # measured against 1,745 NVIDIA titles it reached 21.2% of postings and 0.24 skills per
+  # posting. Titles name the specialisation, not the tool - "Senior Physical Design
+  # Engineer", not "Verilog, Synopsys, PrimeTime".
+  #
+  # These entries therefore add the specialisation vocabulary that titles do carry. They
+  # are skills in a hiring-intelligence sense: they say what the team builds. Role words
+  # (engineer, manager, architect) are deliberately NOT here - those are role_function,
+  # derived in Task 3.
+  # =======================================================================================
+
+  # ---- silicon and hardware specialisations
+  - name: Physical Design
+    category: silicon_design
+    aliases: [physical design, place and route, floorplanning, pnr]
+  - name: RTL Design
+    category: silicon_design
+    aliases: [rtl, logic synthesis, digital logic, verilog, systemverilog, vhdl]
+  - name: Silicon Verification
+    category: silicon_design
+    aliases: [verification, dv, design verification, formal verification, post silicon]
+  - name: SoC Design
+    category: silicon_design
+    aliases: [soc, system on chip, chip design, asic design]
+  - name: Analog and Mixed Signal
+    category: silicon_design
+    aliases: [mixed signal, analog, circuit design, serdes, pll]
+  - name: Signal and Power Integrity
+    category: silicon_design
+    aliases: [signal integrity, power integrity, power delivery, thermal, packaging]
+  - name: Design for Test
+    category: silicon_design
+    aliases: [dft, scan, atpg]
+  - name: CPU Architecture
+    category: silicon_design
+    aliases: [cpu, processor architecture, microarchitecture]
+  - name: GPU Architecture
+    category: silicon_design
+    aliases: [gpu architecture, graphics architecture, tensor core]
+
+  # ---- systems and platform software
+  - name: Firmware
+    category: hardware_systems
+    aliases: [firmware, bios, bmc, bringup, board support]
+  - name: Kernel and Drivers
+    category: hardware_systems
+    aliases: [kernel, driver, device driver, linux kernel]
+  - name: Compilers
+    category: hardware_systems
+    aliases: [compiler, llvm, code generation, toolchain]
+  - name: Networking
+    category: hardware_systems
+    aliases: [networking, network, ethernet, infiniband, nvlink, spectrum-x, rdma, switch]
+  - name: DPU and Offload
+    category: hardware_systems
+    aliases: [dpu, doca, bluefield, smartnic]
+  - name: Datacenter Systems
+    category: hardware_systems
+    aliases: [dgx, datacenter, data center, rack scale, cluster management, supercomputer]
+  - name: Storage Systems
+    category: hardware_systems
+    aliases: [storage, filesystem, nvme, object store]
+  - name: Performance Engineering
+    category: hardware_systems
+    aliases: [performance, optimization, optimisation, profiling, benchmarking]
+
+  # ---- applied AI specialisations
+  - name: Generative AI
+    category: research_domains
+    aliases: [generative ai, genai, diffusion, world foundation model, world model]
+  - name: Agentic AI
+    category: research_domains
+    aliases: [agentic, ai agent, agents]
+  - name: Inference and Serving
+    category: research_domains
+    aliases: [inference, serving, deployment optimization, quantization, quantisation]
+  - name: Autonomous Vehicles
+    category: research_domains
+    aliases: [autonomous vehicle, autonomous vehicles, self-driving, av, drive, adas]
+  - name: Digital Twin and Simulation
+    category: research_domains
+    aliases: [omniverse, digital twin, simulation, physical ai]
+  - name: Graphics and Rendering
+    category: research_domains
+    aliases: [graphics, rendering, ray tracing, neural graphics, dlss, shader]
+  - name: Healthcare AI
+    category: research_domains
+    aliases: [digital biology, biopharma, medical imaging, healthcare ai, clara]
+  - name: Speech and Audio
+    category: research_domains
+    aliases: [speech, audio, asr, text to speech, riva]
+
+  # ---- engineering practice and go-to-market
+  - name: Cloud Infrastructure
+    category: cloud_infra
+    aliases: [cloud, cloud native, cloud-native, csp, cloud service provider, hyperscaler]
+  - name: Site Reliability
+    category: mlops_devops
+    aliases: [sre, site reliability, reliability, devops, observability, resiliency]
+  - name: Cybersecurity
+    category: mlops_devops
+    aliases: [security, cybersecurity, threat detection, vulnerability, confidential computing]
+  # "automation" alone was removed after validation: it matched "Design Automation", which is EDA
+  # tooling, not test automation. 36 matches fell to 2, which is the honest number.
+  - name: Test Automation
+    category: mlops_devops
+    aliases: [test automation, qa, continuous testing]
+  - name: Design Automation
+    category: silicon_design
+    aliases: [design automation, eda]
+  # "solutions architect" is the title form and appears in 192 postings; without it the skill was
+  # matching almost nothing. It overlaps role_function=Architect by design: the role says someone
+  # is an architect, this says which kind.
+  - name: Solutions Architecture
+    category: product_process
+    aliases: [solutions architecture, solution architecture, solutions architect,
+              solution architect, presales, field engineering]
+  - name: Developer Relations
+    category: product_process
+    aliases: [developer relations, devrel, developer advocacy, developer experience]
+  - name: Technical Program Management
+    category: product_process
+    aliases: [technical program management, tpm, program management]
+  - name: Business Development
+    category: product_process
+    aliases: [business development, bd, go to market, gtm, channel, alliances]
+
 # Skills seen in postings but not yet canonical. Empty this list every week by promoting or rejecting.
+# Current candidates for NVIDIA are in
+# work/task-4/nvidia-nayab-khalid/data/features/taxonomy_candidates_20260902.csv
 candidates: []

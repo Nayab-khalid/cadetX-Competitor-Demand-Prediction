@@ -1,0 +1,60 @@
+skill,2026-05-13,2026-05-20,2026-06-10,2026-06-24,2026-07-01,2026-07-08,2026-07-29,2026-08-05,2026-08-12,2026-08-20,2026-08-27,2026-09-02
+AI Safety,0,0,0,0,0,0,6,0,0,0,0,1
+Agentic AI,8,3,7,1,3,3,15,4,0,4,7,1
+Analog and Mixed Signal,6,0,2,2,3,1,4,1,0,1,0,1
+Autonomous Vehicles,7,1,5,2,5,2,5,0,1,2,3,0
+Business Development,2,0,4,0,1,0,3,3,0,0,1,0
+C++,7,1,1,0,0,0,1,0,0,1,0,0
+CPU Architecture,5,2,4,3,0,1,3,2,2,1,1,1
+CUDA,5,3,2,3,2,1,7,1,2,1,0,0
+Cloud Infrastructure,33,9,12,12,10,6,16,8,5,10,8,4
+Compilers,19,2,5,3,1,0,12,1,2,7,1,2
+Computer Architecture,8,1,7,4,1,1,3,0,2,3,2,1
+Computer Vision,1,0,2,0,0,0,1,0,0,0,0,0
+Cybersecurity,7,3,10,5,0,3,11,0,2,7,3,4
+DPU and Offload,2,2,2,2,1,0,3,0,0,1,0,1
+Datacenter Systems,33,8,23,8,6,4,14,5,4,5,3,5
+Deep Learning,17,4,16,4,5,2,14,2,5,4,8,0
+Design Automation,3,3,0,0,0,0,2,1,0,2,0,4
+Design for Test,1,0,1,1,0,1,3,0,0,1,0,0
+Developer Relations,15,1,9,4,2,4,3,13,1,2,1,2
+Digital Twin and Simulation,5,2,8,3,4,1,2,2,2,0,3,3
+Distributed Training,3,0,1,0,0,0,0,0,0,1,0,0
+Embedded Systems,14,2,6,2,1,0,3,5,3,1,1,1
+Firmware,3,1,0,0,0,0,1,0,1,0,0,0
+GPU Architecture,0,0,0,0,0,0,1,0,0,0,1,0
+GPU Computing,0,0,1,0,0,0,1,0,0,0,0,0
+Generative AI,0,0,0,2,0,0,0,0,0,0,0,0
+Go,4,0,0,0,0,0,0,0,0,0,1,0
+Graphics and Rendering,3,1,2,1,0,1,2,1,0,0,0,1
+HPC,10,1,4,4,4,1,7,3,3,3,5,3
+Healthcare AI,4,0,0,1,0,0,2,0,0,0,0,0
+Inference and Serving,6,0,1,2,0,0,7,0,4,1,2,0
+JAX,1,0,0,0,0,1,0,1,0,0,0,0
+Kernel and Drivers,2,1,0,1,2,0,3,1,0,0,0,0
+Kubernetes,4,0,0,2,4,0,0,0,2,0,1,1
+LLMs,5,0,3,0,1,0,3,1,1,1,1,1
+MLOps,0,0,1,0,0,0,0,0,0,0,1,2
+Machine Learning,8,0,4,0,0,1,5,1,2,0,1,1
+Model Monitoring,2,2,0,0,1,0,0,0,1,0,0,0
+Networking,30,15,21,12,4,6,20,5,9,8,9,3
+Performance Engineering,20,6,21,3,5,3,18,8,6,4,9,10
+Physical Design,12,3,1,0,1,1,5,1,3,1,1,2
+PyTorch,1,0,0,1,0,1,0,0,0,0,0,0
+Python,2,0,1,0,1,0,1,0,0,0,0,0
+RTL Design,0,1,1,0,0,0,0,2,0,0,0,0
+Reinforcement Learning,1,1,0,0,0,1,1,0,0,0,2,0
+Robotics,1,1,8,2,1,0,4,0,2,1,5,1
+Rust,1,0,1,0,0,0,2,0,0,0,0,0
+Signal and Power Integrity,3,0,1,1,0,0,2,0,1,2,0,0
+Silicon Verification,23,5,6,5,6,8,13,1,2,7,1,2
+Site Reliability,11,2,5,3,1,2,7,1,0,4,2,2
+SoC Design,10,3,9,3,5,6,11,7,3,2,2,0
+Solutions Architecture,38,7,33,11,9,13,22,8,10,11,17,13
+Speech and Audio,1,0,0,0,0,0,1,0,0,0,0,0
+Storage Systems,3,0,2,1,0,2,2,3,0,0,0,4
+Technical Leadership,0,0,0,0,0,1,1,0,0,0,0,0
+Technical Program Management,2,0,1,0,0,0,0,0,0,0,1,0
+TensorRT,0,0,0,1,0,0,2,0,2,0,0,0
+Test Automation,1,0,3,0,1,0,1,0,0,1,4,3
+Triton Inference Server,2,0,0,0,0,0,1,0,0,0,0,0

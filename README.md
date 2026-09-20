@@ -28,7 +28,7 @@ analysis standards so the results can be compared directly.
 | 1 | Understanding Data Sources and Legal | [work/task-1](work/task-1) | Completed |
 | 2 | Data Collection | [work/task-2](work/task-2) | Completed |
 | 3 | NLP Preprocessing and Method Selection | [work/task-3](work/task-3) | In progress |
-| 4 | Skill Extraction and Feature Engineering | - | Not started |
+| 4 | Skill Extraction and Feature Engineering | [work/task-4](work/task-4) | In progress |
 | 5 | Hiring Trend Analysis | - | Not started |
 | 6 | Competitor Comparison | - | Not started |
 | 7 | Demand Forecasting | - | Not started |

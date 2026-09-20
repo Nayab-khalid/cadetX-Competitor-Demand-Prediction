@@ -1,0 +1,60 @@
+skill,skill_category,postings,share_of_postings,first_seen,last_seen,weeks_present,top_role_function,senior_share,postings_first_half,postings_second_half,rate_change,emerging_skill_flag,rank
+Solutions Architecture,product_process,192,0.11,2026-05-13,2026-09-02,12,Architect,0.615,73,81,0.0004,False,1
+Networking,hardware_systems,142,0.0814,2026-05-13,2026-09-02,12,Engineer,0.739,58,54,-0.0143,False,2
+Cloud Infrastructure,cloud_infra,133,0.0762,2026-05-13,2026-09-02,12,Engineer,0.812,49,51,-0.0045,False,3
+Datacenter Systems,hardware_systems,118,0.0676,2026-05-13,2026-09-02,12,Engineer,0.831,49,36,-0.0257,False,4
+Performance Engineering,hardware_systems,113,0.0648,2026-05-13,2026-09-02,12,Engineer,0.593,38,55,0.0183,False,5
+Deep Learning,research_domains,81,0.0464,2026-05-13,2026-08-27,11,Engineer,0.691,31,33,-0.0018,False,6
+Silicon Verification,silicon_design,79,0.0453,2026-05-13,2026-09-02,12,Engineer,0.544,30,26,-0.0101,False,7
+SoC Design,silicon_design,61,0.035,2026-05-13,2026-08-27,11,Engineer,0.541,26,25,-0.0053,False,8
+Developer Relations,product_process,57,0.0327,2026-05-13,2026-09-02,12,Manager,0.474,20,22,-0.0002,False,9
+Agentic AI,research_domains,56,0.0321,2026-05-13,2026-09-02,11,Engineer,0.714,17,31,0.0172,True,10
+Compilers,hardware_systems,55,0.0315,2026-05-13,2026-09-02,11,Engineer,0.636,11,25,0.0181,True,11
+Cybersecurity,mlops_devops,55,0.0315,2026-05-13,2026-09-02,10,Engineer,0.582,21,27,0.0053,False,12
+HPC,hardware_systems,48,0.0275,2026-05-13,2026-09-02,12,Engineer,0.792,14,24,0.012,True,13
+Site Reliability,mlops_devops,40,0.0229,2026-05-13,2026-09-02,11,Engineer,0.825,13,16,0.0023,False,14
+Embedded Systems,hardware_systems,39,0.0223,2026-05-13,2026-09-02,11,Engineer,0.59,11,14,0.0026,False,15
+Digital Twin and Simulation,research_domains,35,0.0201,2026-05-13,2026-09-02,11,Engineer,0.743,18,12,-0.0112,False,16
+Computer Architecture,hardware_systems,33,0.0189,2026-05-13,2026-09-02,11,Engineer,0.758,14,11,-0.0063,False,17
+Autonomous Vehicles,research_domains,33,0.0189,2026-05-13,2026-08-27,10,Engineer,0.848,15,11,-0.0079,False,18
+Physical Design,silicon_design,31,0.0178,2026-05-13,2026-09-02,11,Engineer,0.548,6,13,0.009,True,19
+CUDA,hardware_systems,27,0.0155,2026-05-13,2026-08-20,10,Engineer,0.778,11,11,-0.0016,False,20
+Robotics,research_domains,26,0.0149,2026-05-13,2026-09-02,10,Engineer,0.462,12,13,-0.0004,False,21
+CPU Architecture,silicon_design,25,0.0143,2026-05-13,2026-09-02,11,Engineer,0.6,10,10,-0.0015,False,22
+Machine Learning,research_domains,23,0.0132,2026-05-13,2026-09-02,8,Engineer,0.739,5,10,0.0063,True,23
+Inference and Serving,research_domains,23,0.0132,2026-05-13,2026-08-27,7,Engineer,0.652,3,14,0.0151,True,24
+Analog and Mixed Signal,silicon_design,21,0.012,2026-05-13,2026-09-02,9,Engineer,0.905,8,7,-0.0026,False,25
+Storage Systems,hardware_systems,17,0.0097,2026-05-13,2026-09-02,7,Engineer,0.941,5,9,0.0049,True,26
+LLMs,research_domains,17,0.0097,2026-05-13,2026-09-02,9,Architect,0.824,4,8,0.005,True,27
+Design Automation,silicon_design,15,0.0086,2026-05-13,2026-09-02,6,Engineer,0.6,3,9,0.008,True,28
+Kubernetes,cloud_infra,14,0.008,2026-05-13,2026-09-02,6,Engineer,0.857,6,4,-0.0037,False,29
+DPU and Offload,hardware_systems,14,0.008,2026-05-13,2026-09-02,8,Engineer,0.643,7,5,-0.0039,False,30
+Test Automation,mlops_devops,14,0.008,2026-05-13,2026-09-02,7,Engineer,0.643,4,9,0.0065,True,31
+Business Development,product_process,14,0.008,2026-05-13,2026-08-27,6,Lead,0.214,5,7,0.0021,False,32
+Graphics and Rendering,research_domains,12,0.0069,2026-05-13,2026-09-02,8,Engineer,0.75,5,4,-0.0022,False,33
+C++,languages,11,0.0063,2026-05-13,2026-08-20,5,Engineer,0.909,2,2,-0.0003,False,34
+Kernel and Drivers,hardware_systems,10,0.0057,2026-05-13,2026-08-05,6,Engineer,0.8,4,4,-0.0006,False,35
+Signal and Power Integrity,silicon_design,10,0.0057,2026-05-13,2026-08-20,6,Engineer,0.9,2,5,0.0039,True,36
+Design for Test,silicon_design,8,0.0046,2026-05-13,2026-08-20,6,Engineer,0.5,3,4,0.001,False,37
+AI Safety,research_domains,7,0.004,2026-07-29,2026-09-02,2,Engineer,0.429,0,7,0.0099,True,38
+Healthcare AI,research_domains,7,0.004,2026-05-13,2026-07-29,3,Lead,0.286,1,2,0.0013,False,39
+Model Monitoring,mlops_devops,6,0.0034,2026-05-13,2026-08-12,4,Engineer,1.0,3,1,-0.0033,False,40
+Firmware,hardware_systems,6,0.0034,2026-05-13,2026-08-12,4,Engineer,0.5,1,2,0.0013,False,41
+Reinforcement Learning,research_domains,6,0.0034,2026-05-13,2026-08-27,5,Engineer,0.667,2,3,0.0011,False,42
+Python,languages,5,0.0029,2026-05-13,2026-07-29,4,Engineer,1.0,2,1,-0.0017,False,43
+TensorRT,ml_frameworks,5,0.0029,2026-06-24,2026-08-12,3,Engineer,0.4,1,4,0.0041,False,44
+Go,languages,5,0.0029,2026-05-13,2026-08-27,2,Engineer,1.0,0,1,0.0014,False,45
+Distributed Training,hardware_systems,5,0.0029,2026-05-13,2026-08-20,3,Engineer,0.6,1,1,-0.0001,False,46
+Computer Vision,research_domains,4,0.0023,2026-05-13,2026-07-29,3,Engineer,0.5,2,1,-0.0017,False,47
+RTL Design,silicon_design,4,0.0023,2026-05-20,2026-08-05,3,Engineer,0.5,2,2,-0.0003,False,48
+Rust,languages,4,0.0023,2026-05-13,2026-07-29,3,Engineer,1.0,1,2,0.0013,False,49
+Technical Program Management,product_process,4,0.0023,2026-05-13,2026-08-27,3,Architect,0.75,1,1,-0.0001,False,50
+MLOps,mlops_devops,4,0.0023,2026-06-10,2026-09-02,3,Engineer,0.75,1,3,0.0027,False,51
+Triton Inference Server,ml_frameworks,3,0.0017,2026-05-13,2026-07-29,2,Engineer,0.667,0,1,0.0014,False,52
+JAX,ml_frameworks,3,0.0017,2026-05-13,2026-08-05,3,Engineer,1.0,1,1,-0.0001,False,53
+PyTorch,ml_frameworks,3,0.0017,2026-05-13,2026-07-08,3,Engineer,1.0,2,0,-0.0031,False,54
+Speech and Audio,research_domains,2,0.0011,2026-05-13,2026-07-29,2,Engineer,0.5,0,1,0.0014,False,55
+GPU Architecture,silicon_design,2,0.0011,2026-07-29,2026-08-27,2,Engineer,0.0,0,2,0.0028,False,56
+Technical Leadership,product_process,2,0.0011,2026-07-08,2026-07-29,2,Lead,0.5,1,1,-0.0001,False,57
+Generative AI,research_domains,2,0.0011,2026-06-24,2026-06-24,1,Manager,1.0,2,0,-0.0031,False,58
+GPU Computing,hardware_systems,2,0.0011,2026-06-10,2026-07-29,2,Architect,0.0,1,1,-0.0001,False,59
