@@ -9,7 +9,7 @@ Task folders are created as the team reaches them.
 |---|---|---|
 | 1 | Understanding Data Sources and Legal | In progress |
 | 2 | Data Collection | In progress |
-| 3 | NLP Preprocessing and Method Selection | Not started |
+| 3 | NLP Preprocessing and Method Selection | In progress |
 | 4 | Skill Extraction and Feature Engineering | Not started |
 | 5 | Hiring Trend Analysis | Not started |
 | 6 | Competitor Comparison | Not started |
