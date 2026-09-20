@@ -11,7 +11,7 @@ Task folders are created as the team reaches them.
 | 2 | Data Collection | In progress |
 | 3 | NLP Preprocessing and Method Selection | In progress |
 | 4 | Skill Extraction and Feature Engineering | In progress |
-| 5 | Hiring Trend Analysis | Not started |
+| 5 | Hiring Trend Analysis | In progress |
 | 6 | Competitor Comparison | Not started |
 | 7 | Demand Forecasting | Not started |
 | 8 | Company Similarity Scoring | Not started |
