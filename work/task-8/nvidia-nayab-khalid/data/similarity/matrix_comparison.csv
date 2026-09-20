@@ -1,0 +1,7 @@
+pair,extended_taxonomy,original_taxonomy,shift
+NVIDIA - Microsoft,0.216,0.0934,0.123
+NVIDIA - Meta,0.1465,0.1947,-0.048
+Microsoft - Meta,0.0986,0.1312,-0.033
+NVIDIA - Google,0.0751,0.0094,0.066
+Google - Microsoft,0.0514,0.0032,0.048
+Google - Meta,0.0157,0.0139,0.002

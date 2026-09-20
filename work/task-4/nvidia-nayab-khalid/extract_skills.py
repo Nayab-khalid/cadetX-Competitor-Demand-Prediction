@@ -35,11 +35,14 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from collections import Counter
 from pathlib import Path
 
 import pandas as pd
-import yaml
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[3] / "scripts"))
+from skill_matcher import build_matchers, extract, load_taxonomy   # noqa: E402
 
 # Words that are roles, not skills. role_function already captures these (Task 3), and letting
 # them into the skill space would make every posting look identical.
@@ -59,39 +62,6 @@ GENERIC_WORDS = {
     "applied", "field", "group", "internal", "external", "support", "management", "strategy",
     "planning", "quality", "process", "design", "research", "science", "tools", "tool", "stack",
 }
-
-
-def build_matchers(tax: dict) -> tuple[list[tuple[re.Pattern, str, str, int]], set[str]]:
-    """One pattern per alias, sorted longest first so specific terms win."""
-    blocked = {str(b).lower() for b in (tax.get("title_match_blocklist") or [])}
-    entries = []
-    for skill in tax["skills"]:
-        name, category = skill["name"], skill["category"]
-        terms = [str(name)] + [str(a) for a in (skill.get("aliases") or [])]
-        for term in terms:
-            t = term.lower().strip()
-            if not t or t in blocked:
-                continue
-            # \b does not work at a "+" boundary, so guard with explicit non-word lookarounds.
-            pattern = re.compile(r"(?<![\w+#])" + re.escape(t) + r"(?![\w+#])")
-            entries.append((pattern, name, category, len(t)))
-    entries.sort(key=lambda e: -e[3])
-    return entries, blocked
-
-
-def extract(text: str, entries) -> list[tuple[str, str, str]]:
-    """Return [(canonical, category, matched_term)], consuming spans so aliases cannot overlap."""
-    found, spans = [], []
-    seen = set()
-    for pattern, name, category, _ in entries:
-        for m in pattern.finditer(text):
-            if any(m.start() < e and m.end() > s for s, e in spans):
-                continue                                    # inside an already-matched span
-            spans.append((m.start(), m.end()))
-            if name not in seen:
-                seen.add(name)
-                found.append((name, category, m.group(0)))
-    return found
 
 
 def main() -> int:
@@ -116,7 +86,7 @@ def main() -> int:
 
     print(f"1. reading {src}")
     df = pd.read_csv(src)
-    tax = yaml.safe_load(Path(args.taxonomy).read_text(encoding="utf-8"))
+    tax = load_taxonomy(args.taxonomy)
     entries, blocked = build_matchers(tax)
     print(f"   {len(df)} postings | {len(tax['skills'])} canonical skills, "
           f"{len(entries)} alias patterns | blocklist: {sorted(blocked)}")

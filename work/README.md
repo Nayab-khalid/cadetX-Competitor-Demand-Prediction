@@ -9,16 +9,16 @@ Task folders are created as the team reaches them.
 |---|---|---|
 | 1 | Understanding Data Sources and Legal | In progress |
 | 2 | Data Collection | In progress |
-| 3 | NLP Preprocessing and Method Selection | In progress |
-| 4 | Skill Extraction and Feature Engineering | In progress |
-| 5 | Hiring Trend Analysis | In progress |
-| 6 | Competitor Comparison | Not started |
-| 7 | Demand Forecasting | Not started |
-| 8 | Company Similarity Scoring | Not started |
-| 9 | Insight Generation and Reporting | Not started |
-| 10 | Final Presentation and Mentor Review | Not started |
-| 11 | Optional: Automated Pipeline | Optional |
-| 12 | Optional: Fine-Tune a Skill Extraction Model | Optional |
+| 3 | NLP Preprocessing and Method Selection | Completed |
+| 4 | Skill Extraction and Feature Engineering | Completed |
+| 5 | Hiring Trend Analysis | Completed |
+| 6 | Competitor Comparison | Completed |
+| 7 | Demand Forecasting | Completed |
+| 8 | Company Similarity Scoring | Completed |
+| 9 | Insight Generation and Reporting | Completed |
+| 10 | Final Presentation and Mentor Review | NVIDIA deck done |
+| 11 | Optional: Automated Pipeline | Completed |
+| 12 | Optional: Fine-Tune a Skill Extraction Model | Not feasible, see note |
 
 ## Folder pattern
 

@@ -1,0 +1,74 @@
+name: NVIDIA hiring-intelligence pipeline
+
+# Weekly scheduled run of the NVIDIA workstream (optional Task: automated pipeline).
+#
+# It refreshes the dataset from the CC BY-4.0 source, re-runs every analysis stage, and uploads
+# the results as build artefacts.
+#
+# It deliberately does NOT commit results back to the repository. An unattended commit would
+# rewrite datasets that other members' work depends on, and the Task 6 and Task 8 findings both
+# turn on knowing exactly which version of the data produced a number. Promoting a run to the
+# repository stays a human decision: download the artefact, inspect the manifest, commit if it
+# looks right.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"        # Mondays 06:00 UTC, before the weekly team meeting
+  workflow_dispatch:
+    inputs:
+      with_collection:
+        description: "Re-download snapshots from the source (slow)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy matplotlib statsmodels pyarrow pyyaml
+
+      - name: Show the plan
+        run: python work/task-11-optional-pipeline/nvidia-nayab-khalid/run_pipeline.py --dry-run
+
+      - name: Run the pipeline
+        run: |
+          python work/task-11-optional-pipeline/nvidia-nayab-khalid/run_pipeline.py \
+            ${{ (github.event_name == 'schedule' || inputs.with_collection) && '--with-collection' || '' }}
+
+      - name: Validate the dataset against the shared schema
+        # Reports the known job_description failure rather than hiding it; see the Task 2 report.
+        continue-on-error: true
+        run: |
+          python scripts/validate_dataset.py \
+            work/task-2/nvidia-nayab-khalid/data/raw/nvidia_postings_raw_*.csv
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: nvidia-pipeline-${{ github.run_number }}
+          retention-days: 30
+          path: |
+            work/task-2/nvidia-nayab-khalid/data/**
+            work/task-3/nvidia-nayab-khalid/data/**
+            work/task-4/nvidia-nayab-khalid/data/**
+            work/task-5/nvidia-nayab-khalid/**/*.csv
+            work/task-5/nvidia-nayab-khalid/figures/**
+            work/task-6/nvidia-nayab-khalid/data/**
+            work/task-7/nvidia-nayab-khalid/data/**
+            work/task-8/nvidia-nayab-khalid/data/**
+            work/task-11-optional-pipeline/nvidia-nayab-khalid/runs/**

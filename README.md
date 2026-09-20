@@ -27,16 +27,16 @@ analysis standards so the results can be compared directly.
 |---|---|---|---|
 | 1 | Understanding Data Sources and Legal | [work/task-1](work/task-1) | Completed |
 | 2 | Data Collection | [work/task-2](work/task-2) | Completed |
-| 3 | NLP Preprocessing and Method Selection | [work/task-3](work/task-3) | In progress |
-| 4 | Skill Extraction and Feature Engineering | [work/task-4](work/task-4) | In progress |
-| 5 | Hiring Trend Analysis | [work/task-5](work/task-5) | In progress |
-| 6 | Competitor Comparison | - | Not started |
-| 7 | Demand Forecasting | - | Not started |
-| 8 | Company Similarity Scoring | - | Not started |
-| 9 | Insight Generation and Reporting | - | Not started |
-| 10 | Final Presentation and Mentor Review | - | Not started |
-| 11 | Optional: Automated Pipeline | - | Optional |
-| 12 | Optional: Fine-Tune a Skill Extraction Model | - | Optional |
+| 3 | NLP Preprocessing and Method Selection | [work/task-3](work/task-3) | Completed |
+| 4 | Skill Extraction and Feature Engineering | [work/task-4](work/task-4) | Completed |
+| 5 | Hiring Trend Analysis | [work/task-5](work/task-5) | Completed |
+| 6 | Competitor Comparison | [work/task-6](work/task-6) | Completed |
+| 7 | Demand Forecasting | [work/task-7](work/task-7) | Completed |
+| 8 | Company Similarity Scoring | [work/task-8](work/task-8) | Completed |
+| 9 | Insight Generation and Reporting | [work/task-9](work/task-9) | Completed |
+| 10 | Final Presentation and Mentor Review | [work/task-10](work/task-10) | NVIDIA deck done |
+| 11 | Optional: Automated Pipeline | [work/task-11-optional-pipeline](work/task-11-optional-pipeline) | Completed |
+| 12 | Optional: Fine-Tune a Skill Extraction Model | [work/task-12-optional-finetune](work/task-12-optional-finetune) | Not feasible, see note |
 
 Tasks 11 and 12 are optional and will be attempted only if the team has time after Task 10.
 

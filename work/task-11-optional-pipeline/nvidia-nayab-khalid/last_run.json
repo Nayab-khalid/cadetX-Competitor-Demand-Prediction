@@ -1,0 +1,108 @@
+{
+  "started_utc": "2026-09-20T15:40:03+00:00",
+  "finished_utc": "2026-09-20T15:44:08+00:00",
+  "total_seconds": 244.5,
+  "python": "C:/Users/Nayab/AppData/Local/Programs/Python/Python312/python.exe",
+  "stages_planned": [
+    "preprocess",
+    "skills",
+    "trends",
+    "compare",
+    "forecast",
+    "similarity"
+  ],
+  "collection_included": false,
+  "results": [
+    {
+      "stage": "preprocess",
+      "script": "preprocess_nvidia.py",
+      "ok": true,
+      "seconds": 1.7,
+      "returncode": 0,
+      "outputs": {
+        "work/task-3/nvidia-nayab-khalid/data/processed/nvidia_postings_clean_20260902.csv": "a9a423b3568c4faa",
+        "work/task-3/nvidia-nayab-khalid/data/processed/nvidia_token_frequency_20260902.csv": "1c0ecef212555ecb"
+      }
+    },
+    {
+      "stage": "skills",
+      "script": "extract_skills.py",
+      "ok": true,
+      "seconds": 4.7,
+      "returncode": 0,
+      "outputs": {
+        "work/task-4/nvidia-nayab-khalid/data/features/nvidia_skill_by_week_20260902.csv": "bbbd931423fbf560",
+        "work/task-4/nvidia-nayab-khalid/data/features/nvidia_skill_features_20260902.csv": "9be4cb9e2e52a98e",
+        "work/task-4/nvidia-nayab-khalid/data/features/nvidia_skills_long_20260902.csv": "b72d02f07e0315f7",
+        "work/task-4/nvidia-nayab-khalid/data/features/taxonomy_candidates_20260902.csv": "b953c122766ab124"
+      }
+    },
+    {
+      "stage": "trends",
+      "script": "analyse_trends.py",
+      "ok": true,
+      "seconds": 6.1,
+      "returncode": 0,
+      "outputs": {
+        "work/task-5/nvidia-nayab-khalid/data/trends/nvidia_category_mix_20260902.csv": "4e60399f392706aa",
+        "work/task-5/nvidia-nayab-khalid/data/trends/nvidia_lifespan_20260902.csv": "e1d3eb6bfbeab9f7",
+        "work/task-5/nvidia-nayab-khalid/data/trends/nvidia_weekly_trend_20260902.csv": "4559af0f5cb6d05f",
+        "work/task-5/nvidia-nayab-khalid/figures/fig1_open_roles.png": "6c41312faa1338e3",
+        "work/task-5/nvidia-nayab-khalid/figures/fig2_velocity.png": "6e76dfa8ca5a194f",
+        "work/task-5/nvidia-nayab-khalid/figures/fig3_category_mix.png": "cf738bc5d69db2d2",
+        "work/task-5/nvidia-nayab-khalid/figures/fig4_lifespan.png": "2a182ae6a0c7a14d"
+      }
+    },
+    {
+      "stage": "compare",
+      "script": "compare_companies.py",
+      "ok": true,
+      "seconds": 149.9,
+      "returncode": 0,
+      "outputs": {
+        "work/task-6/nvidia-nayab-khalid/data/comparison/basis_comparison.csv": "4568209979848294",
+        "work/task-6/nvidia-nayab-khalid/data/comparison/category_mix_by_company_titles.csv": "eaac4afe646e45ff",
+        "work/task-6/nvidia-nayab-khalid/data/comparison/nvidia_vs_others_titles.csv": "5d3a26a34d310ea0",
+        "work/task-6/nvidia-nayab-khalid/data/comparison/skill_share_by_company_titles.csv": "09e9790e5867babe",
+        "work/task-6/nvidia-nayab-khalid/figures/fig0_validity_control.png": "05be7a49750ae631",
+        "work/task-6/nvidia-nayab-khalid/figures/fig1_basis_gap.png": "f83135bb2181d0ab",
+        "work/task-6/nvidia-nayab-khalid/figures/fig2_category_mix.png": "e99db05d49b7ed6f",
+        "work/task-6/nvidia-nayab-khalid/figures/fig3_nvidia_vs_others.png": "6d6be3cabbac7c37"
+      }
+    },
+    {
+      "stage": "forecast",
+      "script": "forecast_demand.py",
+      "ok": true,
+      "seconds": 6.3,
+      "returncode": 0,
+      "outputs": {
+        "work/task-7/nvidia-nayab-khalid/data/forecasts/forecast_summary.csv": "d6255a499e233025",
+        "work/task-7/nvidia-nayab-khalid/data/forecasts/new_per_day_backtest.csv": "a03ba6349113b961",
+        "work/task-7/nvidia-nayab-khalid/data/forecasts/new_per_day_forecast.csv": "9f827124b0d63e98",
+        "work/task-7/nvidia-nayab-khalid/data/forecasts/open_roles_backtest.csv": "23ee4e43921b0cc2",
+        "work/task-7/nvidia-nayab-khalid/data/forecasts/open_roles_forecast.csv": "e78892d01aaf97ae",
+        "work/task-7/nvidia-nayab-khalid/figures/backtest_open_roles.png": "9d5e64f0fcbf39d9",
+        "work/task-7/nvidia-nayab-khalid/figures/new_per_day_forecast.png": "e52d411bbc4104bc",
+        "work/task-7/nvidia-nayab-khalid/figures/open_roles_forecast.png": "53441dda9853bdb4"
+      }
+    },
+    {
+      "stage": "similarity",
+      "script": "similarity.py",
+      "ok": true,
+      "seconds": 75.8,
+      "returncode": 0,
+      "outputs": {
+        "work/task-8/nvidia-nayab-khalid/data/similarity/matrix_comparison.csv": "37f8dfe62a6076d0",
+        "work/task-8/nvidia-nayab-khalid/data/similarity/pair_drivers.csv": "732f3e7afc909117",
+        "work/task-8/nvidia-nayab-khalid/data/similarity/similarity_M1_extended_titles.csv": "2d0177429d3ee079",
+        "work/task-8/nvidia-nayab-khalid/data/similarity/similarity_M2_original_titles.csv": "4c48832f3ff64d8b",
+        "work/task-8/nvidia-nayab-khalid/data/similarity/similarity_M3_extended_fulltext.csv": "7e50884813180f05",
+        "work/task-8/nvidia-nayab-khalid/figures/fig1_similarity_extended.png": "d34599ffd8af3ab1",
+        "work/task-8/nvidia-nayab-khalid/figures/fig2_similarity_control.png": "f66cd37ac2683618",
+        "work/task-8/nvidia-nayab-khalid/figures/fig3_similarity_fulltext.png": "a7753ad9c592bc08"
+      }
+    }
+  ]
+}

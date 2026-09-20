@@ -1,0 +1,7 @@
+pair,cosine_M1,cosine_M2,skills_in_common,top_shared,top_divider
+NVIDIA - Microsoft,0.216,0.0934,5,"Cloud Infrastructure, Cybersecurity, Embedded Systems","Solutions Architecture, Networking, Datacenter Systems"
+NVIDIA - Meta,0.1465,0.1947,12,"Datacenter Systems, Machine Learning, Robotics","Solutions Architecture, Networking, Cloud Infrastructure"
+Microsoft - Meta,0.0986,0.1312,1,Machine Learning,"Computer Vision, Cloud Infrastructure, Machine Learning"
+NVIDIA - Google,0.0751,0.0094,24,"Solutions Architecture, Cloud Infrastructure, Networking","GCP, Solutions Architecture, Networking"
+Google - Microsoft,0.0514,0.0032,5,"Cloud Infrastructure, Cybersecurity, Machine Learning","GCP, Azure, Business Development"
+Google - Meta,0.0157,0.0139,9,"Machine Learning, Computer Vision, Robotics","GCP, Machine Learning, Computer Vision"

@@ -1,0 +1,62 @@
+skill,NVIDIA,others_mean,gap
+Solutions Architecture,11.0,0.35,10.65
+Networking,8.14,0.3,7.84
+Performance Engineering,6.48,0.19,6.29
+Datacenter Systems,6.76,0.56,6.2
+Cloud Infrastructure,7.62,1.7,5.92
+Deep Learning,4.64,0.0,4.64
+Silicon Verification,4.53,0.03,4.5
+SoC Design,3.5,0.0,3.5
+Developer Relations,3.27,0.0,3.27
+Compilers,3.15,0.0,3.15
+Agentic AI,3.21,0.16,3.05
+HPC,2.75,0.05,2.7
+Cybersecurity,3.15,0.67,2.48
+Digital Twin and Simulation,2.01,0.05,1.96
+Autonomous Vehicles,1.89,0.0,1.89
+Site Reliability,2.29,0.4,1.89
+Embedded Systems,2.23,0.39,1.84
+Computer Architecture,1.89,0.08,1.81
+Physical Design,1.78,0.05,1.73
+CUDA,1.55,0.0,1.55
+CPU Architecture,1.43,0.0,1.43
+Inference and Serving,1.32,0.0,1.32
+Analog and Mixed Signal,1.2,0.05,1.15
+Storage Systems,0.97,0.03,0.94
+Design Automation,0.86,0.0,0.86
+Test Automation,0.8,0.0,0.8
+Kubernetes,0.8,0.0,0.8
+DPU and Offload,0.8,0.0,0.8
+C++,0.63,0.0,0.63
+Robotics,1.49,0.88,0.61
+Kernel and Drivers,0.57,0.0,0.57
+Graphics and Rendering,0.69,0.19,0.5
+Design for Test,0.46,0.0,0.46
+Healthcare AI,0.4,0.0,0.4
+Firmware,0.34,0.0,0.34
+Model Monitoring,0.34,0.0,0.34
+Reinforcement Learning,0.34,0.0,0.34
+LLMs,0.97,0.64,0.33
+Distributed Training,0.29,0.0,0.29
+Python,0.29,0.0,0.29
+TensorRT,0.29,0.0,0.29
+AI Safety,0.4,0.16,0.24
+Technical Program Management,0.23,0.0,0.23
+MLOps,0.23,0.0,0.23
+RTL Design,0.23,0.0,0.23
+Rust,0.23,0.0,0.23
+Signal and Power Integrity,0.57,0.35,0.22
+PyTorch,0.17,0.0,0.17
+Triton Inference Server,0.17,0.0,0.17
+JAX,0.17,0.0,0.17
+Business Development,0.8,0.68,0.12
+GPU Computing,0.11,0.0,0.11
+GPU Architecture,0.11,0.0,0.11
+Generative AI,0.11,0.0,0.11
+Technical Leadership,0.11,0.19,-0.08
+Speech and Audio,0.11,0.21,-0.1
+Go,0.29,0.65,-0.36
+Machine Learning,1.32,1.78,-0.46
+Azure,0.0,0.73,-0.73
+Computer Vision,0.23,1.14,-0.91
+GCP,0.0,7.04,-7.04

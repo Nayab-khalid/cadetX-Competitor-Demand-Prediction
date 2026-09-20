@@ -1,0 +1,6 @@
+model,MAE,MAPE_pct,bias,residual_sd
+Simple exponential smoothing,5.91,1.38,-3.14,8.73
+Mean of last 3,6.33,1.5,-0.67,8.52
+Holt linear trend,8.45,2.01,3.49,8.97
+Naive (last value),9.0,2.14,2.0,12.08
+Drift,10.96,2.61,5.3,12.49

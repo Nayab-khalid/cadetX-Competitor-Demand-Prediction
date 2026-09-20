@@ -1,0 +1,5 @@
+company,Google,Meta,Microsoft,NVIDIA
+Google,1.0,0.0139,0.0032,0.0094
+Meta,0.0139,1.0,0.1312,0.1947
+Microsoft,0.0032,0.1312,1.0,0.0934
+NVIDIA,0.0094,0.1947,0.0934,1.0

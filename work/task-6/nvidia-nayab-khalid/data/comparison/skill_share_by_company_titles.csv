@@ -1,0 +1,62 @@
+skill,Google,Meta,Microsoft,NVIDIA,max_gap
+GCP,21.11,0.0,0.0,0.0,21.11
+Solutions Architecture,1.06,0.0,0.0,11.0,11.0
+Networking,0.9,0.0,0.0,8.14,8.14
+Cloud Infrastructure,2.36,0.0,2.75,7.62,7.62
+Datacenter Systems,0.24,1.44,0.0,6.76,6.76
+Performance Engineering,0.57,0.0,0.0,6.48,6.48
+Deep Learning,0.0,0.0,0.0,4.64,4.64
+Silicon Verification,0.08,0.0,0.0,4.53,4.53
+SoC Design,0.0,0.0,0.0,3.5,3.5
+Machine Learning,0.41,3.83,1.1,1.32,3.42
+Computer Vision,0.08,3.35,0.0,0.23,3.35
+Developer Relations,0.0,0.0,0.0,3.27,3.27
+Agentic AI,0.0,0.48,0.0,3.21,3.21
+Compilers,0.0,0.0,0.0,3.15,3.15
+Cybersecurity,1.47,0.0,0.55,3.15,3.15
+HPC,0.16,0.0,0.0,2.75,2.75
+Robotics,0.24,2.39,0.0,1.49,2.39
+Site Reliability,0.65,0.0,0.55,2.29,2.29
+Embedded Systems,0.08,0.0,1.1,2.23,2.23
+Azure,0.0,0.0,2.2,0.0,2.2
+Business Development,2.04,0.0,0.0,0.8,2.04
+Digital Twin and Simulation,0.16,0.0,0.0,2.01,2.01
+LLMs,0.0,1.91,0.0,0.97,1.91
+Autonomous Vehicles,0.0,0.0,0.0,1.89,1.89
+Computer Architecture,0.24,0.0,0.0,1.89,1.89
+Physical Design,0.16,0.0,0.0,1.78,1.78
+CUDA,0.0,0.0,0.0,1.55,1.55
+Go,1.47,0.48,0.0,0.29,1.47
+CPU Architecture,0.0,0.0,0.0,1.43,1.43
+Inference and Serving,0.0,0.0,0.0,1.32,1.32
+Analog and Mixed Signal,0.16,0.0,0.0,1.2,1.2
+Storage Systems,0.08,0.0,0.0,0.97,0.97
+Signal and Power Integrity,0.08,0.96,0.0,0.57,0.96
+Design Automation,0.0,0.0,0.0,0.86,0.86
+Test Automation,0.0,0.0,0.0,0.8,0.8
+Kubernetes,0.0,0.0,0.0,0.8,0.8
+DPU and Offload,0.0,0.0,0.0,0.8,0.8
+Graphics and Rendering,0.08,0.48,0.0,0.69,0.69
+C++,0.0,0.0,0.0,0.63,0.63
+Kernel and Drivers,0.0,0.0,0.0,0.57,0.57
+Speech and Audio,0.16,0.48,0.0,0.11,0.48
+Technical Leadership,0.08,0.48,0.0,0.11,0.48
+AI Safety,0.0,0.48,0.0,0.4,0.48
+Design for Test,0.0,0.0,0.0,0.46,0.46
+Healthcare AI,0.0,0.0,0.0,0.4,0.4
+Reinforcement Learning,0.0,0.0,0.0,0.34,0.34
+Model Monitoring,0.0,0.0,0.0,0.34,0.34
+Firmware,0.0,0.0,0.0,0.34,0.34
+Distributed Training,0.0,0.0,0.0,0.29,0.29
+Python,0.0,0.0,0.0,0.29,0.29
+TensorRT,0.0,0.0,0.0,0.29,0.29
+RTL Design,0.0,0.0,0.0,0.23,0.23
+Rust,0.0,0.0,0.0,0.23,0.23
+MLOps,0.0,0.0,0.0,0.23,0.23
+Technical Program Management,0.0,0.0,0.0,0.23,0.23
+PyTorch,0.0,0.0,0.0,0.17,0.17
+Triton Inference Server,0.0,0.0,0.0,0.17,0.17
+JAX,0.0,0.0,0.0,0.17,0.17
+GPU Architecture,0.0,0.0,0.0,0.11,0.11
+GPU Computing,0.0,0.0,0.0,0.11,0.11
+Generative AI,0.0,0.0,0.0,0.11,0.11

@@ -1,0 +1,2 @@
+precision,recall,f1,tp,fp,fn,titles,exact_rows
+0.857,0.818,0.837,36,6,8,40,30

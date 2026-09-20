@@ -1,0 +1,216 @@
+# Canonical skill taxonomy - ALIGNMENT LOCK #2.
+# Rules in docs/skill-taxonomy.md. Add entries by PR only, two approvals. Never rename a canonical
+# name once analysis has started - add an alias instead.
+
+version: 0.1.0
+status: starter   # expand during Task 4 from the candidate skills each member collects
+
+categories:
+  - languages
+  - ml_frameworks
+  - data_engineering
+  - cloud_infra
+  - mlops_devops
+  - analytics_bi
+  - hardware_systems
+  - research_domains
+  - product_process
+
+skills:
+  # ---- languages
+  - name: Python
+    category: languages
+    aliases: [python3, py]
+  - name: SQL
+    category: languages
+    aliases: [t-sql, pl/sql, ansi sql]
+  - name: C++
+    category: languages
+    aliases: [cpp, c/c++, modern c++]
+  - name: C
+    category: languages
+    aliases: []
+  - name: Java
+    category: languages
+    aliases: []
+  - name: Scala
+    category: languages
+    aliases: []
+  - name: Go
+    category: languages
+    aliases: [golang]
+  - name: Rust
+    category: languages
+    aliases: []
+  - name: R
+    category: languages
+    aliases: []
+  - name: JavaScript
+    category: languages
+    aliases: [js, typescript, ts]
+
+  # ---- ml frameworks
+  - name: PyTorch
+    category: ml_frameworks
+    aliases: [torch, py torch, pytorch lightning]
+  - name: TensorFlow
+    category: ml_frameworks
+    aliases: [tf, tensorflow2, keras]
+  - name: JAX
+    category: ml_frameworks
+    aliases: [flax]
+  - name: scikit-learn
+    category: ml_frameworks
+    aliases: [sklearn, scikit learn]
+  - name: Hugging Face Transformers
+    category: ml_frameworks
+    aliases: [huggingface, hf transformers, transformers library]
+  - name: ONNX
+    category: ml_frameworks
+    aliases: [onnx runtime]
+  - name: TensorRT
+    category: ml_frameworks
+    aliases: [tensor rt]
+  - name: Triton Inference Server
+    category: ml_frameworks
+    aliases: [triton, triton server]
+
+  # ---- data engineering
+  - name: Apache Spark
+    category: data_engineering
+    aliases: [spark, pyspark]
+  - name: Apache Kafka
+    category: data_engineering
+    aliases: [kafka]
+  - name: Apache Airflow
+    category: data_engineering
+    aliases: [airflow]
+  - name: dbt
+    category: data_engineering
+    aliases: [data build tool]
+  - name: Snowflake
+    category: data_engineering
+    aliases: []
+  - name: Databricks
+    category: data_engineering
+    aliases: []
+  - name: ETL
+    category: data_engineering
+    aliases: [elt, data pipelines]
+
+  # ---- cloud & infra
+  - name: AWS
+    category: cloud_infra
+    aliases: [amazon web services, ec2, s3, sagemaker]
+  - name: Azure
+    category: cloud_infra
+    aliases: [microsoft azure, azure ml]
+  - name: GCP
+    category: cloud_infra
+    aliases: [google cloud, google cloud platform, vertex ai, bigquery]
+  - name: Kubernetes
+    category: cloud_infra
+    aliases: [k8s, eks, aks, gke]
+  - name: Docker
+    category: cloud_infra
+    aliases: [containers, containerisation]
+  - name: Terraform
+    category: cloud_infra
+    aliases: [iac, infrastructure as code]
+
+  # ---- mlops / devops
+  - name: MLOps
+    category: mlops_devops
+    aliases: [ml ops, model operations]
+  - name: CI/CD
+    category: mlops_devops
+    aliases: [continuous integration, jenkins, github actions, gitlab ci]
+  - name: MLflow
+    category: mlops_devops
+    aliases: [ml flow]
+  - name: Model Monitoring
+    category: mlops_devops
+    aliases: [drift detection, observability]
+
+  # ---- analytics & bi
+  - name: Tableau
+    category: analytics_bi
+    aliases: []
+  - name: Power BI
+    category: analytics_bi
+    aliases: [powerbi]
+  - name: A/B Testing
+    category: analytics_bi
+    aliases: [experimentation, split testing]
+  - name: Statistics
+    category: analytics_bi
+    aliases: [statistical modelling, statistical modeling]
+
+  # ---- hardware & systems  (heavily represented at NVIDIA)
+  - name: CUDA
+    category: hardware_systems
+    aliases: [cuda c, cuda kernels]
+  - name: GPU Computing
+    category: hardware_systems
+    aliases: [gpu programming, accelerated computing]
+  - name: HPC
+    category: hardware_systems
+    aliases: [high performance computing, mpi]
+  - name: Embedded Systems
+    category: hardware_systems
+    aliases: [firmware, rtos]
+  - name: Computer Architecture
+    category: hardware_systems
+    aliases: [asic, rtl, verilog, systemverilog]
+  - name: Distributed Training
+    category: hardware_systems
+    aliases: [multi-gpu, nccl, model parallelism, data parallelism]
+
+  # ---- research domains
+  - name: Machine Learning
+    category: research_domains
+    aliases: [ml]
+  - name: Deep Learning
+    category: research_domains
+    aliases: [dl, neural networks]
+  - name: NLP
+    category: research_domains
+    aliases: [natural language processing, computational linguistics]
+  - name: Computer Vision
+    category: research_domains
+    aliases: [cv, image processing]
+  - name: LLMs
+    category: research_domains
+    aliases: [large language models, foundation models, genai, generative ai]
+  - name: RAG
+    category: research_domains
+    aliases: [retrieval augmented generation]
+  - name: RLHF
+    category: research_domains
+    aliases: [reinforcement learning from human feedback]
+  - name: Reinforcement Learning
+    category: research_domains
+    aliases: [rl]
+  - name: Robotics
+    category: research_domains
+    aliases: [autonomous systems, self-driving, av]
+  - name: Recommender Systems
+    category: research_domains
+    aliases: [recsys, ranking]
+  - name: AI Safety
+    category: research_domains
+    aliases: [alignment, responsible ai, trustworthy ai]
+
+  # ---- product & process
+  - name: Agile
+    category: product_process
+    aliases: [scrum, kanban]
+  - name: Technical Leadership
+    category: product_process
+    aliases: [tech lead, mentoring engineers]
+  - name: Research Publication
+    category: product_process
+    aliases: [neurips, icml, cvpr, publications]
+
+# Skills seen in postings but not yet canonical. Empty this list every week by promoting or rejecting.
+candidates: []
