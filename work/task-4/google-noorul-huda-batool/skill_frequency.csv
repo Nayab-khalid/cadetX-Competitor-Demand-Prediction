@@ -1,0 +1,94 @@
+skill,skill_category,postings_mentioning,pct_of_postings
+bachelors_degree,Education & Certifications,839,74.45
+sales,Business & Soft Skills,477,42.32
+cross_functional_collaboration,Business & Soft Skills,424,37.62
+marketing,Business & Soft Skills,390,34.61
+strategic_planning,Business & Soft Skills,343,30.43
+stakeholder_management,Business & Soft Skills,336,29.81
+google_cloud,Cloud & Infrastructure,272,24.13
+computer_science_degree,Education & Certifications,266,23.6
+leadership,Business & Soft Skills,261,23.16
+consulting,Business & Soft Skills,255,22.63
+communication_skills,Business & Soft Skills,247,21.92
+project_management,Business & Soft Skills,239,21.21
+masters_degree,Education & Certifications,184,16.33
+problem_solving,Business & Soft Skills,178,15.79
+analytical_skills,Business & Soft Skills,177,15.71
+python,Programming Languages,158,14.02
+scala,Programming Languages,154,13.66
+c_lang,Programming Languages,152,13.49
+javascript,Programming Languages,136,12.07
+customer_service,Business & Soft Skills,127,11.27
+sql,Programming Languages,121,10.74
+java,Programming Languages,114,10.12
+product_management,Business & Soft Skills,114,10.12
+go,Programming Languages,104,9.23
+statistics,Data & Machine Learning,99,8.78
+hardware_engineering,Hardware & Manufacturing,99,8.78
+cloud_computing,Cloud & Infrastructure,98,8.7
+html_css,Web & Frameworks,90,7.99
+databases_general,Databases,80,7.1
+presentation_skills,Business & Soft Skills,80,7.1
+c++,Programming Languages,79,7.01
+phd,Education & Certifications,76,6.74
+data_analysis,Data & Machine Learning,74,6.57
+security_general,Security,68,6.03
+compliance,Security,67,5.94
+linux,Cloud & Infrastructure,63,5.59
+android,Web & Frameworks,62,5.5
+networking,Cloud & Infrastructure,62,5.5
+big_data,Data & Machine Learning,59,5.24
+mobile_development,Web & Frameworks,55,4.88
+team_management,Business & Soft Skills,50,4.44
+budget_management,Business & Soft Skills,50,4.44
+program_management,Business & Soft Skills,50,4.44
+r_lang,Programming Languages,48,4.26
+negotiation,Business & Soft Skills,45,3.99
+supply_chain,Hardware & Manufacturing,42,3.73
+machine_learning,Data & Machine Learning,37,3.28
+manufacturing,Hardware & Manufacturing,35,3.11
+risk_management,Security,34,3.02
+distributed_systems,Cloud & Infrastructure,34,3.02
+ios,Web & Frameworks,33,2.93
+agile_scrum,Business & Soft Skills,29,2.57
+php,Programming Languages,27,2.4
+electrical_engineering,Hardware & Manufacturing,27,2.4
+data_science,Data & Machine Learning,23,2.04
+matlab,Programming Languages,22,1.95
+algorithms,Data & Machine Learning,21,1.86
+rest_api,Web & Frameworks,21,1.86
+privacy,Security,19,1.69
+ruby,Programming Languages,19,1.69
+c#,Programming Languages,18,1.6
+data_warehousing,Databases,16,1.42
+mysql,Databases,16,1.42
+quality_assurance,Hardware & Manufacturing,13,1.15
+data_mining,Data & Machine Learning,12,1.06
+mechanical_engineering,Hardware & Manufacturing,12,1.06
+virtualization,Cloud & Infrastructure,11,0.98
+site_reliability,Cloud & Infrastructure,11,0.98
+angular,Web & Frameworks,9,0.8
+data_visualization,Data & Machine Learning,9,0.8
+spanner_bigtable,Databases,8,0.71
+artificial_intelligence,Data & Machine Learning,7,0.62
+encryption,Security,7,0.62
+azure,Cloud & Infrastructure,6,0.53
+aws,Cloud & Infrastructure,6,0.53
+tensorflow,Data & Machine Learning,6,0.53
+natural_language_processing,Data & Machine Learning,6,0.53
+mongodb,Databases,5,0.44
+shell_scripting,Programming Languages,5,0.44
+kubernetes,Cloud & Infrastructure,4,0.35
+docker,Cloud & Infrastructure,4,0.35
+nosql,Databases,4,0.35
+predictive_modeling,Data & Machine Learning,3,0.27
+kotlin,Programming Languages,3,0.27
+circuit_design,Hardware & Manufacturing,3,0.27
+swift,Programming Languages,2,0.18
+cybersecurity,Security,2,0.18
+ci_cd,Cloud & Infrastructure,2,0.18
+devops,Cloud & Infrastructure,2,0.18
+computer_vision,Data & Machine Learning,1,0.09
+microservices,Cloud & Infrastructure,1,0.09
+node_js,Web & Frameworks,1,0.09
+react,Web & Frameworks,1,0.09

@@ -1,0 +1,370 @@
+year_month,Category,postings
+2023-01,Business Strategy,3
+2023-01,Finance,4
+2023-01,Hardware Engineering,2
+2023-01,Legal & Government Relations,3
+2023-01,Marketing & Communications,10
+2023-01,Partnerships,1
+2023-01,People Operations,4
+2023-01,Product & Customer Support,1
+2023-01,Program Management,4
+2023-01,Sales & Account Management,9
+2023-01,Software Engineering,3
+2023-01,Technical Solutions,2
+2023-01,User Experience & Design,11
+2023-02,Business Strategy,2
+2023-02,Data Center & Network,1
+2023-02,Finance,3
+2023-02,Legal & Government Relations,1
+2023-02,Manufacturing & Supply Chain,1
+2023-02,Marketing & Communications,6
+2023-02,Partnerships,2
+2023-02,People Operations,1
+2023-02,Product & Customer Support,2
+2023-02,Program Management,4
+2023-02,Real Estate & Workplace Services,1
+2023-02,Sales & Account Management,8
+2023-02,Sales Operations,1
+2023-02,Technical Solutions,2
+2023-02,User Experience & Design,1
+2023-03,Administrative,1
+2023-03,Business Strategy,5
+2023-03,Finance,4
+2023-03,Hardware Engineering,1
+2023-03,Legal & Government Relations,5
+2023-03,Manufacturing & Supply Chain,4
+2023-03,Marketing & Communications,8
+2023-03,Partnerships,3
+2023-03,People Operations,3
+2023-03,Product & Customer Support,2
+2023-03,Program Management,6
+2023-03,Real Estate & Workplace Services,4
+2023-03,Sales & Account Management,10
+2023-03,Sales Operations,4
+2023-03,Software Engineering,2
+2023-03,Technical Solutions,3
+2023-03,User Experience & Design,5
+2023-04,Administrative,1
+2023-04,Business Strategy,3
+2023-04,Finance,6
+2023-04,Hardware Engineering,1
+2023-04,Legal & Government Relations,4
+2023-04,Manufacturing & Supply Chain,1
+2023-04,Marketing & Communications,4
+2023-04,Partnerships,2
+2023-04,People Operations,2
+2023-04,Product & Customer Support,3
+2023-04,Program Management,1
+2023-04,Real Estate & Workplace Services,3
+2023-04,Sales & Account Management,7
+2023-04,Sales Operations,2
+2023-04,Software Engineering,2
+2023-04,Technical Solutions,3
+2023-04,Technical Writing,2
+2023-04,User Experience & Design,5
+2023-05,Administrative,1
+2023-05,Business Strategy,3
+2023-05,Finance,5
+2023-05,Hardware Engineering,2
+2023-05,Legal & Government Relations,2
+2023-05,Marketing & Communications,7
+2023-05,Partnerships,2
+2023-05,People Operations,4
+2023-05,Program Management,3
+2023-05,Sales & Account Management,9
+2023-05,Software Engineering,4
+2023-05,Technical Solutions,3
+2023-05,User Experience & Design,5
+2023-06,Administrative,1
+2023-06,Finance,6
+2023-06,Legal & Government Relations,2
+2023-06,Marketing & Communications,6
+2023-06,Partnerships,1
+2023-06,People Operations,4
+2023-06,Product & Customer Support,3
+2023-06,Program Management,3
+2023-06,Real Estate & Workplace Services,1
+2023-06,Sales & Account Management,6
+2023-06,Software Engineering,1
+2023-06,Technical Infrastructure,1
+2023-06,Technical Solutions,7
+2023-06,Technical Writing,1
+2023-06,User Experience & Design,3
+2023-07,Administrative,6
+2023-07,Business Strategy,2
+2023-07,Finance,5
+2023-07,Legal & Government Relations,2
+2023-07,Manufacturing & Supply Chain,2
+2023-07,Marketing & Communications,10
+2023-07,Partnerships,2
+2023-07,People Operations,4
+2023-07,Product & Customer Support,2
+2023-07,Program Management,3
+2023-07,Sales & Account Management,9
+2023-07,Sales Operations,4
+2023-07,Software Engineering,1
+2023-07,Technical Infrastructure,2
+2023-07,Technical Solutions,4
+2023-07,Technical Writing,1
+2023-07,User Experience & Design,5
+2023-08,Business Strategy,6
+2023-08,Finance,1
+2023-08,Hardware Engineering,2
+2023-08,Legal & Government Relations,1
+2023-08,Marketing & Communications,4
+2023-08,Network Engineering,1
+2023-08,Partnerships,2
+2023-08,People Operations,3
+2023-08,Product & Customer Support,2
+2023-08,Program Management,2
+2023-08,Sales & Account Management,8
+2023-08,Sales Operations,1
+2023-08,Technical Infrastructure,1
+2023-08,Technical Solutions,3
+2023-08,User Experience & Design,2
+2023-09,Business Strategy,6
+2023-09,Developer Relations,1
+2023-09,Finance,3
+2023-09,Hardware Engineering,2
+2023-09,Legal & Government Relations,1
+2023-09,Manufacturing & Supply Chain,1
+2023-09,Marketing & Communications,10
+2023-09,Partnerships,1
+2023-09,People Operations,7
+2023-09,Product & Customer Support,1
+2023-09,Program Management,1
+2023-09,Real Estate & Workplace Services,3
+2023-09,Sales & Account Management,5
+2023-09,Sales Operations,2
+2023-09,Software Engineering,1
+2023-09,Technical Infrastructure,2
+2023-09,User Experience & Design,2
+2023-10,Administrative,1
+2023-10,Business Strategy,3
+2023-10,Developer Relations,1
+2023-10,Finance,2
+2023-10,Hardware Engineering,2
+2023-10,Legal & Government Relations,5
+2023-10,Manufacturing & Supply Chain,2
+2023-10,Marketing & Communications,7
+2023-10,Network Engineering,2
+2023-10,Partnerships,4
+2023-10,People Operations,5
+2023-10,Product & Customer Support,1
+2023-10,Program Management,4
+2023-10,Sales & Account Management,8
+2023-10,Sales Operations,1
+2023-10,Software Engineering,1
+2023-10,Technical Solutions,6
+2023-10,User Experience & Design,2
+2023-11,Administrative,1
+2023-11,Business Strategy,2
+2023-11,Finance,5
+2023-11,Hardware Engineering,2
+2023-11,Legal & Government Relations,1
+2023-11,Marketing & Communications,8
+2023-11,Partnerships,2
+2023-11,People Operations,3
+2023-11,Product & Customer Support,1
+2023-11,Program Management,4
+2023-11,Real Estate & Workplace Services,1
+2023-11,Sales & Account Management,11
+2023-11,Technical Solutions,1
+2023-11,User Experience & Design,2
+2023-12,Administrative,1
+2023-12,Business Strategy,1
+2023-12,Finance,7
+2023-12,Hardware Engineering,1
+2023-12,Legal & Government Relations,2
+2023-12,Marketing & Communications,7
+2023-12,Partnerships,1
+2023-12,People Operations,3
+2023-12,Product & Customer Support,2
+2023-12,Real Estate & Workplace Services,1
+2023-12,Sales & Account Management,4
+2023-12,Sales Operations,3
+2023-12,Software Engineering,2
+2023-12,Technical Solutions,3
+2023-12,User Experience & Design,2
+2024-01,Business Strategy,3
+2024-01,Finance,1
+2024-01,Hardware Engineering,1
+2024-01,Manufacturing & Supply Chain,1
+2024-01,Marketing & Communications,6
+2024-01,Network Engineering,1
+2024-01,Partnerships,4
+2024-01,People Operations,2
+2024-01,Product & Customer Support,3
+2024-01,Program Management,3
+2024-01,Sales & Account Management,5
+2024-01,Sales Operations,2
+2024-01,Software Engineering,1
+2024-01,Technical Solutions,4
+2024-01,User Experience & Design,9
+2024-02,Business Strategy,1
+2024-02,Finance,1
+2024-02,Hardware Engineering,1
+2024-02,Legal & Government Relations,4
+2024-02,Marketing & Communications,5
+2024-02,Partnerships,3
+2024-02,People Operations,4
+2024-02,Product & Customer Support,2
+2024-02,Program Management,3
+2024-02,Real Estate & Workplace Services,1
+2024-02,Sales & Account Management,10
+2024-02,Software Engineering,1
+2024-02,Technical Solutions,7
+2024-02,User Experience & Design,4
+2024-03,Administrative,1
+2024-03,Business Strategy,1
+2024-03,Finance,2
+2024-03,Marketing & Communications,6
+2024-03,Partnerships,2
+2024-03,People Operations,10
+2024-03,Product & Customer Support,1
+2024-03,Program Management,6
+2024-03,Real Estate & Workplace Services,1
+2024-03,Sales & Account Management,6
+2024-03,Sales Operations,2
+2024-03,Software Engineering,2
+2024-03,Technical Solutions,3
+2024-03,User Experience & Design,3
+2024-04,Business Strategy,1
+2024-04,Finance,3
+2024-04,Hardware Engineering,1
+2024-04,IT & Data Management,1
+2024-04,Marketing & Communications,5
+2024-04,Network Engineering,1
+2024-04,Partnerships,1
+2024-04,People Operations,3
+2024-04,Product & Customer Support,2
+2024-04,Program Management,4
+2024-04,Sales & Account Management,8
+2024-04,Software Engineering,1
+2024-04,Technical Solutions,5
+2024-04,User Experience & Design,3
+2024-05,Administrative,1
+2024-05,Business Strategy,5
+2024-05,Finance,3
+2024-05,IT & Data Management,1
+2024-05,Legal & Government Relations,2
+2024-05,Manufacturing & Supply Chain,1
+2024-05,Marketing & Communications,5
+2024-05,Partnerships,1
+2024-05,People Operations,3
+2024-05,Product & Customer Support,2
+2024-05,Program Management,2
+2024-05,Sales & Account Management,6
+2024-05,Sales Operations,1
+2024-05,Technical Infrastructure,2
+2024-05,Technical Solutions,6
+2024-05,Technical Writing,1
+2024-05,User Experience & Design,3
+2024-06,Business Strategy,5
+2024-06,Finance,5
+2024-06,Hardware Engineering,1
+2024-06,Legal & Government Relations,2
+2024-06,Marketing & Communications,6
+2024-06,Partnerships,4
+2024-06,People Operations,3
+2024-06,Product & Customer Support,2
+2024-06,Program Management,3
+2024-06,Real Estate & Workplace Services,2
+2024-06,Sales & Account Management,8
+2024-06,Sales Operations,2
+2024-06,Software Engineering,2
+2024-06,Technical Infrastructure,1
+2024-06,Technical Solutions,6
+2024-06,User Experience & Design,1
+2024-07,Administrative,2
+2024-07,Business Strategy,1
+2024-07,Developer Relations,1
+2024-07,Finance,1
+2024-07,Hardware Engineering,2
+2024-07,Legal & Government Relations,1
+2024-07,Marketing & Communications,3
+2024-07,Partnerships,2
+2024-07,Product & Customer Support,1
+2024-07,Program Management,5
+2024-07,Real Estate & Workplace Services,2
+2024-07,Sales & Account Management,5
+2024-07,Sales Operations,1
+2024-07,Software Engineering,1
+2024-07,Technical Solutions,4
+2024-07,User Experience & Design,2
+2024-08,Business Strategy,2
+2024-08,Finance,5
+2024-08,Hardware Engineering,1
+2024-08,Manufacturing & Supply Chain,1
+2024-08,Marketing & Communications,8
+2024-08,Partnerships,3
+2024-08,People Operations,5
+2024-08,Product & Customer Support,1
+2024-08,Real Estate & Workplace Services,1
+2024-08,Sales & Account Management,9
+2024-08,Sales Operations,2
+2024-08,Software Engineering,1
+2024-08,Technical Solutions,4
+2024-08,User Experience & Design,4
+2024-09,Business Strategy,3
+2024-09,Finance,6
+2024-09,Hardware Engineering,2
+2024-09,Marketing & Communications,5
+2024-09,Partnerships,1
+2024-09,People Operations,2
+2024-09,Product & Customer Support,1
+2024-09,Program Management,2
+2024-09,Real Estate & Workplace Services,1
+2024-09,Sales & Account Management,4
+2024-09,Software Engineering,2
+2024-09,Technical Infrastructure,1
+2024-09,Technical Solutions,9
+2024-09,User Experience & Design,4
+2024-10,Administrative,2
+2024-10,Business Strategy,4
+2024-10,Developer Relations,1
+2024-10,Finance,1
+2024-10,Hardware Engineering,1
+2024-10,Legal & Government Relations,3
+2024-10,Marketing & Communications,6
+2024-10,Partnerships,4
+2024-10,People Operations,4
+2024-10,Product & Customer Support,2
+2024-10,Program Management,3
+2024-10,Real Estate & Workplace Services,1
+2024-10,Sales & Account Management,6
+2024-10,Sales Operations,1
+2024-10,Software Engineering,2
+2024-10,Technical Solutions,9
+2024-10,User Experience & Design,3
+2024-11,Business Strategy,1
+2024-11,Data Center & Network,1
+2024-11,Developer Relations,1
+2024-11,Finance,5
+2024-11,IT & Data Management,1
+2024-11,Legal & Government Relations,2
+2024-11,Manufacturing & Supply Chain,1
+2024-11,Marketing & Communications,4
+2024-11,Partnerships,3
+2024-11,People Operations,3
+2024-11,Program Management,2
+2024-11,Sales & Account Management,3
+2024-11,Sales Operations,1
+2024-11,Software Engineering,1
+2024-11,Technical Infrastructure,1
+2024-11,Technical Solutions,1
+2024-12,Business Strategy,2
+2024-12,Finance,2
+2024-12,Hardware Engineering,1
+2024-12,Legal & Government Relations,2
+2024-12,Manufacturing & Supply Chain,1
+2024-12,Marketing & Communications,8
+2024-12,Partnerships,3
+2024-12,People Operations,3
+2024-12,Product & Customer Support,1
+2024-12,Program Management,1
+2024-12,Real Estate & Workplace Services,2
+2024-12,Sales & Account Management,3
+2024-12,Sales Operations,1
+2024-12,Technical Solutions,6
+2024-12,User Experience & Design,3

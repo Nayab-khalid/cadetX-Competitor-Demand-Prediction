@@ -1,0 +1,86 @@
+signal_type,name,first_half,second_half,growth_pct
+category,Technical Solutions,37,64,73.0
+category,Partnerships,23,31,34.8
+category,People Operations,43,42,-2.3
+category,Program Management,35,34,-2.9
+category,Product & Customer Support,20,18,-10.0
+category,User Experience & Design,45,39,-13.3
+category,Software Engineering,17,14,-17.6
+category,Business Strategy,36,29,-19.4
+category,Real Estate & Workplace Services,14,11,-21.4
+category,Sales & Account Management,94,73,-22.3
+category,Marketing & Communications,87,67,-23.0
+category,Hardware Engineering,15,11,-26.7
+category,Sales Operations,18,13,-27.8
+category,Finance,51,35,-31.4
+category,Legal & Government Relations,29,16,-44.8
+category,Administrative,13,6,-53.8
+category,Manufacturing & Supply Chain,11,5,-54.5
+skill,data_mining,3,9,200.0
+skill,virtualization,4,7,75.0
+skill,ruby,7,12,71.4
+skill,rest_api,8,13,62.5
+skill,mobile_development,21,34,61.9
+skill,c#,7,11,57.1
+skill,security_general,27,41,51.9
+skill,networking,25,37,48.0
+skill,java,46,68,47.8
+skill,php,11,16,45.5
+skill,privacy,8,11,37.5
+skill,python,67,91,35.8
+skill,c++,35,44,25.7
+skill,electrical_engineering,12,15,25.0
+skill,ios,15,18,20.0
+skill,javascript,62,74,19.4
+skill,big_data,27,32,18.5
+skill,data_analysis,34,40,17.6
+skill,machine_learning,17,20,17.6
+skill,budget_management,23,27,17.4
+skill,team_management,23,27,17.4
+skill,quality_assurance,6,7,16.7
+skill,go,48,56,16.7
+skill,databases_general,37,43,16.2
+skill,html_css,42,48,14.3
+skill,c_lang,73,79,8.2
+skill,product_management,55,59,7.3
+skill,android,30,32,6.7
+skill,sql,59,62,5.1
+skill,cloud_computing,48,50,4.2
+skill,computer_science_degree,131,135,3.1
+skill,google_cloud,135,137,1.5
+skill,problem_solving,89,89,0.0
+skill,presentation_skills,40,40,0.0
+skill,stakeholder_management,173,163,-5.8
+skill,project_management,124,115,-7.3
+skill,algorithms,11,10,-9.1
+skill,bachelors_degree,441,398,-9.8
+skill,communication_skills,131,116,-11.5
+skill,sales,254,223,-12.2
+skill,compliance,36,31,-13.9
+skill,marketing,210,180,-14.3
+skill,leadership,141,120,-14.9
+skill,cross_functional_collaboration,230,194,-15.7
+skill,consulting,139,116,-16.5
+skill,linux,35,28,-20.0
+skill,distributed_systems,19,15,-21.1
+skill,strategic_planning,192,151,-21.4
+skill,mysql,9,7,-22.2
+skill,r_lang,27,21,-22.2
+skill,data_warehousing,9,7,-22.2
+skill,analytical_skills,100,77,-23.0
+skill,data_science,13,10,-23.1
+skill,phd,43,33,-23.3
+skill,customer_service,72,55,-23.6
+skill,negotiation,26,19,-26.9
+skill,scala,89,65,-27.0
+skill,masters_degree,107,77,-28.0
+skill,mechanical_engineering,7,5,-28.6
+skill,agile_scrum,17,12,-29.4
+skill,statistics,59,40,-32.2
+skill,program_management,30,20,-33.3
+skill,hardware_engineering,62,37,-40.3
+skill,matlab,14,8,-42.9
+skill,site_reliability,7,4,-42.9
+skill,supply_chain,27,15,-44.4
+skill,manufacturing,23,12,-47.8
+skill,risk_management,25,9,-64.0

@@ -1,0 +1,5 @@
+eval_set,model,precision,recall,f1,tp,fp,fn
+held_out_weak_labels,pretrained_no_finetune (no SKILL label),0.0,0.0,0.0,0,0,1402
+held_out_weak_labels,fine_tuned_skill_ner,0.991,0.991,0.991,1390,12,12
+generalization_paraphrases,regex_taxonomy_baseline,0.455,0.5,0.476,5,6,5
+generalization_paraphrases,fine_tuned_skill_ner,0.6,0.6,0.6,6,4,4

@@ -16,9 +16,9 @@ Task folders are created as the team reaches them.
 | 7 | Demand Forecasting | Completed |
 | 8 | Company Similarity Scoring | Completed |
 | 9 | Insight Generation and Reporting | Completed |
-| 10 | Final Presentation and Mentor Review | NVIDIA deck done |
+| 10 | Final Presentation and Mentor Review | NVIDIA + Google decks done |
 | 11 | Optional: Automated Pipeline | Completed |
-| 12 | Optional: Fine-Tune a Skill Extraction Model | Not feasible, see note |
+| 12 | Optional: Fine-Tune a Skill Extraction Model | NVIDIA: not feasible, see note. Google: completed |
 
 ## Folder pattern
 

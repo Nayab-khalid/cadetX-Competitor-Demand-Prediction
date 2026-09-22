@@ -1,0 +1,178 @@
+job_category,skill_category,mentions
+Administrative,Business & Soft Skills,83
+Administrative,Cloud & Infrastructure,4
+Administrative,Databases,1
+Administrative,Education & Certifications,21
+Administrative,Hardware & Manufacturing,2
+Administrative,Programming Languages,14
+Administrative,Security,1
+Administrative,Web & Frameworks,2
+Business Strategy,Business & Soft Skills,316
+Business Strategy,Cloud & Infrastructure,13
+Business Strategy,Data & Machine Learning,55
+Business Strategy,Databases,9
+Business Strategy,Education & Certifications,99
+Business Strategy,Hardware & Manufacturing,10
+Business Strategy,Programming Languages,74
+Business Strategy,Security,3
+Business Strategy,Web & Frameworks,4
+Data Center & Network,Business & Soft Skills,5
+Data Center & Network,Cloud & Infrastructure,1
+Data Center & Network,Education & Certifications,2
+Data Center & Network,Hardware & Manufacturing,4
+Data Center & Network,Programming Languages,1
+Data Center & Network,Security,1
+Developer Relations,Business & Soft Skills,11
+Developer Relations,Cloud & Infrastructure,2
+Developer Relations,Data & Machine Learning,2
+Developer Relations,Education & Certifications,10
+Developer Relations,Programming Languages,23
+Developer Relations,Web & Frameworks,14
+Finance,Business & Soft Skills,248
+Finance,Cloud & Infrastructure,5
+Finance,Data & Machine Learning,17
+Finance,Databases,12
+Finance,Education & Certifications,86
+Finance,Hardware & Manufacturing,20
+Finance,Programming Languages,55
+Finance,Security,52
+Hardware Engineering,Business & Soft Skills,28
+Hardware Engineering,Cloud & Infrastructure,3
+Hardware Engineering,Data & Machine Learning,8
+Hardware Engineering,Education & Certifications,23
+Hardware Engineering,Hardware & Manufacturing,43
+Hardware Engineering,Programming Languages,15
+Hardware Engineering,Security,3
+Hardware Engineering,Web & Frameworks,1
+IT & Data Management,Business & Soft Skills,15
+IT & Data Management,Cloud & Infrastructure,3
+IT & Data Management,Data & Machine Learning,1
+IT & Data Management,Education & Certifications,3
+IT & Data Management,Programming Languages,5
+IT & Data Management,Security,2
+Legal & Government Relations,Business & Soft Skills,103
+Legal & Government Relations,Cloud & Infrastructure,12
+Legal & Government Relations,Data & Machine Learning,4
+Legal & Government Relations,Databases,2
+Legal & Government Relations,Education & Certifications,26
+Legal & Government Relations,Hardware & Manufacturing,4
+Legal & Government Relations,Programming Languages,15
+Legal & Government Relations,Security,29
+Manufacturing & Supply Chain,Business & Soft Skills,36
+Manufacturing & Supply Chain,Data & Machine Learning,3
+Manufacturing & Supply Chain,Education & Certifications,18
+Manufacturing & Supply Chain,Hardware & Manufacturing,56
+Manufacturing & Supply Chain,Programming Languages,6
+Manufacturing & Supply Chain,Security,4
+Marketing & Communications,Business & Soft Skills,604
+Marketing & Communications,Cloud & Infrastructure,49
+Marketing & Communications,Data & Machine Learning,19
+Marketing & Communications,Databases,8
+Marketing & Communications,Education & Certifications,139
+Marketing & Communications,Hardware & Manufacturing,9
+Marketing & Communications,Programming Languages,68
+Marketing & Communications,Security,7
+Marketing & Communications,Web & Frameworks,11
+Network Engineering,Business & Soft Skills,7
+Network Engineering,Cloud & Infrastructure,8
+Network Engineering,Education & Certifications,9
+Network Engineering,Programming Languages,14
+Network Engineering,Security,2
+Network Engineering,Web & Frameworks,2
+Partnerships,Business & Soft Skills,269
+Partnerships,Cloud & Infrastructure,29
+Partnerships,Data & Machine Learning,6
+Partnerships,Databases,10
+Partnerships,Education & Certifications,73
+Partnerships,Hardware & Manufacturing,7
+Partnerships,Programming Languages,46
+Partnerships,Security,2
+Partnerships,Web & Frameworks,10
+People Operations,Business & Soft Skills,280
+People Operations,Cloud & Infrastructure,9
+People Operations,Data & Machine Learning,11
+People Operations,Databases,6
+People Operations,Education & Certifications,94
+People Operations,Hardware & Manufacturing,7
+People Operations,Programming Languages,30
+People Operations,Security,6
+People Operations,Web & Frameworks,4
+Product & Customer Support,Business & Soft Skills,166
+Product & Customer Support,Cloud & Infrastructure,29
+Product & Customer Support,Data & Machine Learning,29
+Product & Customer Support,Databases,4
+Product & Customer Support,Education & Certifications,50
+Product & Customer Support,Hardware & Manufacturing,4
+Product & Customer Support,Programming Languages,47
+Product & Customer Support,Security,6
+Product & Customer Support,Web & Frameworks,2
+Program Management,Business & Soft Skills,262
+Program Management,Cloud & Infrastructure,49
+Program Management,Data & Machine Learning,15
+Program Management,Databases,3
+Program Management,Education & Certifications,87
+Program Management,Hardware & Manufacturing,22
+Program Management,Programming Languages,38
+Program Management,Security,4
+Program Management,Web & Frameworks,6
+Real Estate & Workplace Services,Business & Soft Skills,58
+Real Estate & Workplace Services,Data & Machine Learning,6
+Real Estate & Workplace Services,Databases,1
+Real Estate & Workplace Services,Education & Certifications,25
+Real Estate & Workplace Services,Hardware & Manufacturing,7
+Real Estate & Workplace Services,Programming Languages,1
+Real Estate & Workplace Services,Security,33
+Sales & Account Management,Business & Soft Skills,744
+Sales & Account Management,Cloud & Infrastructure,92
+Sales & Account Management,Data & Machine Learning,26
+Sales & Account Management,Databases,9
+Sales & Account Management,Education & Certifications,184
+Sales & Account Management,Hardware & Manufacturing,2
+Sales & Account Management,Programming Languages,85
+Sales & Account Management,Security,1
+Sales & Account Management,Web & Frameworks,20
+Sales Operations,Business & Soft Skills,126
+Sales Operations,Cloud & Infrastructure,35
+Sales Operations,Data & Machine Learning,23
+Sales Operations,Databases,3
+Sales Operations,Education & Certifications,51
+Sales Operations,Hardware & Manufacturing,1
+Sales Operations,Programming Languages,38
+Sales Operations,Security,1
+Sales Operations,Web & Frameworks,3
+Software Engineering,Business & Soft Skills,20
+Software Engineering,Cloud & Infrastructure,23
+Software Engineering,Data & Machine Learning,27
+Software Engineering,Education & Certifications,49
+Software Engineering,Hardware & Manufacturing,11
+Software Engineering,Programming Languages,106
+Software Engineering,Security,4
+Software Engineering,Web & Frameworks,15
+Technical Infrastructure,Business & Soft Skills,22
+Technical Infrastructure,Cloud & Infrastructure,17
+Technical Infrastructure,Data & Machine Learning,1
+Technical Infrastructure,Education & Certifications,18
+Technical Infrastructure,Hardware & Manufacturing,4
+Technical Infrastructure,Programming Languages,24
+Technical Infrastructure,Security,5
+Technical Infrastructure,Web & Frameworks,1
+Technical Solutions,Business & Soft Skills,339
+Technical Solutions,Cloud & Infrastructure,185
+Technical Solutions,Data & Machine Learning,64
+Technical Solutions,Databases,61
+Technical Solutions,Education & Certifications,153
+Technical Solutions,Hardware & Manufacturing,10
+Technical Solutions,Programming Languages,333
+Technical Solutions,Security,31
+Technical Solutions,Web & Frameworks,84
+Technical Writing,Cloud & Infrastructure,5
+Technical Writing,Education & Certifications,5
+Technical Writing,Programming Languages,25
+Technical Writing,Web & Frameworks,10
+User Experience & Design,Business & Soft Skills,130
+User Experience & Design,Cloud & Infrastructure,3
+User Experience & Design,Data & Machine Learning,40
+User Experience & Design,Education & Certifications,140
+User Experience & Design,Hardware & Manufacturing,8
+User Experience & Design,Programming Languages,99
+User Experience & Design,Web & Frameworks,83
