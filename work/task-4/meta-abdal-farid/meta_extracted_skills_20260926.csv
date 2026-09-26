@@ -1,0 +1,723 @@
+job_id,company_name,skill_canonical,category,matched_term,matched_field,posting_month
+meta_00002,Meta,Computer Vision,research_domains,Computer Vision,title,2025-11
+meta_00002,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2025-11
+meta_00002,Meta,Robotics,research_domains,Robotics,title,2025-11
+meta_00003,Meta,Computer Vision,research_domains,Computer Vision,title,2026-02
+meta_00003,Meta,Robotics,research_domains,Robotics,description,2026-02
+meta_00003,Meta,Agentic AI,research_domains,agents,description,2026-02
+meta_00004,Meta,Computer Vision,research_domains,Computer Vision,title,2026-01
+meta_00004,Meta,Robotics,research_domains,Robotics,description,2026-01
+meta_00004,Meta,Agentic AI,research_domains,agents,description,2026-01
+meta_00005,Meta,Computer Vision,research_domains,Computer Vision,title,2026-01
+meta_00005,Meta,Robotics,research_domains,Robotics,description,2026-01
+meta_00005,Meta,Agentic AI,research_domains,agents,description,2026-01
+meta_00006,Meta,LLMs,research_domains,generative ai,title,2025-09
+meta_00006,Meta,Generative AI,research_domains,Generative AI,title,2025-09
+meta_00006,Meta,Generative AI,research_domains,generative ai,title,2025-09
+meta_00007,Meta,LLMs,research_domains,generative ai,title,2025-10
+meta_00007,Meta,Generative AI,research_domains,Generative AI,title,2025-10
+meta_00007,Meta,Generative AI,research_domains,generative ai,title,2025-10
+meta_00008,Meta,LLMs,research_domains,generative ai,title,2026-02
+meta_00008,Meta,Generative AI,research_domains,Generative AI,title,2026-02
+meta_00008,Meta,Generative AI,research_domains,generative ai,title,2026-02
+meta_00009,Meta,AI Safety,research_domains,alignment,description,2026-01
+meta_00010,Meta,AI Safety,research_domains,alignment,description,2026-01
+meta_00011,Meta,AI Safety,research_domains,alignment,description,2026-02
+meta_00012,Meta,Robotics,research_domains,Robotics,title,2025-12
+meta_00013,Meta,Robotics,research_domains,Robotics,title,2026-02
+meta_00014,Meta,Robotics,research_domains,Robotics,title,2026-01
+meta_00015,Meta,Robotics,research_domains,Robotics,title,2026-02
+meta_00016,Meta,Reinforcement Learning,research_domains,rl,description,2026-02
+meta_00016,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2026-02
+meta_00017,Meta,Reinforcement Learning,research_domains,rl,description,2026-02
+meta_00017,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2026-02
+meta_00018,Meta,Reinforcement Learning,research_domains,rl,description,2026-02
+meta_00018,Meta,Agentic AI,research_domains,Agentic AI,description,2026-02
+meta_00019,Meta,Machine Learning,research_domains,Machine Learning,description,2026-02
+meta_00019,Meta,LLMs,research_domains,large language models,description,2026-02
+meta_00019,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00020,Meta,Machine Learning,research_domains,ml,description,2026-02
+meta_00020,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00020,Meta,Performance Engineering,hardware_systems,optimization,description,2026-02
+meta_00021,Meta,Machine Learning,research_domains,ml,description,2026-02
+meta_00021,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00021,Meta,Performance Engineering,hardware_systems,optimization,description,2026-02
+meta_00022,Meta,Machine Learning,research_domains,ml,description,2026-02
+meta_00022,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00022,Meta,Performance Engineering,hardware_systems,optimization,description,2026-02
+meta_00023,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00023,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00023,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00024,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00024,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00024,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00025,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00025,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00025,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00026,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00026,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00026,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00027,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00027,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00027,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00028,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00028,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00028,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00029,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00029,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00029,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00030,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00030,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00030,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00031,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00031,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00031,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00032,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00032,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00032,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00033,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00033,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00033,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00034,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00034,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00034,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00035,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00035,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00035,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00036,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00036,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00036,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00037,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00037,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00037,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00038,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00038,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00038,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00039,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00039,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00039,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00040,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00040,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00040,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00041,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00041,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00041,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00042,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00042,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00042,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00043,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00043,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00043,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00044,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00044,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00044,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00045,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00045,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00045,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00046,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00046,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00046,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00047,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00047,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00047,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00048,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00048,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00048,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00049,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00049,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00049,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00050,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00050,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00050,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00051,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00051,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00051,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00052,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00052,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00052,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00053,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00053,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00053,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00054,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00054,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00054,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00055,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00055,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00055,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00056,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00056,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00056,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00057,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00057,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00057,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00058,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00058,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00058,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00059,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00059,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00059,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00060,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00060,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00060,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00061,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00061,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00061,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00062,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00062,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00062,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00063,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00063,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00063,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00064,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00064,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00064,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00065,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00065,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00065,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00066,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00066,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00066,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00067,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00067,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00067,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00068,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00068,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00068,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00069,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00069,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00069,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00070,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00070,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00070,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00071,Meta,LLMs,research_domains,LLMs,description,2026-02
+meta_00071,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00071,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00072,Meta,AI Safety,research_domains,alignment,description,2026-02
+meta_00073,Meta,AI Safety,research_domains,alignment,description,2026-02
+meta_00074,Meta,LLMs,research_domains,generative ai,description,2026-02
+meta_00074,Meta,Generative AI,research_domains,Generative AI,description,2026-02
+meta_00075,Meta,LLMs,research_domains,large language models,description,2026-02
+meta_00076,Meta,Statistics,analytics_bi,Statistics,description,2025-12
+meta_00076,Meta,Machine Learning,research_domains,Machine Learning,description,2025-12
+meta_00077,Meta,Statistics,analytics_bi,Statistics,description,2026-02
+meta_00077,Meta,Machine Learning,research_domains,Machine Learning,description,2026-02
+meta_00078,Meta,Recommender Systems,research_domains,ranking,description,2026-01
+meta_00079,Meta,Recommender Systems,research_domains,ranking,description,2026-01
+meta_00080,Meta,Recommender Systems,research_domains,ranking,description,2026-02
+meta_00082,Meta,Machine Learning,research_domains,Machine Learning,description,2026-02
+meta_00082,Meta,LLMs,research_domains,genai,description,2026-02
+meta_00082,Meta,Generative AI,research_domains,genai,description,2026-02
+meta_00082,Meta,Agentic AI,research_domains,agents,description,2026-02
+meta_00082,Meta,Speech and Audio,research_domains,speech,title,2026-02
+meta_00084,Meta,AI Safety,research_domains,alignment,title,2026-02
+meta_00087,Meta,Machine Learning,research_domains,ml,description,2025-12
+meta_00087,Meta,Computer Vision,research_domains,Computer Vision,title,2025-12
+meta_00087,Meta,Reinforcement Learning,research_domains,rl,description,2025-12
+meta_00087,Meta,Agentic AI,research_domains,agents,description,2025-12
+meta_00088,Meta,NLP,research_domains,natural language processing,description,2026-02
+meta_00088,Meta,Computer Vision,research_domains,Computer Vision,description,2026-02
+meta_00088,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2026-02
+meta_00089,Meta,Machine Learning,research_domains,ml,title,2025-12
+meta_00090,Meta,Machine Learning,research_domains,Machine Learning,description,2025-12
+meta_00090,Meta,Machine Learning,research_domains,ml,title,2025-12
+meta_00091,Meta,Machine Learning,research_domains,Machine Learning,description,2026-01
+meta_00091,Meta,Machine Learning,research_domains,ml,title,2026-01
+meta_00092,Meta,Python,languages,Python,description,2026-06
+meta_00092,Meta,SQL,languages,SQL,description,2026-06
+meta_00092,Meta,Apache Spark,data_engineering,spark,description,2026-06
+meta_00092,Meta,Tableau,analytics_bi,Tableau,description,2026-06
+meta_00092,Meta,Power BI,analytics_bi,powerbi,description,2026-06
+meta_00092,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00092,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00092,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00092,Meta,NLP,research_domains,NLP,description,2026-06
+meta_00092,Meta,Datacenter Systems,hardware_systems,data center,description,2026-06
+meta_00092,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00092,Meta,Digital Twin and Simulation,research_domains,simulation,description,2026-06
+meta_00093,Meta,Python,languages,Python,description,2026-06
+meta_00093,Meta,SQL,languages,SQL,description,2026-06
+meta_00093,Meta,R,languages,R,description,2026-06
+meta_00093,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00093,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00094,Meta,Python,languages,Python,description,2026-05
+meta_00094,Meta,SQL,languages,SQL,description,2026-05
+meta_00094,Meta,R,languages,R,description,2026-05
+meta_00094,Meta,A/B Testing,analytics_bi,experimentation,description,2026-05
+meta_00095,Meta,Python,languages,Python,description,2026-06
+meta_00095,Meta,SQL,languages,SQL,description,2026-06
+meta_00095,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00095,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00096,Meta,Python,languages,Python,description,2026-04
+meta_00096,Meta,SQL,languages,SQL,description,2026-04
+meta_00096,Meta,A/B Testing,analytics_bi,experimentation,description,2026-04
+meta_00096,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00097,Meta,Python,languages,Python,description,2026-04
+meta_00097,Meta,SQL,languages,SQL,description,2026-04
+meta_00097,Meta,A/B Testing,analytics_bi,experimentation,description,2026-04
+meta_00097,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00098,Meta,Python,languages,Python,description,2026-06
+meta_00098,Meta,SQL,languages,SQL,description,2026-06
+meta_00098,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00098,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00099,Meta,Python,languages,Python,description,2026-05
+meta_00099,Meta,SQL,languages,SQL,description,2026-05
+meta_00099,Meta,R,languages,R,description,2026-05
+meta_00099,Meta,A/B Testing,analytics_bi,experimentation,description,2026-05
+meta_00099,Meta,Statistics,analytics_bi,Statistics,description,2026-05
+meta_00100,Meta,Python,languages,Python,description,2026-06
+meta_00100,Meta,SQL,languages,SQL,description,2026-06
+meta_00100,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00100,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00101,Meta,Python,languages,Python,description,2026-06
+meta_00101,Meta,SQL,languages,SQL,description,2026-06
+meta_00101,Meta,R,languages,R,description,2026-06
+meta_00101,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00101,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00102,Meta,Python,languages,Python,description,2026-06
+meta_00102,Meta,SQL,languages,SQL,description,2026-06
+meta_00102,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00103,Meta,Python,languages,Python,description,2026-06
+meta_00103,Meta,SQL,languages,SQL,description,2026-06
+meta_00103,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00103,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2026-06
+meta_00104,Meta,Python,languages,Python,description,2026-05
+meta_00104,Meta,SQL,languages,SQL,description,2026-05
+meta_00104,Meta,A/B Testing,analytics_bi,experimentation,description,2026-05
+meta_00105,Meta,Python,languages,Python,description,2026-04
+meta_00105,Meta,SQL,languages,SQL,description,2026-04
+meta_00105,Meta,R,languages,R,description,2026-04
+meta_00105,Meta,A/B Testing,analytics_bi,experimentation,description,2026-04
+meta_00105,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00106,Meta,Python,languages,Python,description,2026-04
+meta_00106,Meta,SQL,languages,SQL,description,2026-04
+meta_00106,Meta,A/B Testing,analytics_bi,experimentation,description,2026-04
+meta_00106,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00107,Meta,Python,languages,Python,description,2026-04
+meta_00107,Meta,SQL,languages,SQL,description,2026-04
+meta_00107,Meta,A/B Testing,analytics_bi,experimentation,description,2026-04
+meta_00107,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00107,Meta,Machine Learning,research_domains,Machine Learning,description,2026-04
+meta_00107,Meta,Technical Leadership,product_process,Technical Leadership,title,2026-04
+meta_00107,Meta,Inference and Serving,research_domains,inference,description,2026-04
+meta_00107,Meta,Technical Program Management,product_process,tpm,description,2026-04
+meta_00108,Meta,Python,languages,Python,description,2026-04
+meta_00108,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-04
+meta_00108,Meta,Machine Learning,research_domains,Machine Learning,description,2026-04
+meta_00108,Meta,Deep Learning,research_domains,Deep Learning,description,2026-04
+meta_00108,Meta,Computer Vision,research_domains,Computer Vision,title,2026-04
+meta_00108,Meta,Robotics,research_domains,Robotics,description,2026-04
+meta_00108,Meta,Research Publication,product_process,neurips,description,2026-04
+meta_00109,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-04
+meta_00109,Meta,A/B Testing,analytics_bi,A/B Testing,description,2026-04
+meta_00109,Meta,Distributed Training,hardware_systems,Distributed Training,description,2026-04
+meta_00109,Meta,Machine Learning,research_domains,Machine Learning,description,2026-04
+meta_00109,Meta,NLP,research_domains,NLP,description,2026-04
+meta_00109,Meta,LLMs,research_domains,large language models,description,2026-04
+meta_00109,Meta,RLHF,research_domains,reinforcement learning from human feedback,description,2026-04
+meta_00109,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2026-04
+meta_00109,Meta,AI Safety,research_domains,alignment,description,2026-04
+meta_00109,Meta,Research Publication,product_process,neurips,description,2026-04
+meta_00109,Meta,Performance Engineering,hardware_systems,performance,description,2026-04
+meta_00109,Meta,Agentic AI,research_domains,agentic,description,2026-04
+meta_00109,Meta,Site Reliability,mlops_devops,reliability,description,2026-04
+meta_00110,Meta,Python,languages,Python,description,2026-04
+meta_00110,Meta,Statistics,analytics_bi,Statistics,description,2026-04
+meta_00110,Meta,Distributed Training,hardware_systems,Distributed Training,description,2026-04
+meta_00110,Meta,Machine Learning,research_domains,Machine Learning,description,2026-04
+meta_00110,Meta,NLP,research_domains,natural language processing,description,2026-04
+meta_00110,Meta,Computer Vision,research_domains,Computer Vision,description,2026-04
+meta_00110,Meta,AI Safety,research_domains,alignment,description,2026-04
+meta_00110,Meta,Research Publication,product_process,neurips,description,2026-04
+meta_00110,Meta,Performance Engineering,hardware_systems,optimization,description,2026-04
+meta_00110,Meta,Speech and Audio,research_domains,audio,description,2026-04
+meta_00111,Meta,Python,languages,Python,description,2026-04
+meta_00111,Meta,SQL,languages,SQL,description,2026-04
+meta_00111,Meta,Performance Engineering,hardware_systems,optimization,description,2026-04
+meta_00112,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-05
+meta_00112,Meta,Machine Learning,research_domains,Machine Learning,description,2026-05
+meta_00112,Meta,LLMs,research_domains,LLMs,description,2026-05
+meta_00112,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2026-05
+meta_00112,Meta,Research Publication,product_process,neurips,description,2026-05
+meta_00112,Meta,Agentic AI,research_domains,agentic,description,2026-05
+meta_00113,Meta,Python,languages,Python,description,2026-05
+meta_00113,Meta,SQL,languages,SQL,description,2026-05
+meta_00113,Meta,A/B Testing,analytics_bi,experimentation,description,2026-05
+meta_00113,Meta,Statistics,analytics_bi,Statistics,description,2026-05
+meta_00114,Meta,ETL,data_engineering,data pipelines,description,2026-05
+meta_00114,Meta,Machine Learning,research_domains,ml,description,2026-05
+meta_00114,Meta,LLMs,research_domains,LLMs,description,2026-05
+meta_00114,Meta,RAG,research_domains,RAG,description,2026-05
+meta_00114,Meta,RLHF,research_domains,RLHF,description,2026-05
+meta_00114,Meta,Generative AI,research_domains,genai,description,2026-05
+meta_00114,Meta,Agentic AI,research_domains,agentic,description,2026-05
+meta_00114,Meta,Inference and Serving,research_domains,serving,description,2026-05
+meta_00115,Meta,Docker,cloud_infra,containers,description,2026-06
+meta_00115,Meta,Embedded Systems,hardware_systems,Embedded Systems,description,2026-06
+meta_00115,Meta,Machine Learning,research_domains,ml,description,2026-06
+meta_00115,Meta,Computer Vision,research_domains,Computer Vision,title,2026-06
+meta_00115,Meta,LLMs,research_domains,genai,description,2026-06
+meta_00115,Meta,Robotics,research_domains,av,description,2026-06
+meta_00115,Meta,Performance Engineering,hardware_systems,optimization,description,2026-06
+meta_00115,Meta,Generative AI,research_domains,genai,description,2026-06
+meta_00115,Meta,Autonomous Vehicles,research_domains,av,description,2026-06
+meta_00115,Meta,Speech and Audio,research_domains,audio,description,2026-06
+meta_00116,Meta,Python,languages,Python,description,2026-06
+meta_00116,Meta,SQL,languages,SQL,description,2026-06
+meta_00116,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00116,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2026-06
+meta_00117,Meta,Python,languages,Python,description,2026-06
+meta_00117,Meta,SQL,languages,SQL,description,2026-06
+meta_00117,Meta,A/B Testing,analytics_bi,experimentation,description,2026-06
+meta_00117,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2026-06
+meta_00118,Meta,Python,languages,Python,description,2026-06
+meta_00118,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00118,Meta,Distributed Training,hardware_systems,Distributed Training,description,2026-06
+meta_00118,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00118,Meta,NLP,research_domains,natural language processing,description,2026-06
+meta_00118,Meta,Computer Vision,research_domains,Computer Vision,description,2026-06
+meta_00118,Meta,AI Safety,research_domains,alignment,description,2026-06
+meta_00118,Meta,Research Publication,product_process,neurips,description,2026-06
+meta_00118,Meta,Performance Engineering,hardware_systems,optimization,description,2026-06
+meta_00118,Meta,Speech and Audio,research_domains,audio,description,2026-06
+meta_00119,Meta,Python,languages,Python,description,2026-06
+meta_00119,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00119,Meta,TensorFlow,ml_frameworks,TensorFlow,description,2026-06
+meta_00119,Meta,Apache Spark,data_engineering,spark,description,2026-06
+meta_00119,Meta,MLOps,mlops_devops,MLOps,description,2026-06
+meta_00119,Meta,A/B Testing,analytics_bi,A/B Testing,description,2026-06
+meta_00119,Meta,Statistics,analytics_bi,statistical modeling,description,2026-06
+meta_00119,Meta,Machine Learning,research_domains,Machine Learning,title,2026-06
+meta_00119,Meta,Deep Learning,research_domains,Deep Learning,description,2026-06
+meta_00119,Meta,Recommender Systems,research_domains,ranking,description,2026-06
+meta_00119,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00119,Meta,Site Reliability,mlops_devops,reliability,description,2026-06
+meta_00120,Meta,Python,languages,Python,description,2026-06
+meta_00120,Meta,SQL,languages,SQL,description,2026-06
+meta_00120,Meta,Java,languages,Java,description,2026-06
+meta_00120,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00120,Meta,TensorFlow,ml_frameworks,TensorFlow,description,2026-06
+meta_00120,Meta,Apache Spark,data_engineering,spark,description,2026-06
+meta_00120,Meta,Machine Learning,research_domains,Machine Learning,title,2026-06
+meta_00120,Meta,Deep Learning,research_domains,Deep Learning,description,2026-06
+meta_00120,Meta,NLP,research_domains,natural language processing,description,2026-06
+meta_00120,Meta,Computer Vision,research_domains,Computer Vision,description,2026-06
+meta_00120,Meta,Recommender Systems,research_domains,ranking,description,2026-06
+meta_00120,Meta,Agile,product_process,Agile,description,2026-06
+meta_00120,Meta,Compilers,hardware_systems,Compilers,description,2026-06
+meta_00120,Meta,Networking,hardware_systems,network,description,2026-06
+meta_00120,Meta,Performance Engineering,hardware_systems,optimization,description,2026-06
+meta_00121,Meta,Python,languages,Python,description,2026-06
+meta_00121,Meta,SQL,languages,SQL,description,2026-06
+meta_00121,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00121,Meta,TensorFlow,ml_frameworks,TensorFlow,description,2026-06
+meta_00121,Meta,Apache Spark,data_engineering,spark,description,2026-06
+meta_00121,Meta,ETL,data_engineering,data pipelines,description,2026-06
+meta_00121,Meta,Machine Learning,research_domains,Machine Learning,title,2026-06
+meta_00121,Meta,Deep Learning,research_domains,Deep Learning,description,2026-06
+meta_00121,Meta,NLP,research_domains,natural language processing,description,2026-06
+meta_00121,Meta,Computer Vision,research_domains,Computer Vision,description,2026-06
+meta_00121,Meta,Recommender Systems,research_domains,ranking,description,2026-06
+meta_00121,Meta,Compilers,hardware_systems,Compilers,description,2026-06
+meta_00121,Meta,Networking,hardware_systems,Networking,description,2026-06
+meta_00121,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00121,Meta,Graphics and Rendering,research_domains,graphics,description,2026-06
+meta_00121,Meta,Site Reliability,mlops_devops,devops,description,2026-06
+meta_00122,Meta,Python,languages,Python,description,2026-06
+meta_00122,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00122,Meta,CI/CD,mlops_devops,CI/CD,description,2026-06
+meta_00122,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00122,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2026-06
+meta_00122,Meta,Robotics,research_domains,autonomous systems,description,2026-06
+meta_00122,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00122,Meta,Agentic AI,research_domains,Agentic AI,description,2026-06
+meta_00122,Meta,Digital Twin and Simulation,research_domains,simulation,description,2026-06
+meta_00122,Meta,Site Reliability,mlops_devops,reliability,description,2026-06
+meta_00122,Meta,Test Automation,mlops_devops,qa,description,2026-06
+meta_00123,Meta,Python,languages,Python,description,2026-06
+meta_00123,Meta,Statistics,analytics_bi,Statistics,description,2026-06
+meta_00123,Meta,Distributed Training,hardware_systems,Distributed Training,description,2026-06
+meta_00123,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00123,Meta,NLP,research_domains,natural language processing,description,2026-06
+meta_00123,Meta,Computer Vision,research_domains,Computer Vision,description,2026-06
+meta_00123,Meta,AI Safety,research_domains,alignment,description,2026-06
+meta_00123,Meta,Research Publication,product_process,neurips,description,2026-06
+meta_00123,Meta,Performance Engineering,hardware_systems,optimization,description,2026-06
+meta_00123,Meta,Speech and Audio,research_domains,audio,description,2026-06
+meta_00124,Meta,Python,languages,Python,description,2026-06
+meta_00124,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00124,Meta,CI/CD,mlops_devops,CI/CD,description,2026-06
+meta_00124,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00124,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2026-06
+meta_00124,Meta,Robotics,research_domains,autonomous systems,description,2026-06
+meta_00124,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00124,Meta,Agentic AI,research_domains,Agentic AI,description,2026-06
+meta_00124,Meta,Digital Twin and Simulation,research_domains,simulation,description,2026-06
+meta_00124,Meta,Site Reliability,mlops_devops,reliability,description,2026-06
+meta_00124,Meta,Test Automation,mlops_devops,qa,description,2026-06
+meta_00125,Meta,Python,languages,Python,description,2026-06
+meta_00125,Meta,Triton Inference Server,ml_frameworks,triton,description,2026-06
+meta_00125,Meta,CUDA,hardware_systems,CUDA,description,2026-06
+meta_00125,Meta,Distributed Training,hardware_systems,Distributed Training,description,2026-06
+meta_00125,Meta,Machine Learning,research_domains,ml,description,2026-06
+meta_00125,Meta,Deep Learning,research_domains,Deep Learning,description,2026-06
+meta_00125,Meta,LLMs,research_domains,LLMs,description,2026-06
+meta_00125,Meta,Recommender Systems,research_domains,ranking,description,2026-06
+meta_00125,Meta,Research Publication,product_process,neurips,description,2026-06
+meta_00125,Meta,Kernel and Drivers,hardware_systems,kernel,description,2026-06
+meta_00125,Meta,Compilers,hardware_systems,compiler,description,2026-06
+meta_00125,Meta,Networking,hardware_systems,network,description,2026-06
+meta_00125,Meta,Datacenter Systems,hardware_systems,datacenter,description,2026-06
+meta_00125,Meta,Storage Systems,hardware_systems,storage,description,2026-06
+meta_00125,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00125,Meta,Generative AI,research_domains,Generative AI,description,2026-06
+meta_00125,Meta,Agentic AI,research_domains,agents,description,2026-06
+meta_00125,Meta,Inference and Serving,research_domains,inference,description,2026-06
+meta_00125,Meta,Site Reliability,mlops_devops,reliability,description,2026-06
+meta_00126,Meta,Python,languages,Python,description,2026-06
+meta_00126,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00126,Meta,TensorFlow,ml_frameworks,TensorFlow,description,2026-06
+meta_00126,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00126,Meta,Deep Learning,research_domains,Deep Learning,description,2026-06
+meta_00126,Meta,Computer Vision,research_domains,Computer Vision,description,2026-06
+meta_00126,Meta,LLMs,research_domains,large language models,description,2026-06
+meta_00126,Meta,Robotics,research_domains,Robotics,description,2026-06
+meta_00126,Meta,Research Publication,product_process,neurips,description,2026-06
+meta_00127,Meta,Python,languages,Python,description,2026-06
+meta_00127,Meta,SQL,languages,SQL,description,2026-06
+meta_00127,Meta,R,languages,R,description,2026-06
+meta_00127,Meta,ETL,data_engineering,data pipelines,description,2026-06
+meta_00127,Meta,Machine Learning,research_domains,Machine Learning,description,2026-06
+meta_00127,Meta,Recommender Systems,research_domains,ranking,description,2026-06
+meta_00127,Meta,AI Safety,research_domains,alignment,description,2026-06
+meta_00127,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00127,Meta,Inference and Serving,research_domains,inference,description,2026-06
+meta_00128,Meta,Python,languages,Python,description,2026-06
+meta_00128,Meta,PyTorch,ml_frameworks,PyTorch,description,2026-06
+meta_00128,Meta,JAX,ml_frameworks,JAX,description,2026-06
+meta_00128,Meta,HPC,hardware_systems,HPC,description,2026-06
+meta_00128,Meta,Machine Learning,research_domains,ml,description,2026-06
+meta_00128,Meta,LLMs,research_domains,large language models,description,2026-06
+meta_00128,Meta,RAG,research_domains,RAG,description,2026-06
+meta_00128,Meta,Robotics,research_domains,Robotics,description,2026-06
+meta_00128,Meta,Research Publication,product_process,neurips,description,2026-06
+meta_00128,Meta,Design for Test,silicon_design,dft,description,2026-06
+meta_00128,Meta,Performance Engineering,hardware_systems,performance,description,2026-06
+meta_00128,Meta,Agentic AI,research_domains,Agentic AI,title,2026-06
+meta_00128,Meta,Agentic AI,research_domains,agentic,title,2026-06
+meta_00128,Meta,Digital Twin and Simulation,research_domains,simulation,description,2026-06
+meta_00129,Meta,Python,languages,Python,description,2024-04
+meta_00129,Meta,SQL,languages,SQL,description,2024-04
+meta_00129,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00130,Meta,Python,languages,Python,description,2024-04
+meta_00130,Meta,SQL,languages,SQL,description,2024-04
+meta_00130,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00131,Meta,AI Safety,research_domains,alignment,description,2024-04
+meta_00131,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00131,Meta,Business Development,product_process,channel,description,2024-04
+meta_00132,Meta,AI Safety,research_domains,alignment,description,2024-04
+meta_00132,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00133,Meta,AI Safety,research_domains,alignment,description,2024-04
+meta_00133,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00134,Meta,Machine Learning,research_domains,ml,description,2024-04
+meta_00134,Meta,Computer Vision,research_domains,Computer Vision,description,2024-04
+meta_00134,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2024-04
+meta_00134,Meta,Technical Program Management,product_process,tpm,description,2024-04
+meta_00135,Meta,Machine Learning,research_domains,ml,description,2024-04
+meta_00135,Meta,Computer Vision,research_domains,Computer Vision,description,2024-04
+meta_00135,Meta,Cloud Infrastructure,cloud_infra,cloud,description,2024-04
+meta_00135,Meta,Technical Program Management,product_process,tpm,description,2024-04
+meta_00136,Meta,Python,languages,Python,description,2024-04
+meta_00136,Meta,Java,languages,Java,description,2024-04
+meta_00136,Meta,Networking,hardware_systems,network,description,2024-04
+meta_00137,Meta,AI Safety,research_domains,alignment,description,2024-04
+meta_00137,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00138,Meta,AI Safety,research_domains,alignment,description,2024-04
+meta_00138,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00139,Meta,Business Development,product_process,Business Development,description,2024-04
+meta_00140,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00141,Meta,Java,languages,Java,description,2024-04
+meta_00141,Meta,Embedded Systems,hardware_systems,firmware,description,2024-04
+meta_00141,Meta,Agile,product_process,Agile,description,2024-04
+meta_00141,Meta,Firmware,hardware_systems,Firmware,description,2024-04
+meta_00141,Meta,Kernel and Drivers,hardware_systems,kernel,description,2024-04
+meta_00141,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00142,Meta,Test Automation,mlops_devops,Test Automation,description,2024-04
+meta_00143,Meta,Business Development,product_process,Business Development,description,2024-04
+meta_00144,Meta,Business Development,product_process,Business Development,description,2024-04
+meta_00145,Meta,Business Development,product_process,Business Development,description,2024-04
+meta_00146,Meta,HPC,hardware_systems,HPC,description,2024-04
+meta_00146,Meta,Computer Architecture,hardware_systems,asic,description,2024-04
+meta_00146,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00146,Meta,Signal and Power Integrity,silicon_design,thermal,description,2024-04
+meta_00146,Meta,Signal and Power Integrity,silicon_design,packaging,title,2024-04
+meta_00146,Meta,Networking,hardware_systems,Networking,description,2024-04
+meta_00146,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00146,Meta,Site Reliability,mlops_devops,reliability,description,2024-04
+meta_00147,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00148,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00149,Meta,Test Automation,mlops_devops,Test Automation,description,2024-04
+meta_00150,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00151,Meta,Python,languages,Python,description,2024-04
+meta_00151,Meta,C++,languages,C++,description,2024-04
+meta_00151,Meta,Embedded Systems,hardware_systems,firmware,description,2024-04
+meta_00151,Meta,Computer Architecture,hardware_systems,verilog,description,2024-04
+meta_00151,Meta,Computer Vision,research_domains,Computer Vision,description,2024-04
+meta_00151,Meta,RTL Design,silicon_design,verilog,description,2024-04
+meta_00151,Meta,SoC Design,silicon_design,soc,description,2024-04
+meta_00151,Meta,Analog and Mixed Signal,silicon_design,circuit design,description,2024-04
+meta_00151,Meta,Firmware,hardware_systems,Firmware,description,2024-04
+meta_00151,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00151,Meta,Speech and Audio,research_domains,audio,description,2024-04
+meta_00152,Meta,HPC,hardware_systems,HPC,description,2024-04
+meta_00152,Meta,Computer Architecture,hardware_systems,asic,description,2024-04
+meta_00152,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00152,Meta,Signal and Power Integrity,silicon_design,thermal,description,2024-04
+meta_00152,Meta,Signal and Power Integrity,silicon_design,packaging,title,2024-04
+meta_00152,Meta,Networking,hardware_systems,Networking,description,2024-04
+meta_00152,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00152,Meta,Site Reliability,mlops_devops,reliability,description,2024-04
+meta_00153,Meta,Go,languages,Go,description,2024-04
+meta_00153,Meta,LLMs,research_domains,genai,description,2024-04
+meta_00153,Meta,LLMs,research_domains,generative ai,title,2024-04
+meta_00153,Meta,Generative AI,research_domains,Generative AI,title,2024-04
+meta_00153,Meta,Generative AI,research_domains,generative ai,title,2024-04
+meta_00154,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00155,Meta,Python,languages,Python,description,2024-04
+meta_00155,Meta,CI/CD,mlops_devops,CI/CD,description,2024-04
+meta_00155,Meta,Embedded Systems,hardware_systems,Embedded Systems,description,2024-04
+meta_00155,Meta,Computer Vision,research_domains,Computer Vision,description,2024-04
+meta_00155,Meta,Firmware,hardware_systems,Firmware,description,2024-04
+meta_00155,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00155,Meta,Digital Twin and Simulation,research_domains,simulation,description,2024-04
+meta_00155,Meta,Site Reliability,mlops_devops,devops,description,2024-04
+meta_00155,Meta,Design Automation,silicon_design,eda,description,2024-04
+meta_00156,Meta,Site Reliability,mlops_devops,reliability,description,2024-04
+meta_00157,Meta,Python,languages,Python,description,2024-04
+meta_00157,Meta,Java,languages,Java,description,2024-04
+meta_00157,Meta,JavaScript,languages,JavaScript,description,2024-04
+meta_00158,Meta,Python,languages,Python,description,2024-04
+meta_00158,Meta,Java,languages,Java,description,2024-04
+meta_00158,Meta,JavaScript,languages,JavaScript,description,2024-04
+meta_00159,Meta,Python,languages,Python,description,2024-04
+meta_00159,Meta,SQL,languages,SQL,description,2024-04
+meta_00159,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00160,Meta,Python,languages,Python,description,2024-04
+meta_00160,Meta,SQL,languages,SQL,description,2024-04
+meta_00160,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00161,Meta,Python,languages,Python,description,2024-04
+meta_00161,Meta,SQL,languages,SQL,description,2024-04
+meta_00161,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00162,Meta,SQL,languages,SQL,description,2024-04
+meta_00162,Meta,A/B Testing,analytics_bi,experimentation,description,2024-04
+meta_00162,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00163,Meta,Python,languages,Python,description,2024-04
+meta_00163,Meta,C++,languages,C++,description,2024-04
+meta_00163,Meta,PyTorch,ml_frameworks,PyTorch,description,2024-04
+meta_00163,Meta,CUDA,hardware_systems,CUDA,description,2024-04
+meta_00163,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00163,Meta,Deep Learning,research_domains,Deep Learning,description,2024-04
+meta_00163,Meta,Reinforcement Learning,research_domains,rl,description,2024-04
+meta_00163,Meta,Performance Engineering,hardware_systems,optimization,description,2024-04
+meta_00163,Meta,Graphics and Rendering,research_domains,graphics,description,2024-04
+meta_00164,Meta,A/B Testing,analytics_bi,experimentation,description,2024-04
+meta_00164,Meta,Statistics,analytics_bi,Statistics,description,2024-04
+meta_00164,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00166,Meta,Go,languages,Go,description,2024-04
+meta_00167,Meta,Python,languages,Python,description,2024-04
+meta_00167,Meta,PyTorch,ml_frameworks,PyTorch,description,2024-04
+meta_00167,Meta,TensorFlow,ml_frameworks,TensorFlow,description,2024-04
+meta_00167,Meta,JAX,ml_frameworks,JAX,description,2024-04
+meta_00167,Meta,Statistics,analytics_bi,Statistics,description,2024-04
+meta_00167,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00167,Meta,Deep Learning,research_domains,Deep Learning,description,2024-04
+meta_00167,Meta,NLP,research_domains,natural language processing,description,2024-04
+meta_00167,Meta,Reinforcement Learning,research_domains,Reinforcement Learning,description,2024-04
+meta_00167,Meta,Research Publication,product_process,neurips,description,2024-04
+meta_00167,Meta,Performance Engineering,hardware_systems,optimization,description,2024-04
+meta_00168,Meta,Python,languages,Python,description,2024-04
+meta_00168,Meta,Java,languages,Java,description,2024-04
+meta_00168,Meta,Networking,hardware_systems,network,description,2024-04
+meta_00168,Meta,Storage Systems,hardware_systems,Storage Systems,description,2024-04
+meta_00168,Meta,Site Reliability,mlops_devops,Site Reliability,description,2024-04
+meta_00169,Meta,Speech and Audio,research_domains,speech,description,2024-04
+meta_00169,Meta,Technical Program Management,product_process,program management,description,2024-04
+meta_00170,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00171,Meta,Go,languages,Go,description,2024-04
+meta_00171,Meta,Embedded Systems,hardware_systems,firmware,description,2024-04
+meta_00171,Meta,Reinforcement Learning,research_domains,rl,description,2024-04
+meta_00171,Meta,Firmware,hardware_systems,Firmware,description,2024-04
+meta_00171,Meta,Speech and Audio,research_domains,audio,description,2024-04
+meta_00171,Meta,Technical Program Management,product_process,tpm,description,2024-04
+meta_00172,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00172,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00173,Meta,Embedded Systems,hardware_systems,firmware,description,2024-04
+meta_00173,Meta,Machine Learning,research_domains,Machine Learning,description,2024-04
+meta_00173,Meta,Computer Vision,research_domains,Computer Vision,description,2024-04
+meta_00173,Meta,Reinforcement Learning,research_domains,rl,description,2024-04
+meta_00173,Meta,CPU Architecture,silicon_design,cpu,description,2024-04
+meta_00173,Meta,Firmware,hardware_systems,Firmware,description,2024-04
+meta_00173,Meta,Compilers,hardware_systems,Compilers,description,2024-04
+meta_00173,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00173,Meta,Graphics and Rendering,research_domains,graphics,title,2024-04
+meta_00174,Meta,Business Development,product_process,channel,description,2024-04
+meta_00175,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00175,Meta,Performance Engineering,hardware_systems,optimization,description,2024-04
+meta_00176,Meta,Go,languages,Go,description,2024-04
+meta_00177,Meta,Go,languages,Go,description,2024-04
+meta_00177,Meta,Agile,product_process,Agile,description,2024-04
+meta_00177,Meta,Networking,hardware_systems,Networking,description,2024-04
+meta_00177,Meta,Datacenter Systems,hardware_systems,data center,title,2024-04
+meta_00177,Meta,Storage Systems,hardware_systems,storage,description,2024-04
+meta_00177,Meta,Site Reliability,mlops_devops,resiliency,description,2024-04
+meta_00179,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00180,Meta,Python,languages,Python,description,2024-04
+meta_00180,Meta,Java,languages,Java,description,2024-04
+meta_00180,Meta,Networking,hardware_systems,network,description,2024-04
+meta_00182,Meta,SQL,languages,SQL,description,2024-04
+meta_00182,Meta,Technical Program Management,product_process,program management,description,2024-04
+meta_00183,Meta,Speech and Audio,research_domains,speech,description,2024-04
+meta_00183,Meta,Technical Program Management,product_process,program management,description,2024-04
+meta_00184,Meta,Speech and Audio,research_domains,speech,description,2024-04
+meta_00184,Meta,Technical Program Management,product_process,program management,description,2024-04
+meta_00185,Meta,Java,languages,Java,description,2024-04
+meta_00185,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00186,Meta,Python,languages,Python,description,2024-04
+meta_00186,Meta,SQL,languages,SQL,description,2024-04
+meta_00186,Meta,Tableau,analytics_bi,Tableau,description,2024-04
+meta_00186,Meta,Speech and Audio,research_domains,audio,description,2024-04
+meta_00186,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00188,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00188,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00189,Meta,Machine Learning,research_domains,ml,title,2024-04
+meta_00189,Meta,Recommender Systems,research_domains,ranking,description,2024-04
+meta_00189,Meta,Technical Program Management,product_process,Technical Program Management,description,2024-04
+meta_00191,Meta,Go,languages,Go,description,2024-04
+meta_00193,Meta,Machine Learning,research_domains,ml,title,2024-04
+meta_00193,Meta,Recommender Systems,research_domains,ranking,description,2024-04
+meta_00193,Meta,Technical Program Management,product_process,Technical Program Management,description,2024-04
+meta_00194,Meta,Java,languages,Java,description,2024-04
+meta_00194,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00195,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00195,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00197,Meta,Go,languages,Go,description,2024-04
+meta_00201,Meta,Go,languages,Go,title,2024-04
+meta_00201,Meta,Business Development,product_process,gtm,description,2024-04
+meta_00202,Meta,Datacenter Systems,hardware_systems,data center,description,2024-04
+meta_00202,Meta,Performance Engineering,hardware_systems,performance,description,2024-04
+meta_00202,Meta,Cybersecurity,mlops_devops,security,description,2024-04
+meta_00202,Meta,Technical Program Management,product_process,program management,description,2024-04
+meta_00206,Meta,Machine Learning,research_domains,ml,description,
+meta_00206,Meta,Performance Engineering,hardware_systems,performance,description,
+meta_00207,Meta,Datacenter Systems,hardware_systems,data center,title,
+meta_00207,Meta,Performance Engineering,hardware_systems,performance,description,
+meta_00208,Meta,Python,languages,Python,description,
+meta_00208,Meta,SQL,languages,SQL,description,
+meta_00208,Meta,A/B Testing,analytics_bi,experimentation,description,
+meta_00208,Meta,Statistics,analytics_bi,Statistics,description,
+meta_00208,Meta,Inference and Serving,research_domains,inference,description,
+meta_00209,Meta,Python,languages,Python,description,
+meta_00209,Meta,SQL,languages,SQL,description,
+meta_00209,Meta,Networking,hardware_systems,Networking,description,
+meta_00209,Meta,Datacenter Systems,hardware_systems,data center,title,
+meta_00209,Meta,Storage Systems,hardware_systems,storage,description,
+meta_00209,Meta,Cloud Infrastructure,cloud_infra,cloud,description,

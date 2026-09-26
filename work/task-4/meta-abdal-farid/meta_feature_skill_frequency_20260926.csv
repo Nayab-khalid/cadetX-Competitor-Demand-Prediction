@@ -1,0 +1,67 @@
+skill_canonical,category,postings_matched,pct_of_postings
+LLMs,research_domains,64,30.6
+Recommender Systems,research_domains,63,30.1
+Generative AI,research_domains,58,27.8
+Python,languages,50,23.9
+Machine Learning,research_domains,41,19.6
+Performance Engineering,hardware_systems,38,18.2
+SQL,languages,33,15.8
+A/B Testing,analytics_bi,24,11.5
+Statistics,analytics_bi,22,10.5
+Computer Vision,research_domains,19,9.1
+AI Safety,research_domains,16,7.7
+Cybersecurity,mlops_devops,15,7.2
+Robotics,research_domains,14,6.7
+Reinforcement Learning,research_domains,14,6.7
+Agentic AI,research_domains,13,6.2
+Datacenter Systems,hardware_systems,12,5.7
+PyTorch,ml_frameworks,12,5.7
+Site Reliability,mlops_devops,12,5.7
+Speech and Audio,research_domains,11,5.3
+Technical Program Management,product_process,11,5.3
+Research Publication,product_process,10,4.8
+Networking,hardware_systems,10,4.8
+NLP,research_domains,9,4.3
+Java,languages,9,4.3
+Cloud Infrastructure,cloud_infra,8,3.8
+Deep Learning,research_domains,8,3.8
+Go,languages,8,3.8
+Business Development,product_process,7,3.3
+Embedded Systems,hardware_systems,6,2.9
+R,languages,6,2.9
+Digital Twin and Simulation,research_domains,5,2.4
+Distributed Training,hardware_systems,5,2.4
+Inference and Serving,research_domains,5,2.4
+Firmware,hardware_systems,5,2.4
+TensorFlow,ml_frameworks,5,2.4
+Apache Spark,data_engineering,4,1.9
+Test Automation,mlops_devops,4,1.9
+Storage Systems,hardware_systems,4,1.9
+Compilers,hardware_systems,4,1.9
+ETL,data_engineering,3,1.4
+Graphics and Rendering,research_domains,3,1.4
+HPC,hardware_systems,3,1.4
+CI/CD,mlops_devops,3,1.4
+Agile,product_process,3,1.4
+Computer Architecture,hardware_systems,3,1.4
+C++,languages,2,1.0
+Kernel and Drivers,hardware_systems,2,1.0
+JavaScript,languages,2,1.0
+CUDA,hardware_systems,2,1.0
+JAX,ml_frameworks,2,1.0
+Tableau,analytics_bi,2,1.0
+Signal and Power Integrity,silicon_design,2,1.0
+RLHF,research_domains,2,1.0
+RAG,research_domains,2,1.0
+Autonomous Vehicles,research_domains,1,0.5
+Analog and Mixed Signal,silicon_design,1,0.5
+Docker,cloud_infra,1,0.5
+CPU Architecture,silicon_design,1,0.5
+Design for Test,silicon_design,1,0.5
+Design Automation,silicon_design,1,0.5
+MLOps,mlops_devops,1,0.5
+Power BI,analytics_bi,1,0.5
+RTL Design,silicon_design,1,0.5
+SoC Design,silicon_design,1,0.5
+Technical Leadership,product_process,1,0.5
+Triton Inference Server,ml_frameworks,1,0.5

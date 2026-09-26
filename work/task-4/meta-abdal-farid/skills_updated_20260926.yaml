@@ -1,0 +1,365 @@
+# Canonical skill taxonomy - ALIGNMENT LOCK #2.
+# Rules in docs/skill-taxonomy.md. Add entries by PR only, two approvals. Never rename a canonical
+# name once analysis has started - add an alias instead.
+
+version: 0.1.0
+status: starter   # expand during Task 4 from the candidate skills each member collects
+
+categories:
+  - languages
+  - ml_frameworks
+  - data_engineering
+  - cloud_infra
+  - mlops_devops
+  - analytics_bi
+  - hardware_systems
+  - silicon_design      # added Task 4: chip-level specialisations, heavily represented at NVIDIA
+  - research_domains
+  - product_process
+
+# Terms that must never be matched from a job title alone. Each caused a false positive when the
+# taxonomy was first run against NVIDIA titles in Task 4.
+#   r  - matched "R&D", which cleans to "r d", in 9 postings. The R language was in none of them.
+#   c  - matched the "c" inside "c++" in 11 postings, double-counting C and C++.
+# "go" was checked too and kept: it only ever matched "golang" and a genuine "rust go c++" listing.
+title_match_blocklist: [r, c]
+
+skills:
+  # ---- languages
+  - name: Python
+    category: languages
+    aliases: [python3, py]
+  - name: SQL
+    category: languages
+    aliases: [t-sql, pl/sql, ansi sql]
+  - name: C++
+    category: languages
+    aliases: [cpp, c/c++, modern c++]
+  - name: C
+    category: languages
+    aliases: []
+  - name: Java
+    category: languages
+    aliases: []
+  - name: Scala
+    category: languages
+    aliases: []
+  - name: Go
+    category: languages
+    aliases: [golang]
+  - name: Rust
+    category: languages
+    aliases: []
+  - name: R
+    category: languages
+    aliases: []
+  - name: JavaScript
+    category: languages
+    aliases: [js, typescript, ts]
+
+  # ---- ml frameworks
+  - name: PyTorch
+    category: ml_frameworks
+    aliases: [torch, py torch, pytorch lightning]
+  - name: TensorFlow
+    category: ml_frameworks
+    aliases: [tf, tensorflow2, keras]
+  - name: JAX
+    category: ml_frameworks
+    aliases: [flax]
+  - name: scikit-learn
+    category: ml_frameworks
+    aliases: [sklearn, scikit learn]
+  - name: Hugging Face Transformers
+    category: ml_frameworks
+    aliases: [huggingface, hf transformers, transformers library]
+  - name: ONNX
+    category: ml_frameworks
+    aliases: [onnx runtime]
+  - name: TensorRT
+    category: ml_frameworks
+    aliases: [tensor rt]
+  - name: Triton Inference Server
+    category: ml_frameworks
+    aliases: [triton, triton server]
+
+  # ---- data engineering
+  - name: Apache Spark
+    category: data_engineering
+    aliases: [spark, pyspark]
+  - name: Apache Kafka
+    category: data_engineering
+    aliases: [kafka]
+  - name: Apache Airflow
+    category: data_engineering
+    aliases: [airflow]
+  - name: dbt
+    category: data_engineering
+    aliases: [data build tool]
+  - name: Snowflake
+    category: data_engineering
+    aliases: []
+  - name: Databricks
+    category: data_engineering
+    aliases: []
+  - name: ETL
+    category: data_engineering
+    aliases: [elt, data pipelines]
+
+  # ---- cloud & infra
+  - name: AWS
+    category: cloud_infra
+    aliases: [amazon web services, ec2, s3, sagemaker]
+  - name: Azure
+    category: cloud_infra
+    aliases: [microsoft azure, azure ml]
+  - name: GCP
+    category: cloud_infra
+    aliases: [google cloud, google cloud platform, vertex ai, bigquery]
+  - name: Kubernetes
+    category: cloud_infra
+    aliases: [k8s, eks, aks, gke]
+  - name: Docker
+    category: cloud_infra
+    aliases: [containers, containerisation]
+  - name: Terraform
+    category: cloud_infra
+    aliases: [iac, infrastructure as code]
+
+  # ---- mlops / devops
+  - name: MLOps
+    category: mlops_devops
+    aliases: [ml ops, model operations]
+  - name: CI/CD
+    category: mlops_devops
+    aliases: [continuous integration, jenkins, github actions, gitlab ci]
+  - name: MLflow
+    category: mlops_devops
+    aliases: [ml flow]
+  - name: Model Monitoring
+    category: mlops_devops
+    aliases: [drift detection, observability]
+
+  # ---- analytics & bi
+  - name: Tableau
+    category: analytics_bi
+    aliases: []
+  - name: Power BI
+    category: analytics_bi
+    aliases: [powerbi]
+  - name: A/B Testing
+    category: analytics_bi
+    aliases: [experimentation, split testing]
+  - name: Statistics
+    category: analytics_bi
+    aliases: [statistical modelling, statistical modeling]
+
+  # ---- hardware & systems  (heavily represented at NVIDIA)
+  - name: CUDA
+    category: hardware_systems
+    aliases: [cuda c, cuda kernels]
+  - name: GPU Computing
+    category: hardware_systems
+    aliases: [gpu programming, accelerated computing]
+  - name: HPC
+    category: hardware_systems
+    aliases: [high performance computing, mpi]
+  - name: Embedded Systems
+    category: hardware_systems
+    aliases: [firmware, rtos]
+  - name: Computer Architecture
+    category: hardware_systems
+    aliases: [asic, rtl, verilog, systemverilog]
+  - name: Distributed Training
+    category: hardware_systems
+    aliases: [multi-gpu, nccl, model parallelism, data parallelism]
+
+  # ---- research domains
+  - name: Machine Learning
+    category: research_domains
+    aliases: [ml]
+  - name: Deep Learning
+    category: research_domains
+    aliases: [dl, neural networks]
+  - name: NLP
+    category: research_domains
+    aliases: [natural language processing, computational linguistics]
+  - name: Computer Vision
+    category: research_domains
+    aliases: [cv, image processing]
+  - name: LLMs
+    category: research_domains
+    aliases: [large language models, foundation models, genai, generative ai]
+  - name: RAG
+    category: research_domains
+    aliases: [retrieval augmented generation]
+  - name: RLHF
+    category: research_domains
+    aliases: [reinforcement learning from human feedback]
+  - name: Reinforcement Learning
+    category: research_domains
+    aliases: [rl]
+  - name: Robotics
+    category: research_domains
+    aliases: [autonomous systems, self-driving, av]
+  - name: Recommender Systems
+    category: research_domains
+    aliases: [recsys, ranking]
+  - name: AI Safety
+    category: research_domains
+    aliases: [alignment, responsible ai, trustworthy ai]
+
+  # ---- product & process
+  - name: Agile
+    category: product_process
+    aliases: [scrum, kanban]
+  - name: Technical Leadership
+    category: product_process
+    aliases: [tech lead, mentoring engineers]
+  - name: Research Publication
+    category: product_process
+    aliases: [neurips, icml, cvpr, publications]
+
+  # =======================================================================================
+  # Added in Task 4 by Nayab Khalid (NVIDIA), 2026-09-20. Proposed for team ratification.
+  #
+  # Why: the starter taxonomy was written for job DESCRIPTIONS, where tool names appear
+  # (AWS, Docker, Spark). Members whose source carries only job TITLES cannot match it:
+  # measured against 1,745 NVIDIA titles it reached 21.2% of postings and 0.24 skills per
+  # posting. Titles name the specialisation, not the tool - "Senior Physical Design
+  # Engineer", not "Verilog, Synopsys, PrimeTime".
+  #
+  # These entries therefore add the specialisation vocabulary that titles do carry. They
+  # are skills in a hiring-intelligence sense: they say what the team builds. Role words
+  # (engineer, manager, architect) are deliberately NOT here - those are role_function,
+  # derived in Task 3.
+  # =======================================================================================
+
+  # ---- silicon and hardware specialisations
+  - name: Physical Design
+    category: silicon_design
+    aliases: [physical design, place and route, floorplanning, pnr]
+  - name: RTL Design
+    category: silicon_design
+    aliases: [rtl, logic synthesis, digital logic, verilog, systemverilog, vhdl]
+  - name: Silicon Verification
+    category: silicon_design
+    aliases: [verification, dv, design verification, formal verification, post silicon]
+  - name: SoC Design
+    category: silicon_design
+    aliases: [soc, system on chip, chip design, asic design]
+  - name: Analog and Mixed Signal
+    category: silicon_design
+    aliases: [mixed signal, analog, circuit design, serdes, pll]
+  - name: Signal and Power Integrity
+    category: silicon_design
+    aliases: [signal integrity, power integrity, power delivery, thermal, packaging]
+  - name: Design for Test
+    category: silicon_design
+    aliases: [dft, scan, atpg]
+  - name: CPU Architecture
+    category: silicon_design
+    aliases: [cpu, processor architecture, microarchitecture]
+  - name: GPU Architecture
+    category: silicon_design
+    aliases: [gpu architecture, graphics architecture, tensor core]
+
+  # ---- systems and platform software
+  - name: Firmware
+    category: hardware_systems
+    aliases: [firmware, bios, bmc, bringup, board support]
+  # "driver" was removed after validation (Task 4, Abdal Farid / Meta, 2026-09-26): all 49
+  # matches in the Meta dataset were the identical boilerplate sentence "a key driver of
+  # Meta's app growth" (a duplicate/reposted paragraph), zero were about device drivers.
+  # "device driver" and "linux kernel" are kept as they did not produce this pattern.
+  - name: Kernel and Drivers
+    category: hardware_systems
+    aliases: [kernel, device driver, linux kernel]
+  - name: Compilers
+    category: hardware_systems
+    aliases: [compiler, llvm, code generation, toolchain]
+  - name: Networking
+    category: hardware_systems
+    aliases: [networking, network, ethernet, infiniband, nvlink, spectrum-x, rdma, switch]
+  - name: DPU and Offload
+    category: hardware_systems
+    aliases: [dpu, doca, bluefield, smartnic]
+  - name: Datacenter Systems
+    category: hardware_systems
+    aliases: [dgx, datacenter, data center, rack scale, cluster management, supercomputer]
+  - name: Storage Systems
+    category: hardware_systems
+    aliases: [storage, filesystem, nvme, object store]
+  - name: Performance Engineering
+    category: hardware_systems
+    aliases: [performance, optimization, optimisation, profiling, benchmarking]
+
+  # ---- applied AI specialisations
+  - name: Generative AI
+    category: research_domains
+    aliases: [generative ai, genai, diffusion, world foundation model, world model]
+  - name: Agentic AI
+    category: research_domains
+    aliases: [agentic, ai agent, agents]
+  - name: Inference and Serving
+    category: research_domains
+    aliases: [inference, serving, deployment optimization, quantization, quantisation]
+  # "drive" was removed after validation (Task 4, Abdal Farid / Meta, 2026-09-26): 71 of 72
+  # matches in the Meta dataset were the generic corporate verb ("drive impact", "drive
+  # innovation", "drive growth"), not automotive content. Only 1 of 72 was a genuine hit.
+  # "av", "autonomous vehicle(s)", "self-driving", "adas" are kept.
+  - name: Autonomous Vehicles
+    category: research_domains
+    aliases: [autonomous vehicle, autonomous vehicles, self-driving, av, adas]
+  - name: Digital Twin and Simulation
+    category: research_domains
+    aliases: [omniverse, digital twin, simulation, physical ai]
+  - name: Graphics and Rendering
+    category: research_domains
+    aliases: [graphics, rendering, ray tracing, neural graphics, dlss, shader]
+  - name: Healthcare AI
+    category: research_domains
+    aliases: [digital biology, biopharma, medical imaging, healthcare ai, clara]
+  - name: Speech and Audio
+    category: research_domains
+    aliases: [speech, audio, asr, text to speech, riva]
+
+  # ---- engineering practice and go-to-market
+  - name: Cloud Infrastructure
+    category: cloud_infra
+    aliases: [cloud, cloud native, cloud-native, csp, cloud service provider, hyperscaler]
+  - name: Site Reliability
+    category: mlops_devops
+    aliases: [sre, site reliability, reliability, devops, observability, resiliency]
+  - name: Cybersecurity
+    category: mlops_devops
+    aliases: [security, cybersecurity, threat detection, vulnerability, confidential computing]
+  # "automation" alone was removed after validation: it matched "Design Automation", which is EDA
+  # tooling, not test automation. 36 matches fell to 2, which is the honest number.
+  - name: Test Automation
+    category: mlops_devops
+    aliases: [test automation, qa, continuous testing]
+  - name: Design Automation
+    category: silicon_design
+    aliases: [design automation, eda]
+  # "solutions architect" is the title form and appears in 192 postings; without it the skill was
+  # matching almost nothing. It overlaps role_function=Architect by design: the role says someone
+  # is an architect, this says which kind.
+  - name: Solutions Architecture
+    category: product_process
+    aliases: [solutions architecture, solution architecture, solutions architect,
+              solution architect, presales, field engineering]
+  - name: Developer Relations
+    category: product_process
+    aliases: [developer relations, devrel, developer advocacy, developer experience]
+  - name: Technical Program Management
+    category: product_process
+    aliases: [technical program management, tpm, program management]
+  - name: Business Development
+    category: product_process
+    aliases: [business development, bd, go to market, gtm, channel, alliances]
+
+# Skills seen in postings but not yet canonical. Empty this list every week by promoting or rejecting.
+# Current candidates for NVIDIA are in
+# work/task-4/nvidia-nayab-khalid/data/features/taxonomy_candidates_20260902.csv
+candidates: []
