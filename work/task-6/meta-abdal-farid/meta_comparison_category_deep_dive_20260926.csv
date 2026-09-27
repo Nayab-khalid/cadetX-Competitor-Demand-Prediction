@@ -1,0 +1,11 @@
+category,postings_with_category,pct_of_postings,num_skills_in_category,top_3_skills
+research_domains,130,62.2,18,"LLMs, Recommender Systems, Generative AI"
+languages,63,30.1,7,"Python, SQL, Java"
+hardware_systems,46,22.0,12,"Performance Engineering, Datacenter Systems, Networking"
+analytics_bi,31,14.8,4,"A/B Testing, Statistics, Tableau"
+product_process,31,14.8,5,"Technical Program Management, Research Publication, Business Development"
+mlops_devops,29,13.9,5,"Cybersecurity, Site Reliability, Test Automation"
+ml_frameworks,13,6.2,4,"PyTorch, TensorFlow, JAX"
+cloud_infra,9,4.3,2,"Cloud Infrastructure, Docker"
+data_engineering,6,2.9,2,"Apache Spark, ETL"
+silicon_design,6,2.9,7,"Signal and Power Integrity, Analog and Mixed Signal, CPU Architecture"

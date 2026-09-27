@@ -1,0 +1,67 @@
+skill_canonical,category,postings_matched,pct_of_postings,tier
+LLMs,research_domains,64,30.6,Core
+Recommender Systems,research_domains,63,30.1,Core
+Generative AI,research_domains,58,27.8,Core
+Python,languages,50,23.9,Core
+Machine Learning,research_domains,41,19.6,Specialist
+Performance Engineering,hardware_systems,38,18.2,Specialist
+SQL,languages,33,15.8,Specialist
+A/B Testing,analytics_bi,24,11.5,Specialist
+Statistics,analytics_bi,22,10.5,Specialist
+Computer Vision,research_domains,19,9.1,Niche
+AI Safety,research_domains,16,7.7,Niche
+Cybersecurity,mlops_devops,15,7.2,Niche
+Robotics,research_domains,14,6.7,Niche
+Reinforcement Learning,research_domains,14,6.7,Niche
+Agentic AI,research_domains,13,6.2,Niche
+Datacenter Systems,hardware_systems,12,5.7,Niche
+PyTorch,ml_frameworks,12,5.7,Niche
+Site Reliability,mlops_devops,12,5.7,Niche
+Speech and Audio,research_domains,11,5.3,Niche
+Technical Program Management,product_process,11,5.3,Niche
+Research Publication,product_process,10,4.8,Rare
+Networking,hardware_systems,10,4.8,Rare
+NLP,research_domains,9,4.3,Rare
+Java,languages,9,4.3,Rare
+Cloud Infrastructure,cloud_infra,8,3.8,Rare
+Deep Learning,research_domains,8,3.8,Rare
+Go,languages,8,3.8,Rare
+Business Development,product_process,7,3.3,Rare
+Embedded Systems,hardware_systems,6,2.9,Rare
+R,languages,6,2.9,Rare
+Digital Twin and Simulation,research_domains,5,2.4,Rare
+Distributed Training,hardware_systems,5,2.4,Rare
+Inference and Serving,research_domains,5,2.4,Rare
+Firmware,hardware_systems,5,2.4,Rare
+TensorFlow,ml_frameworks,5,2.4,Rare
+Apache Spark,data_engineering,4,1.9,Rare
+Test Automation,mlops_devops,4,1.9,Rare
+Storage Systems,hardware_systems,4,1.9,Rare
+Compilers,hardware_systems,4,1.9,Rare
+ETL,data_engineering,3,1.4,Rare
+Graphics and Rendering,research_domains,3,1.4,Rare
+HPC,hardware_systems,3,1.4,Rare
+CI/CD,mlops_devops,3,1.4,Rare
+Agile,product_process,3,1.4,Rare
+Computer Architecture,hardware_systems,3,1.4,Rare
+C++,languages,2,1.0,Rare
+Kernel and Drivers,hardware_systems,2,1.0,Rare
+JavaScript,languages,2,1.0,Rare
+CUDA,hardware_systems,2,1.0,Rare
+JAX,ml_frameworks,2,1.0,Rare
+Tableau,analytics_bi,2,1.0,Rare
+Signal and Power Integrity,silicon_design,2,1.0,Rare
+RLHF,research_domains,2,1.0,Rare
+RAG,research_domains,2,1.0,Rare
+Autonomous Vehicles,research_domains,1,0.5,Rare
+Analog and Mixed Signal,silicon_design,1,0.5,Rare
+Docker,cloud_infra,1,0.5,Rare
+CPU Architecture,silicon_design,1,0.5,Rare
+Design for Test,silicon_design,1,0.5,Rare
+Design Automation,silicon_design,1,0.5,Rare
+MLOps,mlops_devops,1,0.5,Rare
+Power BI,analytics_bi,1,0.5,Rare
+RTL Design,silicon_design,1,0.5,Rare
+SoC Design,silicon_design,1,0.5,Rare
+Technical Leadership,product_process,1,0.5,Rare
+Triton Inference Server,ml_frameworks,1,0.5,Rare
