@@ -1,0 +1,195 @@
+TASK 10: FINAL PRESENTATION AND MENTOR REVIEW
+===============================================
+Status: COMPLETE
+Date: 2026-09-27
+Member: Abdal Farid (Meta Track)
+
+DELIVERABLES
+============
+
+1. META'S 12-SLIDE PRESENTATION
+   File: meta_presentation_20260927.md
+   Format: Markdown source (can be converted to PowerPoint)
+   Length: 12 slides
+   Contents:
+     - Slide 1: Title
+     - Slide 2: Project scope & data sources (5 Kaggle datasets)
+     - Slide 3: Data collection & quality (209 postings, 63% duplicates)
+     - Slide 4: Skill extraction methodology (93 taxonomy, regex matching)
+     - Slide 5: Top 5 skills (LLMs, Recommendations, GenAI, Python, ML)
+     - Slide 6: Category breakdown (84% research, 4% cloud, 3% data eng)
+     - Slide 7: Hiring trends & velocity (Feb 2026 spike is artifact)
+     - Slide 8: Strategic positioning (Research-heavy, infrastructure-light)
+     - Slide 9: Data limitations & caveats (Kaggle snapshots, selection bias)
+     - Slide 10: Comparison framework & why 4-way matrix is blocked
+     - Slide 11: Key insights & recommendations (AI-first bet, infrastructure risk)
+     - Slide 12: Conclusion & next steps
+
+2. MASTER README FOR META TRACK
+   File: META_README_MASTER.md
+   Covers: Complete overview of all 9 tasks
+   Includes: Quick start, folder structure, findings summary, data caveats, dependencies
+   Use: Reference for understanding entire project workflow
+
+3. TASK-SPECIFIC README FILES
+   Files: task-1/ through task-9/ (one per task)
+   Covers: Input, output, methodology, findings, limitations for each task
+   Key detail: Task 4 README explains taxonomy corrections and validation
+
+4. TEAM STORYLINE PRESENTATION
+   File: TEAM_STORYLINE_PRESENTATION.md
+   Format: 7-part outline for 60–90 minute team presentation
+   Contents:
+     - Part 1: Sector context (why we're doing this)
+     - Part 2: Data realities (4 companies present findings)
+     - Part 3: What we could NOT compare (honest framing of asymmetry)
+     - Part 4: What we CAN say per-company
+     - Part 5: What we'd do with another month
+     - Part 6: Lessons learned
+     - Part 7: Q&A + wrap-up
+   Use: Shared presentation aligning all 4 company tracks
+
+5. COMPLETE DATA ARTIFACTS (from Tasks 1-9)
+   Source review: Legal verification of all 5 Kaggle datasets
+   Raw postings: 209 rows, schema-compliant
+   Cleaned postings: 206 rows, boilerplate removed
+   Extracted skills: 66 of 93 skills matched, validation data
+   Trend analysis: Weekly/monthly velocity, forecast data
+   Strategic profile: Category breakdown, skill tiers, heatmaps
+   Forecast: 12-week prediction with intervals
+   Similarity framework: Skill vector, hypothetical matrices
+   Insights: Executive report, visual summary
+
+6. RE-RUNNABLE SCRIPTS
+   Primary: extract_skills.py (Task 4)
+   Verified: Runs from clean /tmp/ directory without errors
+   Dependencies: pandas, PyYAML, numpy (standard library: re)
+   Status: ✓ Production-ready
+
+REPOSITORY STRUCTURE (as committed to GitHub)
+==============================================
+
+work/meta-abdal-farid/
+├── README.md (master overview)
+├── task-1/
+│   ├── README.md
+│   ├── source-review.md
+│   └── META_Task1.md
+├── task-2/
+│   ├── README.md
+│   ├── META_Task2_DataCollectionReport.md
+│   └── meta_postings_raw_20260906.csv
+├── task-3/
+│   ├── README.md
+│   ├── preprocessing_note.md
+│   ├── preprocess.py
+│   ├── meta_cleaned_20260906.csv
+│   └── meta_cleaning_log_20260906.csv
+├── task-4/
+│   ├── README.md
+│   ├── method_note.md
+│   ├── extract_skills.py
+│   ├── skills_updated_20260926.yaml
+│   ├── meta_extracted_skills_20260926.csv
+│   ├── meta_feature_skill_frequency_20260926.csv
+│   ├── meta_feature_category_frequency_20260926.csv
+│   ├── meta_feature_monthly_skill_trend_20260926.csv
+│   ├── meta_skill_counts_per_posting_20260926.csv
+│   └── meta_taxonomy_candidates_20260926.csv
+├── task-5/
+│   ├── README.md
+│   ├── method_note.md
+│   ├── meta_trend_weekly_20260926.csv
+│   ├── meta_trend_monthly_20260926.csv
+│   └── meta_trend_analysis_20260926.png
+├── task-6/
+│   ├── README.md
+│   ├── method_note.md
+│   ├── meta_comparison_category_deep_dive_20260926.csv
+│   ├── meta_comparison_skill_profile_20260926.png
+│   └── meta_comparison_skill_tiers_20260926.csv
+├── task-7/
+│   ├── README.md
+│   ├── method_note.md
+│   ├── meta_forecast_12week_20260927.csv
+│   ├── meta_forecast_12week_20260927.png
+│   ├── meta_forecast_train_20260927.csv
+│   └── meta_forecast_test_20260927.csv
+├── task-8/
+│   ├── README.md
+│   ├── method_note.md
+│   ├── meta_skill_vector_20260927.csv
+│   ├── meta_similarity_hypothetical_20260927.csv
+│   ├── meta_similarity_skill_space_20260927.png
+│   ├── meta_similarity_matrix_hypothetical_20260927.png
+│   └── meta_similarity_sparsity_issue_20260927.png
+├── task-9/
+│   ├── README.md
+│   ├── meta_insight_report_20260927.md
+│   └── meta_insight_executive_summary_20260927.png
+└── slides/
+    ├── README.md
+    └── meta_presentation_20260927.md
+
+KEY FINDINGS (TWEETABLE)
+========================
+
+"Meta is building an AI-research-first organization: 84% of hiring goes to ML/AI research
+(LLMs, recommendations, generative AI), not infrastructure. Python-only tech stack.
+Strategic bet: researchers productive on commodity infra. So far, working."
+
+"We extracted hiring signals from 209 Meta postings (5 Kaggle datasets). But the data is
+snapshots, not streams—57.8% clustered in Feb 2026. Real trend analysis needs fresh
+collection. Worth doing: weekly LinkedIn scrapes for 3+ months."
+
+"Four-company comparison is currently invalid. Each team used different data sources,
+different taxonomies, different text inputs. We built the pipeline. Now we need to align
+on (1) shared taxonomy, (2) shared text source, (3) fresh collection. Then we can compare."
+
+NEXT STEPS FOR TEAM
+===================
+
+Week 1 (Sprint Planning):
+  - [ ] Ratify taxonomy (59 original vs. 93 extended?)
+  - [ ] Declare text source (title+description vs. title-only?)
+  - [ ] Assign re-extraction work to each team member
+
+Week 2-3 (Re-extraction):
+  - [ ] All 4 members re-run Task 4 with canonical setup
+  - [ ] Hand-validate 20 postings each (consistency check)
+  - [ ] Share extracted-skills CSVs
+
+Week 4 (Validation):
+  - [ ] One team builds 4-company similarity matrix
+  - [ ] Three teams validate (check symmetry)
+  - [ ] Publish with full caveats
+
+Ongoing (Q4 2026+):
+  - [ ] Start weekly LinkedIn scrapes for all 4 companies
+  - [ ] Re-run full analysis monthly to catch strategic shifts
+  - [ ] Quarterly reports to stakeholders
+
+QUALITY ASSURANCE
+=================
+
+✓ All scripts verified re-runnable from clean checkout
+✓ All outputs tagged with timestamp (no overwrite risk)
+✓ All findings cite source artifacts (full traceability)
+✓ All limitations documented (no false precision)
+✓ All cross-company claims flagged as "currently invalid"
+✓ All READMEs current and accurate
+✓ Presentation ready for mentor review (12 slides + team storyline)
+
+STATUS: READY FOR MENTOR REVIEW
+================================
+
+All 9 tasks complete.
+All deliverables packaged.
+All scripts tested.
+All documentation current.
+
+Presentation date: To be scheduled in sprint meeting.
+Estimated presentation time: 10-15 min (Meta alone) or 60-90 min (full team + context).
+
+---
+End of Task 10 Summary
