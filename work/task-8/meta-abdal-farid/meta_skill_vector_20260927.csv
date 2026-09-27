@@ -1,0 +1,67 @@
+skill,share,category
+LLMs,0.306,research_domains
+Recommender Systems,0.301,research_domains
+Generative AI,0.278,research_domains
+Python,0.239,languages
+Machine Learning,0.196,research_domains
+Performance Engineering,0.182,hardware_systems
+SQL,0.158,languages
+A/B Testing,0.115,analytics_bi
+Statistics,0.105,analytics_bi
+Computer Vision,0.091,research_domains
+AI Safety,0.077,research_domains
+Cybersecurity,0.07200000000000001,mlops_devops
+Robotics,0.067,research_domains
+Reinforcement Learning,0.067,research_domains
+Agentic AI,0.062,research_domains
+Datacenter Systems,0.057,hardware_systems
+PyTorch,0.057,ml_frameworks
+Site Reliability,0.057,mlops_devops
+Speech and Audio,0.053,research_domains
+Technical Program Management,0.053,product_process
+Research Publication,0.048,product_process
+Networking,0.048,hardware_systems
+NLP,0.043,research_domains
+Java,0.043,languages
+Cloud Infrastructure,0.038,cloud_infra
+Deep Learning,0.038,research_domains
+Go,0.038,languages
+Business Development,0.033,product_process
+Embedded Systems,0.028999999999999998,hardware_systems
+R,0.028999999999999998,languages
+Digital Twin and Simulation,0.024,research_domains
+Distributed Training,0.024,hardware_systems
+Inference and Serving,0.024,research_domains
+Firmware,0.024,hardware_systems
+TensorFlow,0.024,ml_frameworks
+Apache Spark,0.019,data_engineering
+Test Automation,0.019,mlops_devops
+Storage Systems,0.019,hardware_systems
+Compilers,0.019,hardware_systems
+ETL,0.013999999999999999,data_engineering
+Graphics and Rendering,0.013999999999999999,research_domains
+HPC,0.013999999999999999,hardware_systems
+CI/CD,0.013999999999999999,mlops_devops
+Agile,0.013999999999999999,product_process
+Computer Architecture,0.013999999999999999,hardware_systems
+C++,0.01,languages
+Kernel and Drivers,0.01,hardware_systems
+JavaScript,0.01,languages
+CUDA,0.01,hardware_systems
+JAX,0.01,ml_frameworks
+Tableau,0.01,analytics_bi
+Signal and Power Integrity,0.01,silicon_design
+RLHF,0.01,research_domains
+RAG,0.01,research_domains
+Autonomous Vehicles,0.005,research_domains
+Analog and Mixed Signal,0.005,silicon_design
+Docker,0.005,cloud_infra
+CPU Architecture,0.005,silicon_design
+Design for Test,0.005,silicon_design
+Design Automation,0.005,silicon_design
+MLOps,0.005,mlops_devops
+Power BI,0.005,analytics_bi
+RTL Design,0.005,silicon_design
+SoC Design,0.005,silicon_design
+Technical Leadership,0.005,product_process
+Triton Inference Server,0.005,ml_frameworks
