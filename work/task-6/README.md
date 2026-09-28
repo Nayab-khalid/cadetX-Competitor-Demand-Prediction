@@ -24,7 +24,7 @@ Compare all four companies using the engineered features within a shared compari
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Meta | [ ] | |
+| Abdal Farid | Meta | [x] | |
 
 ## Open team decisions raised by this task
 
