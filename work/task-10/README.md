@@ -24,7 +24,7 @@ Present the full workflow to the mentor and answer questions on methods and resu
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Meta | [ ] | |
+| Abdal Farid | Meta | [x] | |
 
 ## Status of the shared deliverables
 
