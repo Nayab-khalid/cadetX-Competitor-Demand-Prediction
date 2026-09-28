@@ -6,10 +6,8 @@ Runs each task's committed script in order. Stops on first failure.
 Writes a timestamped log to runs/<UTC-time>/pipeline.log.
 
 Note: Task 2 (collect.py) and Task 4 (extract_skills.py) are not
-included because those stages were performed interactively / via
-notebooks, and only their outputs are committed. The pipeline re-runs
-from Task 3 onwards, using the committed raw and extracted CSVs as
-inputs. This is documented in pipeline_design.md.
+included because those stages were performed interactively and only
+their outputs are committed. The pipeline re-runs from Task 3 onward.
 """
 import argparse
 import subprocess
@@ -20,8 +18,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[3]
 
+# Task 3 requires 3 positional args. Tasks 5–9 auto-locate their inputs.
 STAGES = [
-    ("Task 3  Preprocessing",     "work/task-3/meta-abdal-farid/preprocess.py",          []),
+    (
+        "Task 3  Preprocessing",
+        "work/task-3/meta-abdal-farid/preprocess.py",
+        [
+            "work/task-2/meta-abdal-farid/meta_postings_raw_20260906.csv",
+            "work/task-3/meta-abdal-farid/meta_cleaned_20260906.csv",
+            "work/task-3/meta-abdal-farid/meta_cleaning_log_20260906.csv",
+        ],
+    ),
     ("Task 5  Trend analysis",    "work/task-5/meta-abdal-farid/analyze_trends.py",      []),
     ("Task 6  Comparison",        "work/task-6/meta-abdal-farid/compare_skills.py",      []),
     ("Task 7  Forecast",          "work/task-7/meta-abdal-farid/forecast.py",            []),
@@ -38,8 +45,8 @@ def main():
 
     if args.dry_run:
         print("DRY RUN — stages that would execute:")
-        for label, script, _ in STAGES:
-            print(f"  [{label}] -> {script}")
+        for label, script, extra in STAGES:
+            print(f"  [{label}] -> {script} {' '.join(extra)}")
         return
 
     run_dir = (ROOT / "work/task-11-optional-pipeline/meta-abdal-farid/runs"
