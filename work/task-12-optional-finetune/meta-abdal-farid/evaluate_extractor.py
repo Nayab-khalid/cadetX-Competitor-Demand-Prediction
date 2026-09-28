@@ -3,9 +3,13 @@ Task 12 — Fine-Tune a Skill Extraction Model (META)
 Nearest useful work: measure the Task 4 rule-based extractor against a
 hand-labelled gold set, since fine-tuning is not feasible on this dataset.
 
+Handles Task 4's long format:
+    job_id, company_name, skill_canonical, category, matched_term, ...
+    (one row per job-skill pair)
+
 Reads:
-  - eval_set_labelled.csv   (hand labels, independent of Task 4)
-  - ../task-4/.../meta_extracted_skills_*.csv   (Task 4 output)
+  - eval_set_labelled.csv                    (hand labels)
+  - ../task-4/.../meta_extracted_skills_*.csv (long format)
 
 Writes:
   - evaluation_metrics.csv
@@ -22,8 +26,7 @@ HERE = Path(__file__).resolve().parent
 def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--gold", type=Path, default=HERE / "eval_set_labelled.csv")
-    p.add_argument("--extracted", type=Path, default=None,
-                   help="Task 4 meta_extracted_skills_*.csv")
+    p.add_argument("--extracted", type=Path, default=None)
     p.add_argument("--out", type=Path, default=HERE / "evaluation_metrics.csv")
     return p.parse_args()
 
@@ -38,15 +41,38 @@ def resolve_extracted(cli_path):
     raise SystemExit(f"Task 4 extracted-skills CSV not found under {t4}")
 
 
-def parse_skills(cell):
+def parse_hand(cell):
     if pd.isna(cell):
         return set()
     s = str(cell).strip()
     if s.lower() in ("", "none", "[]"):
         return set()
-    # Handle list-like strings too
     s = s.strip("[]").replace('"', "").replace("'", "")
-    return {x.strip() for x in s.replace("|", ",").split(",") if x.strip()}
+    return {x.strip() for x in s.split("|") if x.strip()}
+
+
+def pivot_extracted(df):
+    """Turn the long (one-row-per-job-skill) format into {job_id: set(skills)}."""
+    # Find the skill column
+    skill_col = None
+    for c in ("skill_canonical", "skill", "canonical"):
+        if c in df.columns:
+            skill_col = c
+            break
+    if skill_col is None:
+        raise SystemExit(
+            f"No skill column found. Columns: {list(df.columns)}"
+        )
+    if "job_id" not in df.columns:
+        raise SystemExit(f"No job_id column. Columns: {list(df.columns)}")
+
+    grouped = (
+        df.dropna(subset=[skill_col])
+          .groupby("job_id")[skill_col]
+          .apply(lambda s: {str(x).strip() for x in s if str(x).strip()})
+          .to_dict()
+    )
+    return grouped
 
 
 def main():
@@ -59,29 +85,22 @@ def main():
     gold = pd.read_csv(gold_path)
     ext = pd.read_csv(ext_path)
 
-    if "job_id" not in ext.columns:
-        raise SystemExit(f"extracted CSV needs 'job_id'. Got: {list(ext.columns)}")
-
-    ext_col = None
-    for c in ("extracted_skills", "skills", "skill_list"):
-        if c in ext.columns:
-            ext_col = c
-            break
-    if ext_col is None:
-        raise SystemExit(f"No skills column in extracted CSV. Got: {list(ext.columns)}")
-
-    joined = gold.merge(ext[["job_id", ext_col]], on="job_id", how="left")
+    extracted_map = pivot_extracted(ext)
+    print(f"Pivoted extracted skills for {len(extracted_map)} jobs")
 
     tp = fp = fn = 0
     rows = []
-    for _, r in joined.iterrows():
-        g = parse_skills(r["hand_labelled_skills"])
-        e = parse_skills(r[ext_col])
+    for _, r in gold.iterrows():
+        jid = r["job_id"]
+        g = parse_hand(r.get("hand_labelled_skills"))
+        e = extracted_map.get(jid, set())
+
         tp += len(g & e)
         fp += len(e - g)
         fn += len(g - e)
+
         rows.append({
-            "job_id": r["job_id"],
+            "job_id": jid,
             "hand_skills": "|".join(sorted(g)),
             "extracted_skills": "|".join(sorted(e)),
             "true_positives": "|".join(sorted(g & e)),
