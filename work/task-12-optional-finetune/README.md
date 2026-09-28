@@ -48,5 +48,33 @@ would change every number in Tasks 4 to 9.
 
 See [Nayab's note](nvidia-nayab-khalid/finetune-note.md).
 
+## Outcome: not feasible for Meta, with an independent hand-labelled evaluation done instead
+
+Every skill label in the project comes from my own Task 4 regex, so a
+fine-tune would just distil the rules into a slower, less inspectable
+copy of themselves — not a genuine improvement. Building a proper
+fine-tune would need ~500+ hand-labelled postings, which is beyond a
+single member's scope.
+
+**What was done instead:** a hand-labelled 39-posting gold set, and a
+systematic measurement of the Task 4 extractor against it.
+
+| | Precision | Recall | F1 | Exact rows |
+| Task 4 rule-based extractor | 0.438 | 0.778 | 0.560 | 1/39 |
+
+The extractor is recall-oriented but precision-poor: it catches ~78% of
+real skills, but for every real one it invents ~1.3 fake ones. Only 1
+of 39 postings had no false positives or misses. The dominant failure
+is whole-document scanning — the regex matches any skill name anywhere
+in the text, including cross-references and "nice-to-have" lists.
+
+Four defect patterns found: over-matching from full-text scanning,
+false positives from the title field, missed abbreviations (`RL`,
+`LLM`), and non-technical postings matching boilerplate.
+
+The full evaluation is in `evaluate_extractor.py`,
+`evaluation_metrics.csv`, `evaluation_per_row.csv`, and
+`eval_set_labelled.csv`, all in this folder.
+
 Due date: to be agreed in the sprint meeting.
 Portal submission: the URL of this repository.
