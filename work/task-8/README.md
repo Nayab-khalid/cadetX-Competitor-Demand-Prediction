@@ -23,7 +23,7 @@ Measure how similar the four companies are, using skills, tech-stack tags, role 
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Meta | [ ] | |
+| Abdal Farid | Meta | [x] | |
 
 ## Open team decisions raised by this task
 
