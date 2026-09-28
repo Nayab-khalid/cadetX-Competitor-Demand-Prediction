@@ -24,7 +24,7 @@ Predict future hiring demand from the time-series signals, aligning on a shared 
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Meta | [ ] | |
+| Abdal Farid | Meta | [x] | |
 
 ## Open team decisions raised by this task
 
