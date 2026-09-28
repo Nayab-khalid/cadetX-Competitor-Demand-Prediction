@@ -39,6 +39,17 @@ jobs:
           python work/task-11-optional-pipeline/meta-abdal-farid/run_pipeline.py \
             ${{ (github.event_name == 'schedule' || inputs.with_collection) && '--with-collection' || '' }}
 
+      - name: Run Task 12 evaluation
+        continue-on-error: true
+        run: |
+          python work/task-12-optional-finetune/meta-abdal-farid/evaluate_extractor.py
+
+      - name: Show Task 12 metrics
+        if: always()
+        run: |
+          echo "===== evaluation_metrics.csv ====="
+          cat work/task-12-optional-finetune/meta-abdal-farid/evaluation_metrics.csv || echo "(no metrics file produced)"
+
       - name: Upload results
         if: always()
         uses: actions/upload-artifact@v4
@@ -55,3 +66,4 @@ jobs:
             work/task-8/meta-abdal-farid/**
             work/task-9/meta-abdal-farid/**
             work/task-11-optional-pipeline/meta-abdal-farid/runs/**
+            work/task-12-optional-finetune/meta-abdal-farid/**
