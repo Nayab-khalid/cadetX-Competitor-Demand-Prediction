@@ -57,9 +57,7 @@ jobs:
           name: meta-pipeline-${{ github.run_number }}
           retention-days: 30
           path: |
-            work/task-2/meta-abdal-farid/**
             work/task-3/meta-abdal-farid/**
-            work/task-4/meta-abdal-farid/**
             work/task-5/meta-abdal-farid/**
             work/task-6/meta-abdal-farid/**
             work/task-7/meta-abdal-farid/**
