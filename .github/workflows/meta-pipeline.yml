@@ -1,0 +1,57 @@
+name: META hiring-intelligence pipeline
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"      # every Monday at 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      with_collection:
+        description: "Re-download snapshots from the source (slow)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas numpy matplotlib statsmodels pyarrow pyyaml scikit-learn
+
+      - name: Show the plan
+        run: python work/task-11-optional-pipeline/meta-abdal-farid/run_pipeline.py --dry-run
+
+      - name: Run the pipeline
+        run: |
+          python work/task-11-optional-pipeline/meta-abdal-farid/run_pipeline.py \
+            ${{ (github.event_name == 'schedule' || inputs.with_collection) && '--with-collection' || '' }}
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: meta-pipeline-${{ github.run_number }}
+          retention-days: 30
+          path: |
+            work/task-2/meta-abdal-farid/**
+            work/task-3/meta-abdal-farid/**
+            work/task-4/meta-abdal-farid/**
+            work/task-5/meta-abdal-farid/**
+            work/task-6/meta-abdal-farid/**
+            work/task-7/meta-abdal-farid/**
+            work/task-8/meta-abdal-farid/**
+            work/task-9/meta-abdal-farid/**
+            work/task-11-optional-pipeline/meta-abdal-farid/runs/**
