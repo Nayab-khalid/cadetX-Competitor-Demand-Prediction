@@ -23,7 +23,7 @@ Fine-tune a pre-trained NLP model on job descriptions and verified skill labels 
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
 | Arham Malik | Microsoft | [ ] | |
-| Abdal Farid | Meta | [ ] | |
+| Abdal Farid | Meta | [x] | |
 
 ## Outcome: not feasible for NVIDIA, with the nearest useful work done instead
 
