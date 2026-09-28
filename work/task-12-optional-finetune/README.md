@@ -60,6 +60,7 @@ single member's scope.
 systematic measurement of the Task 4 extractor against it.
 
 | | Precision | Recall | F1 | Exact rows |
+
 | Task 4 rule-based extractor | 0.438 | 0.778 | 0.560 | 1/39 |
 
 The extractor is recall-oriented but precision-poor: it catches ~78% of
