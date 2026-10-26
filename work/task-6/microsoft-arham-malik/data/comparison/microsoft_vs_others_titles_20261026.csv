@@ -1,0 +1,62 @@
+skill,microsoft,others_mean,gap
+Azure,2.2,0.0,2.2
+Embedded Systems,1.1,0.77,0.33
+GPU Computing,0.0,0.04,-0.04
+GPU Architecture,0.0,0.04,-0.04
+Generative AI,0.0,0.04,-0.04
+JAX,0.0,0.06,-0.06
+PyTorch,0.0,0.06,-0.06
+Triton Inference Server,0.0,0.06,-0.06
+RTL Design,0.0,0.08,-0.08
+MLOps,0.0,0.08,-0.08
+Rust,0.0,0.08,-0.08
+Technical Program Management,0.0,0.08,-0.08
+Distributed Training,0.0,0.1,-0.1
+Python,0.0,0.1,-0.1
+TensorRT,0.0,0.1,-0.1
+Firmware,0.0,0.11,-0.11
+Model Monitoring,0.0,0.11,-0.11
+Reinforcement Learning,0.0,0.11,-0.11
+Healthcare AI,0.0,0.13,-0.13
+Design for Test,0.0,0.15,-0.15
+Kernel and Drivers,0.0,0.19,-0.19
+C++,0.0,0.21,-0.21
+Technical Leadership,0.0,0.23,-0.23
+Speech and Audio,0.0,0.26,-0.26
+Kubernetes,0.0,0.27,-0.27
+Test Automation,0.0,0.27,-0.27
+DPU and Offload,0.0,0.27,-0.27
+Design Automation,0.0,0.29,-0.29
+AI Safety,0.0,0.29,-0.29
+Storage Systems,0.0,0.35,-0.35
+Graphics and Rendering,0.0,0.42,-0.42
+Site Reliability,0.55,0.97,-0.42
+Inference and Serving,0.0,0.44,-0.44
+Analog and Mixed Signal,0.0,0.46,-0.46
+CPU Architecture,0.0,0.48,-0.48
+CUDA,0.0,0.52,-0.52
+Signal and Power Integrity,0.0,0.54,-0.54
+Autonomous Vehicles,0.0,0.55,-0.55
+Cloud Infrastructure,2.75,3.31,-0.56
+Physical Design,0.0,0.65,-0.65
+Computer Architecture,0.0,0.72,-0.72
+Digital Twin and Simulation,0.0,0.73,-0.73
+Machine Learning,1.1,1.86,-0.76
+Go,0.0,0.79,-0.79
+LLMs,0.0,0.96,-0.96
+HPC,0.0,0.98,-0.98
+Cybersecurity,0.55,1.55,-1.0
+Business Development,0.0,1.01,-1.01
+Compilers,0.0,1.05,-1.05
+Developer Relations,0.0,1.09,-1.09
+SoC Design,0.0,1.17,-1.17
+Computer Vision,0.0,1.22,-1.22
+Agentic AI,0.0,1.23,-1.23
+Robotics,0.0,1.38,-1.38
+Silicon Verification,0.0,1.54,-1.54
+Deep Learning,0.0,1.55,-1.55
+Performance Engineering,0.0,2.4,-2.4
+Datacenter Systems,0.0,2.82,-2.82
+Networking,0.0,3.04,-3.04
+Solutions Architecture,0.0,4.05,-4.05
+GCP,0.0,7.34,-7.34

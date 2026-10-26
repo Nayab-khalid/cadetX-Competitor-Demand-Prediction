@@ -1,0 +1,5 @@
+company,postings,titles_skills_per_posting,titles_coverage_pct,fulltext_skills_per_posting,fulltext_coverage_pct
+Microsoft,182,0.08,5.5,5.95,96.7
+NVIDIA,1745,1.03,71.7,1.03,71.7
+Google,1127,0.36,30.3,2.2,73.6
+Meta,209,0.17,16.3,3.33,88.5
