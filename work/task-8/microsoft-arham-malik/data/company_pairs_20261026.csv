@@ -1,0 +1,7 @@
+a,b,jaccard,cosine_skills,cosine_text,jaccard_minus_cosine
+Microsoft,NVIDIA,0.083,0.324,0.622,-0.241
+NVIDIA,Meta,0.203,0.173,0.218,0.03
+Microsoft,Meta,0.059,0.17,0.092,-0.111
+NVIDIA,Google,0.4,0.116,0.196,0.284
+Microsoft,Google,0.192,0.092,0.118,0.1
+Google,Meta,0.321,0.029,0.072,0.292
