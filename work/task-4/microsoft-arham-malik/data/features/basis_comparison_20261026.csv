@@ -1,0 +1,5 @@
+company,basis,variant,skills_per_posting,coverage_pct
+Microsoft,titles,as_taxonomy_stands,0.08,5.5
+Microsoft,titles,drive_alias_suppressed,0.08,5.5
+Microsoft,fulltext,as_taxonomy_stands,6.38,98.4
+Microsoft,fulltext,drive_alias_suppressed,5.95,96.7

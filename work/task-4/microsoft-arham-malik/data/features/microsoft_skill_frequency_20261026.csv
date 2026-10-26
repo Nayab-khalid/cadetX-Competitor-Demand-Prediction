@@ -1,0 +1,66 @@
+skill,category,postings,pct_of_postings
+Azure,cloud_infra,123,67.6
+Cloud Infrastructure,cloud_infra,118,64.8
+C++,languages,81,44.5
+Agile,product_process,58,31.9
+Cybersecurity,mlops_devops,56,30.8
+Machine Learning,research_domains,55,30.2
+Java,languages,54,29.7
+Performance Engineering,hardware_systems,48,26.4
+Python,languages,37,20.3
+Site Reliability,mlops_devops,34,18.7
+JavaScript,languages,33,18.1
+Networking,hardware_systems,31,17.0
+SQL,languages,31,17.0
+Storage Systems,hardware_systems,27,14.8
+Technical Program Management,product_process,20,11.0
+Statistics,analytics_bi,17,9.3
+Go,languages,14,7.7
+Apache Spark,data_engineering,14,7.7
+Deep Learning,research_domains,13,7.1
+NLP,research_domains,11,6.0
+Technical Leadership,product_process,11,6.0
+Embedded Systems,hardware_systems,11,6.0
+A/B Testing,analytics_bi,10,5.5
+Inference and Serving,research_domains,10,5.5
+Developer Relations,product_process,9,4.9
+Business Development,product_process,9,4.9
+Power BI,analytics_bi,8,4.4
+Kernel and Drivers,hardware_systems,8,4.4
+CI/CD,mlops_devops,8,4.4
+Datacenter Systems,hardware_systems,8,4.4
+Computer Vision,research_domains,8,4.4
+Docker,cloud_infra,7,3.8
+TensorFlow,ml_frameworks,7,3.8
+ETL,data_engineering,7,3.8
+AWS,cloud_infra,6,3.3
+Kubernetes,cloud_infra,5,2.7
+PyTorch,ml_frameworks,5,2.7
+SoC Design,silicon_design,5,2.7
+Graphics and Rendering,research_domains,5,2.7
+HPC,hardware_systems,4,2.2
+CPU Architecture,silicon_design,4,2.2
+Speech and Audio,research_domains,4,2.2
+Apache Kafka,data_engineering,4,2.2
+Agentic AI,research_domains,4,2.2
+Test Automation,mlops_devops,4,2.2
+Compilers,hardware_systems,3,1.6
+Recommender Systems,research_domains,3,1.6
+AI Safety,research_domains,3,1.6
+Digital Twin and Simulation,research_domains,3,1.6
+scikit-learn,ml_frameworks,3,1.6
+Scala,languages,3,1.6
+Silicon Verification,silicon_design,2,1.1
+Firmware,hardware_systems,2,1.1
+Research Publication,product_process,2,1.1
+Reinforcement Learning,research_domains,2,1.1
+Analog and Mixed Signal,silicon_design,1,0.5
+Solutions Architecture,product_process,1,0.5
+Databricks,data_engineering,1,0.5
+Tableau,analytics_bi,1,0.5
+Rust,languages,1,0.5
+Design Automation,silicon_design,1,0.5
+Signal and Power Integrity,silicon_design,1,0.5
+Computer Architecture,hardware_systems,1,0.5
+CUDA,hardware_systems,1,0.5
+Model Monitoring,mlops_devops,1,0.5

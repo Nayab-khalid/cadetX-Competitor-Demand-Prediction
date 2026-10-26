@@ -1,0 +1,1098 @@
+job_id,company_name,basis,skill,skill_category,matched_term
+microsoft_00001,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00001,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00001,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00001,Microsoft,fulltext,Compilers,hardware_systems,compilers
+microsoft_00001,Microsoft,fulltext,Python,languages,python
+microsoft_00001,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00001,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00001,Microsoft,fulltext,Java,languages,java
+microsoft_00001,Microsoft,fulltext,C++,languages,c++
+microsoft_00002,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00002,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00002,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00002,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00002,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00002,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00002,Microsoft,fulltext,Python,languages,python
+microsoft_00002,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00002,Microsoft,fulltext,Java,languages,java
+microsoft_00002,Microsoft,fulltext,C++,languages,c++
+microsoft_00002,Microsoft,fulltext,HPC,hardware_systems,mpi
+microsoft_00002,Microsoft,fulltext,NLP,research_domains,nlp
+microsoft_00003,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00003,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00003,Microsoft,fulltext,SQL,languages,sql
+microsoft_00004,Microsoft,titles,Embedded Systems,hardware_systems,firmware
+microsoft_00004,Microsoft,fulltext,Embedded Systems,hardware_systems,embedded systems
+microsoft_00004,Microsoft,fulltext,Firmware,hardware_systems,bringup
+microsoft_00004,Microsoft,fulltext,Python,languages,python
+microsoft_00004,Microsoft,fulltext,Analog and Mixed Signal,silicon_design,analog
+microsoft_00005,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00005,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud native
+microsoft_00005,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00005,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00005,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00005,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00005,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00006,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00006,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00006,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00006,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00006,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00006,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00006,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00006,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00006,Microsoft,fulltext,Java,languages,java
+microsoft_00006,Microsoft,fulltext,SQL,languages,sql
+microsoft_00006,Microsoft,fulltext,C++,languages,c++
+microsoft_00007,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00007,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00007,Microsoft,fulltext,JavaScript,languages,typescript
+microsoft_00007,Microsoft,fulltext,Graphics and Rendering,research_domains,rendering
+microsoft_00007,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00007,Microsoft,fulltext,SQL,languages,sql
+microsoft_00008,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00008,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00008,Microsoft,fulltext,JavaScript,languages,typescript
+microsoft_00008,Microsoft,fulltext,Graphics and Rendering,research_domains,rendering
+microsoft_00008,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00008,Microsoft,fulltext,SQL,languages,sql
+microsoft_00009,Microsoft,fulltext,Go,languages,go
+microsoft_00010,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00010,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00010,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00010,Microsoft,fulltext,Java,languages,java
+microsoft_00011,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00011,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00011,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00011,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00011,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00011,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00011,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00011,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00012,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00012,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud native
+microsoft_00012,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00012,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00012,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00012,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00012,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00013,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00013,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00014,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00014,Microsoft,fulltext,Computer Vision,research_domains,computer vision
+microsoft_00014,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00014,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00014,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00014,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00014,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00014,Microsoft,fulltext,Java,languages,java
+microsoft_00014,Microsoft,fulltext,Go,languages,go
+microsoft_00015,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud infrastructure
+microsoft_00015,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00015,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00015,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00015,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00015,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00015,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00015,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00015,Microsoft,fulltext,JavaScript,languages,js
+microsoft_00016,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00016,Microsoft,fulltext,Computer Vision,research_domains,computer vision
+microsoft_00016,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00016,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00016,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00016,Microsoft,fulltext,SQL,languages,sql
+microsoft_00016,Microsoft,fulltext,C++,languages,c++
+microsoft_00016,Microsoft,fulltext,Go,languages,go
+microsoft_00017,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00017,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00017,Microsoft,fulltext,AI Safety,research_domains,alignment
+microsoft_00017,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00017,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00017,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00018,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00018,Microsoft,fulltext,Compilers,hardware_systems,code generation
+microsoft_00018,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00018,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00018,Microsoft,fulltext,Datacenter Systems,hardware_systems,datacenter
+microsoft_00018,Microsoft,fulltext,Digital Twin and Simulation,research_domains,simulation
+microsoft_00018,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00018,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00018,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00018,Microsoft,fulltext,Java,languages,java
+microsoft_00019,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00019,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00019,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00019,Microsoft,fulltext,CPU Architecture,silicon_design,cpu
+microsoft_00020,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00020,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud native
+microsoft_00020,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00020,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00020,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00020,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00020,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00021,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00021,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00021,Microsoft,fulltext,PyTorch,ml_frameworks,pytorch
+microsoft_00021,Microsoft,fulltext,Python,languages,python
+microsoft_00021,Microsoft,fulltext,C++,languages,c++
+microsoft_00022,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00022,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00022,Microsoft,fulltext,Java,languages,java
+microsoft_00023,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00023,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00023,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00024,Microsoft,fulltext,Test Automation,mlops_devops,test automation
+microsoft_00024,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00024,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00024,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00024,Microsoft,fulltext,Python,languages,python
+microsoft_00024,Microsoft,fulltext,Agentic AI,research_domains,agents
+microsoft_00024,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00024,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00024,Microsoft,fulltext,Java,languages,java
+microsoft_00025,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00025,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00025,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00025,Microsoft,fulltext,C++,languages,c++
+microsoft_00025,Microsoft,fulltext,CPU Architecture,silicon_design,cpu
+microsoft_00026,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00026,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00026,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00026,Microsoft,fulltext,Power BI,analytics_bi,power bi
+microsoft_00026,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00026,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00027,Microsoft,fulltext,Java,languages,java
+microsoft_00027,Microsoft,fulltext,Go,languages,go
+microsoft_00028,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00028,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00028,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00028,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00028,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00028,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00028,Microsoft,fulltext,Java,languages,java
+microsoft_00028,Microsoft,fulltext,C++,languages,c++
+microsoft_00029,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00029,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00029,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00029,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00029,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00029,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00029,Microsoft,fulltext,Java,languages,java
+microsoft_00029,Microsoft,fulltext,C++,languages,c++
+microsoft_00030,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00030,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00030,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00030,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00030,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00031,Microsoft,fulltext,CI/CD,mlops_devops,continuous integration
+microsoft_00031,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00031,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud native
+microsoft_00031,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00031,Microsoft,fulltext,Datacenter Systems,hardware_systems,datacenter
+microsoft_00031,Microsoft,fulltext,Site Reliability,mlops_devops,devops
+microsoft_00031,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00032,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00032,Microsoft,fulltext,Site Reliability,mlops_devops,devops
+microsoft_00032,Microsoft,fulltext,SQL,languages,t-sql
+microsoft_00032,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00032,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00032,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00032,Microsoft,fulltext,Java,languages,java
+microsoft_00032,Microsoft,fulltext,C++,languages,c++
+microsoft_00033,Microsoft,fulltext,Go,languages,go
+microsoft_00034,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00034,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00034,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00034,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00034,Microsoft,fulltext,Java,languages,java
+microsoft_00034,Microsoft,fulltext,C++,languages,c++
+microsoft_00035,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00035,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00035,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00035,Microsoft,fulltext,C++,languages,c++
+microsoft_00036,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00036,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00036,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00037,Microsoft,fulltext,C++,languages,c++
+microsoft_00038,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00038,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00038,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00038,Microsoft,fulltext,SoC Design,silicon_design,soc
+microsoft_00039,Microsoft,titles,Site Reliability,mlops_devops,sre
+microsoft_00039,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00039,Microsoft,fulltext,Site Reliability,mlops_devops,site reliability
+microsoft_00039,Microsoft,fulltext,Silicon Verification,silicon_design,verification
+microsoft_00039,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00039,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00039,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00039,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00039,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00039,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00039,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00039,Microsoft,fulltext,Java,languages,java
+microsoft_00039,Microsoft,fulltext,SQL,languages,sql
+microsoft_00039,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00039,Microsoft,fulltext,JavaScript,languages,ts
+microsoft_00039,Microsoft,fulltext,Machine Learning,research_domains,ml
+microsoft_00040,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00040,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00040,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00040,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00040,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00040,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00040,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00041,Microsoft,fulltext,Business Development,product_process,business development
+microsoft_00041,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00042,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00042,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00042,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00042,Microsoft,fulltext,Kubernetes,cloud_infra,kubernetes
+microsoft_00042,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00042,Microsoft,fulltext,Apache Kafka,data_engineering,kafka
+microsoft_00042,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00043,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00043,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00043,Microsoft,fulltext,Datacenter Systems,hardware_systems,data center
+microsoft_00043,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00043,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00044,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00044,Microsoft,fulltext,Storage Systems,hardware_systems,storage systems
+microsoft_00044,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00044,Microsoft,fulltext,Python,languages,python
+microsoft_00044,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00044,Microsoft,fulltext,Apache Kafka,data_engineering,kafka
+microsoft_00044,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00044,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00044,Microsoft,fulltext,C++,languages,c++
+microsoft_00045,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00045,Microsoft,fulltext,Computer Vision,research_domains,computer vision
+microsoft_00045,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00046,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00046,Microsoft,fulltext,Python,languages,python
+microsoft_00046,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00046,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00047,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00047,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00047,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00047,Microsoft,fulltext,Business Development,product_process,channel
+microsoft_00047,Microsoft,fulltext,Agentic AI,research_domains,agents
+microsoft_00047,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00047,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00047,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00047,Microsoft,fulltext,Java,languages,java
+microsoft_00047,Microsoft,fulltext,SQL,languages,sql
+microsoft_00047,Microsoft,fulltext,C++,languages,c++
+microsoft_00048,Microsoft,fulltext,Cybersecurity,mlops_devops,confidential computing
+microsoft_00048,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00048,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00048,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00048,Microsoft,fulltext,C++,languages,c++
+microsoft_00049,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00049,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00049,Microsoft,fulltext,Recommender Systems,research_domains,ranking
+microsoft_00049,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00049,Microsoft,fulltext,Python,languages,python
+microsoft_00049,Microsoft,fulltext,Docker,cloud_infra,docker
+microsoft_00049,Microsoft,fulltext,Scala,languages,scala
+microsoft_00049,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00049,Microsoft,fulltext,Java,languages,java
+microsoft_00049,Microsoft,fulltext,C++,languages,c++
+microsoft_00050,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00050,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00050,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00050,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00050,Microsoft,fulltext,Python,languages,python
+microsoft_00050,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00050,Microsoft,fulltext,SQL,languages,sql
+microsoft_00051,Microsoft,titles,Cybersecurity,mlops_devops,security
+microsoft_00051,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00051,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00051,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00051,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00052,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00052,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00052,Microsoft,fulltext,Business Development,product_process,channel
+microsoft_00052,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00052,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00052,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00052,Microsoft,fulltext,Java,languages,java
+microsoft_00053,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00053,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00053,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00053,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00053,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00054,Microsoft,fulltext,Kubernetes,cloud_infra,kubernetes
+microsoft_00054,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00054,Microsoft,fulltext,Python,languages,python
+microsoft_00054,Microsoft,fulltext,Site Reliability,mlops_devops,devops
+microsoft_00054,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00054,Microsoft,fulltext,CI/CD,mlops_devops,ci/cd
+microsoft_00054,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00054,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00054,Microsoft,fulltext,Rust,languages,rust
+microsoft_00054,Microsoft,fulltext,C++,languages,c++
+microsoft_00055,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00055,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00055,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00055,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00055,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00055,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00055,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00055,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00055,Microsoft,fulltext,Java,languages,java
+microsoft_00055,Microsoft,fulltext,SQL,languages,sql
+microsoft_00056,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00056,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00056,Microsoft,fulltext,Python,languages,python
+microsoft_00056,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00056,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00056,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00056,Microsoft,fulltext,Java,languages,java
+microsoft_00056,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00057,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00057,Microsoft,fulltext,Graphics and Rendering,research_domains,graphics
+microsoft_00057,Microsoft,fulltext,Speech and Audio,research_domains,speech
+microsoft_00057,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00057,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00058,Microsoft,fulltext,Storage Systems,hardware_systems,storage systems
+microsoft_00058,Microsoft,fulltext,Apache Spark,data_engineering,apache spark
+microsoft_00058,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00058,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00058,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00058,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00058,Microsoft,fulltext,SQL,languages,sql
+microsoft_00059,Microsoft,fulltext,HPC,hardware_systems,high performance computing
+microsoft_00059,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00059,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00059,Microsoft,fulltext,Python,languages,python
+microsoft_00059,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00059,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00060,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00060,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00060,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00060,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00060,Microsoft,fulltext,Java,languages,java
+microsoft_00060,Microsoft,fulltext,C++,languages,c++
+microsoft_00060,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00061,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00062,Microsoft,fulltext,Site Reliability,mlops_devops,site reliability
+microsoft_00062,Microsoft,fulltext,Docker,cloud_infra,containers
+microsoft_00062,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00062,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00062,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00062,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00062,Microsoft,fulltext,Java,languages,java
+microsoft_00062,Microsoft,fulltext,C++,languages,c++
+microsoft_00063,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00063,Microsoft,fulltext,Power BI,analytics_bi,powerbi
+microsoft_00063,Microsoft,fulltext,Python,languages,python
+microsoft_00063,Microsoft,fulltext,SQL,languages,t-sql
+microsoft_00063,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00063,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00064,Microsoft,fulltext,Business Development,product_process,go to market
+microsoft_00064,Microsoft,fulltext,Power BI,analytics_bi,power bi
+microsoft_00064,Microsoft,fulltext,SQL,languages,sql
+microsoft_00065,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00065,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00065,Microsoft,fulltext,Java,languages,java
+microsoft_00065,Microsoft,fulltext,C++,languages,c++
+microsoft_00066,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00066,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00066,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00066,Microsoft,fulltext,Python,languages,python
+microsoft_00066,Microsoft,fulltext,SQL,languages,sql
+microsoft_00067,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00068,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00068,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00068,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00069,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00069,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00069,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00069,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00069,Microsoft,fulltext,Java,languages,java
+microsoft_00069,Microsoft,fulltext,Go,languages,go
+microsoft_00070,Microsoft,fulltext,Solutions Architecture,product_process,solutions architecture
+microsoft_00070,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00070,Microsoft,fulltext,Power BI,analytics_bi,power bi
+microsoft_00070,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00070,Microsoft,fulltext,Tableau,analytics_bi,tableau
+microsoft_00070,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00070,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00070,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00070,Microsoft,fulltext,SQL,languages,sql
+microsoft_00071,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00071,Microsoft,fulltext,Computer Vision,research_domains,computer vision
+microsoft_00071,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00071,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00071,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00072,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00072,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00072,Microsoft,fulltext,Java,languages,java
+microsoft_00072,Microsoft,fulltext,C++,languages,c++
+microsoft_00073,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00073,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00073,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00073,Microsoft,fulltext,SQL,languages,t-sql
+microsoft_00073,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00073,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00073,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00073,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00073,Microsoft,fulltext,ETL,data_engineering,etl
+microsoft_00074,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00074,Microsoft,fulltext,Datacenter Systems,hardware_systems,data center
+microsoft_00074,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00076,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00076,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00076,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00076,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00076,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00076,Microsoft,fulltext,Java,languages,java
+microsoft_00076,Microsoft,fulltext,C++,languages,c++
+microsoft_00077,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00077,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00077,Microsoft,fulltext,Kernel and Drivers,hardware_systems,kernel
+microsoft_00077,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00077,Microsoft,fulltext,C++,languages,c++
+microsoft_00077,Microsoft,fulltext,SoC Design,silicon_design,soc
+microsoft_00078,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00078,Microsoft,fulltext,Kubernetes,cloud_infra,kubernetes
+microsoft_00078,Microsoft,fulltext,Python,languages,python
+microsoft_00078,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00078,Microsoft,fulltext,Scala,languages,scala
+microsoft_00078,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00078,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00078,Microsoft,fulltext,Java,languages,java
+microsoft_00078,Microsoft,fulltext,SQL,languages,sql
+microsoft_00079,Microsoft,fulltext,Storage Systems,hardware_systems,storage systems
+microsoft_00079,Microsoft,fulltext,Test Automation,mlops_devops,test automation
+microsoft_00079,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00079,Microsoft,fulltext,Networking,hardware_systems,switch
+microsoft_00079,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00079,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00080,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00080,Microsoft,fulltext,Business Development,product_process,channel
+microsoft_00080,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00080,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00080,Microsoft,fulltext,SQL,languages,sql
+microsoft_00082,Microsoft,fulltext,C++,languages,c++
+microsoft_00083,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00083,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00083,Microsoft,fulltext,C++,languages,c++
+microsoft_00084,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00084,Microsoft,fulltext,Agentic AI,research_domains,agents
+microsoft_00084,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00084,Microsoft,fulltext,CI/CD,mlops_devops,ci/cd
+microsoft_00085,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00085,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00085,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00085,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00085,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00085,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00085,Microsoft,fulltext,Java,languages,java
+microsoft_00085,Microsoft,fulltext,C++,languages,c++
+microsoft_00086,Microsoft,fulltext,Silicon Verification,silicon_design,verification
+microsoft_00086,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00086,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00087,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00087,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00087,Microsoft,fulltext,C++,languages,c++
+microsoft_00088,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00088,Microsoft,fulltext,ETL,data_engineering,data pipelines
+microsoft_00088,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00088,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00088,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00088,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00088,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00088,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00088,Microsoft,fulltext,Speech and Audio,research_domains,audio
+microsoft_00088,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00088,Microsoft,fulltext,Java,languages,java
+microsoft_00088,Microsoft,fulltext,SQL,languages,sql
+microsoft_00088,Microsoft,fulltext,C++,languages,c++
+microsoft_00089,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00089,Microsoft,fulltext,JavaScript,languages,typescript
+microsoft_00089,Microsoft,fulltext,Docker,cloud_infra,containers
+microsoft_00089,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00089,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00089,Microsoft,fulltext,CI/CD,mlops_devops,ci/cd
+microsoft_00089,Microsoft,fulltext,Agile,product_process,scrum
+microsoft_00089,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00090,Microsoft,fulltext,CI/CD,mlops_devops,continuous integration
+microsoft_00090,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00090,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00090,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00090,Microsoft,fulltext,Java,languages,java
+microsoft_00090,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00091,Microsoft,fulltext,Databricks,data_engineering,databricks
+microsoft_00091,Microsoft,fulltext,Python,languages,python
+microsoft_00091,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00091,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00091,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00091,Microsoft,fulltext,Java,languages,java
+microsoft_00091,Microsoft,fulltext,SQL,languages,sql
+microsoft_00091,Microsoft,fulltext,ETL,data_engineering,etl
+microsoft_00092,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00092,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00092,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00092,Microsoft,fulltext,Python,languages,python
+microsoft_00092,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00092,Microsoft,fulltext,Go,languages,go
+microsoft_00093,Microsoft,titles,Azure,cloud_infra,azure
+microsoft_00093,Microsoft,titles,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00093,Microsoft,fulltext,CI/CD,mlops_devops,continuous integration
+microsoft_00093,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud infrastructure
+microsoft_00093,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00093,Microsoft,fulltext,Kubernetes,cloud_infra,kubernetes
+microsoft_00093,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00093,Microsoft,fulltext,Technical Leadership,product_process,tech lead
+microsoft_00093,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00093,Microsoft,fulltext,Python,languages,python
+microsoft_00093,Microsoft,fulltext,Docker,cloud_infra,docker
+microsoft_00093,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00093,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00093,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00093,Microsoft,fulltext,Design Automation,silicon_design,eda
+microsoft_00094,Microsoft,titles,Azure,cloud_infra,azure
+microsoft_00094,Microsoft,titles,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00094,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00094,Microsoft,fulltext,Test Automation,mlops_devops,test automation
+microsoft_00094,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00094,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00094,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00094,Microsoft,fulltext,Python,languages,python
+microsoft_00094,Microsoft,fulltext,Kernel and Drivers,hardware_systems,driver
+microsoft_00094,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00094,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00094,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00094,Microsoft,fulltext,Java,languages,java
+microsoft_00095,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00095,Microsoft,fulltext,Speech and Audio,research_domains,speech
+microsoft_00095,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00095,Microsoft,fulltext,NLP,research_domains,nlp
+microsoft_00096,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00096,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00096,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00096,Microsoft,fulltext,Python,languages,python
+microsoft_00096,Microsoft,fulltext,Docker,cloud_infra,docker
+microsoft_00096,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00096,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00096,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00096,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00096,Microsoft,fulltext,Java,languages,java
+microsoft_00096,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00097,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00097,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00097,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00097,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00097,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00097,Microsoft,fulltext,Java,languages,java
+microsoft_00097,Microsoft,fulltext,C++,languages,c++
+microsoft_00098,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00098,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00098,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00098,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00098,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00098,Microsoft,fulltext,Java,languages,java
+microsoft_00098,Microsoft,fulltext,C++,languages,c++
+microsoft_00099,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00099,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00099,Microsoft,fulltext,Datacenter Systems,hardware_systems,datacenter
+microsoft_00099,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00099,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00099,Microsoft,fulltext,SQL,languages,sql
+microsoft_00100,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00100,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00100,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00100,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00100,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00100,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00101,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00101,Microsoft,fulltext,Python,languages,python
+microsoft_00101,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00101,Microsoft,fulltext,Java,languages,java
+microsoft_00101,Microsoft,fulltext,C++,languages,c++
+microsoft_00101,Microsoft,fulltext,Go,languages,go
+microsoft_00102,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00102,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00102,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00104,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00104,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00104,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00104,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00104,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00105,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00105,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00105,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00106,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00106,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00106,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00106,Microsoft,fulltext,Kubernetes,cloud_infra,kubernetes
+microsoft_00106,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00106,Microsoft,fulltext,CI/CD,mlops_devops,jenkins
+microsoft_00106,Microsoft,fulltext,Go,languages,golang
+microsoft_00106,Microsoft,fulltext,Docker,cloud_infra,docker
+microsoft_00106,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00106,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00106,Microsoft,fulltext,C++,languages,c++
+microsoft_00107,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00107,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00107,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00107,Microsoft,fulltext,Python,languages,python
+microsoft_00107,Microsoft,fulltext,Go,languages,golang
+microsoft_00107,Microsoft,fulltext,Site Reliability,mlops_devops,devops
+microsoft_00107,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00107,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00107,Microsoft,fulltext,Java,languages,java
+microsoft_00107,Microsoft,fulltext,C++,languages,c++
+microsoft_00108,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud infrastructure
+microsoft_00108,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00108,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00108,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00108,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00108,Microsoft,fulltext,Scala,languages,scala
+microsoft_00108,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00108,Microsoft,fulltext,Apache Kafka,data_engineering,kafka
+microsoft_00108,Microsoft,fulltext,ETL,data_engineering,etl
+microsoft_00109,Microsoft,titles,Azure,cloud_infra,azure
+microsoft_00109,Microsoft,titles,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00109,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00109,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00109,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00109,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00109,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00109,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00109,Microsoft,fulltext,HPC,hardware_systems,hpc
+microsoft_00109,Microsoft,fulltext,SoC Design,silicon_design,soc
+microsoft_00109,Microsoft,fulltext,CPU Architecture,silicon_design,cpu
+microsoft_00110,Microsoft,fulltext,HPC,hardware_systems,high performance computing
+microsoft_00110,Microsoft,fulltext,Kernel and Drivers,hardware_systems,device driver
+microsoft_00110,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00110,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00110,Microsoft,fulltext,Digital Twin and Simulation,research_domains,simulation
+microsoft_00110,Microsoft,fulltext,Business Development,product_process,channel
+microsoft_00110,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00110,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00110,Microsoft,fulltext,Computer Architecture,hardware_systems,asic
+microsoft_00110,Microsoft,fulltext,C++,languages,c++
+microsoft_00111,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00111,Microsoft,fulltext,Business Development,product_process,go to market
+microsoft_00111,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00112,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00112,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00112,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00112,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00112,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00112,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00112,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00112,Microsoft,fulltext,Power BI,analytics_bi,powerbi
+microsoft_00112,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00112,Microsoft,fulltext,Python,languages,python
+microsoft_00112,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00112,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00112,Microsoft,fulltext,SQL,languages,sql
+microsoft_00112,Microsoft,fulltext,C++,languages,c++
+microsoft_00113,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00113,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00113,Microsoft,fulltext,SQL,languages,sql
+microsoft_00113,Microsoft,fulltext,CPU Architecture,silicon_design,cpu
+microsoft_00114,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00114,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00114,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00114,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00115,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00115,Microsoft,fulltext,Cybersecurity,mlops_devops,cybersecurity
+microsoft_00115,Microsoft,fulltext,AI Safety,research_domains,alignment
+microsoft_00115,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00115,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00116,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00116,Microsoft,fulltext,Computer Vision,research_domains,computer vision
+microsoft_00116,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00116,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00117,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00117,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00117,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00117,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00117,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00117,Microsoft,fulltext,Java,languages,java
+microsoft_00117,Microsoft,fulltext,C++,languages,c++
+microsoft_00118,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00118,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00118,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00118,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00118,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00118,Microsoft,fulltext,C++,languages,c++
+microsoft_00119,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00119,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00119,Microsoft,fulltext,Python,languages,python
+microsoft_00119,Microsoft,fulltext,Kernel and Drivers,hardware_systems,kernel
+microsoft_00119,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00119,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00119,Microsoft,fulltext,C++,languages,c++
+microsoft_00119,Microsoft,fulltext,Go,languages,go
+microsoft_00120,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00120,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00120,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00120,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00120,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00120,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00120,Microsoft,fulltext,JavaScript,languages,ts
+microsoft_00121,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00121,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00121,Microsoft,fulltext,Java,languages,java
+microsoft_00121,Microsoft,fulltext,C++,languages,c++
+microsoft_00122,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00122,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00122,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00123,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00123,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00123,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00123,Microsoft,fulltext,Java,languages,java
+microsoft_00124,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00124,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00124,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00124,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00124,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00124,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00124,Microsoft,fulltext,C++,languages,c++
+microsoft_00125,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00125,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00125,Microsoft,fulltext,Signal and Power Integrity,silicon_design,power delivery
+microsoft_00125,Microsoft,fulltext,Datacenter Systems,hardware_systems,data center
+microsoft_00125,Microsoft,fulltext,Digital Twin and Simulation,research_domains,simulation
+microsoft_00125,Microsoft,fulltext,Power BI,analytics_bi,powerbi
+microsoft_00125,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00125,Microsoft,fulltext,Python,languages,python
+microsoft_00125,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00125,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00125,Microsoft,fulltext,SQL,languages,sql
+microsoft_00126,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00126,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00126,Microsoft,fulltext,Datacenter Systems,hardware_systems,datacenter
+microsoft_00126,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00126,Microsoft,fulltext,Python,languages,python
+microsoft_00126,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00126,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00126,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00127,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00128,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00128,Microsoft,fulltext,AI Safety,research_domains,alignment
+microsoft_00128,Microsoft,fulltext,Power BI,analytics_bi,powerbi
+microsoft_00128,Microsoft,fulltext,Agentic AI,research_domains,agents
+microsoft_00128,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00129,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00129,Microsoft,fulltext,Machine Learning,research_domains,ml
+microsoft_00130,Microsoft,fulltext,Site Reliability,mlops_devops,resiliency
+microsoft_00130,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00130,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00130,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00131,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00131,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00131,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00131,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00131,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00132,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00132,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00132,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00132,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00132,Microsoft,fulltext,C++,languages,c++
+microsoft_00133,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00133,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00133,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00133,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00133,Microsoft,fulltext,C++,languages,c++
+microsoft_00134,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00134,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00134,Microsoft,fulltext,Storage Systems,hardware_systems,storage systems
+microsoft_00134,Microsoft,fulltext,scikit-learn,ml_frameworks,scikit-learn
+microsoft_00134,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00134,Microsoft,fulltext,Python,languages,python
+microsoft_00134,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00134,Microsoft,fulltext,C++,languages,c++
+microsoft_00135,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00136,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00136,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00136,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00136,Microsoft,fulltext,Power BI,analytics_bi,power bi
+microsoft_00136,Microsoft,fulltext,Python,languages,python
+microsoft_00136,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00136,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00136,Microsoft,fulltext,Java,languages,java
+microsoft_00136,Microsoft,fulltext,SQL,languages,sql
+microsoft_00136,Microsoft,fulltext,C++,languages,c++
+microsoft_00136,Microsoft,fulltext,ETL,data_engineering,etl
+microsoft_00137,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00137,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00137,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00137,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00138,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00138,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00138,Microsoft,fulltext,Docker,cloud_infra,containers
+microsoft_00138,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00138,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00138,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00138,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00138,Microsoft,fulltext,Java,languages,java
+microsoft_00138,Microsoft,fulltext,C++,languages,c++
+microsoft_00139,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00139,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00139,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00139,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00139,Microsoft,fulltext,C++,languages,c++
+microsoft_00139,Microsoft,fulltext,Go,languages,go
+microsoft_00140,Microsoft,fulltext,Python,languages,python
+microsoft_00140,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00140,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00140,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00140,Microsoft,fulltext,Java,languages,java
+microsoft_00140,Microsoft,fulltext,C++,languages,c++
+microsoft_00140,Microsoft,fulltext,Go,languages,go
+microsoft_00140,Microsoft,fulltext,JavaScript,languages,js
+microsoft_00141,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00141,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00141,Microsoft,fulltext,Embedded Systems,hardware_systems,embedded systems
+microsoft_00141,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00141,Microsoft,fulltext,Computer Vision,research_domains,image processing
+microsoft_00141,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00141,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00141,Microsoft,fulltext,Graphics and Rendering,research_domains,graphics
+microsoft_00141,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00141,Microsoft,fulltext,C++,languages,c++
+microsoft_00141,Microsoft,fulltext,SoC Design,silicon_design,soc
+microsoft_00142,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00142,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00142,Microsoft,fulltext,Java,languages,java
+microsoft_00143,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00143,Microsoft,fulltext,C++,languages,c++
+microsoft_00144,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00144,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00144,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00144,Microsoft,fulltext,Java,languages,java
+microsoft_00144,Microsoft,fulltext,C++,languages,c++
+microsoft_00145,Microsoft,fulltext,Computer Vision,research_domains,image processing
+microsoft_00145,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00145,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00146,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00146,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00146,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00146,Microsoft,fulltext,Java,languages,java
+microsoft_00146,Microsoft,fulltext,C++,languages,c++
+microsoft_00147,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00147,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00147,Microsoft,fulltext,Datacenter Systems,hardware_systems,data center
+microsoft_00147,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00147,Microsoft,fulltext,Python,languages,python
+microsoft_00147,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00148,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00148,Microsoft,fulltext,Apache Kafka,data_engineering,kafka
+microsoft_00148,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00148,Microsoft,fulltext,ETL,data_engineering,etl
+microsoft_00149,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00149,Microsoft,fulltext,Kernel and Drivers,hardware_systems,device driver
+microsoft_00149,Microsoft,fulltext,Graphics and Rendering,research_domains,graphics
+microsoft_00149,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00149,Microsoft,fulltext,SQL,languages,sql
+microsoft_00150,Microsoft,titles,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00150,Microsoft,fulltext,CI/CD,mlops_devops,continuous integration
+microsoft_00150,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00150,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00150,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00150,Microsoft,fulltext,Cybersecurity,mlops_devops,cybersecurity
+microsoft_00150,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud native
+microsoft_00150,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00150,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00150,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00150,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00150,Microsoft,fulltext,SQL,languages,sql
+microsoft_00150,Microsoft,fulltext,AWS,cloud_infra,aws
+microsoft_00150,Microsoft,fulltext,NLP,research_domains,nlp
+microsoft_00151,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00151,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00151,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00151,Microsoft,fulltext,Python,languages,python
+microsoft_00151,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00151,Microsoft,fulltext,Java,languages,java
+microsoft_00152,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00152,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00152,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00152,Microsoft,fulltext,Java,languages,java
+microsoft_00153,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00153,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00154,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00154,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00154,Microsoft,fulltext,scikit-learn,ml_frameworks,scikit learn
+microsoft_00154,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00154,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00154,Microsoft,fulltext,PyTorch,ml_frameworks,pytorch
+microsoft_00154,Microsoft,fulltext,Python,languages,python
+microsoft_00154,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00154,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00154,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00154,Microsoft,fulltext,NLP,research_domains,nlp
+microsoft_00155,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00155,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00155,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00155,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00155,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00155,Microsoft,fulltext,Java,languages,java
+microsoft_00155,Microsoft,fulltext,C++,languages,c++
+microsoft_00157,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00157,Microsoft,fulltext,Reinforcement Learning,research_domains,reinforcement learning
+microsoft_00157,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00157,Microsoft,fulltext,Computer Vision,research_domains,image processing
+microsoft_00157,Microsoft,fulltext,ETL,data_engineering,data pipelines
+microsoft_00157,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00157,Microsoft,fulltext,scikit-learn,ml_frameworks,scikit-learn
+microsoft_00157,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00157,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00157,Microsoft,fulltext,PyTorch,ml_frameworks,pytorch
+microsoft_00157,Microsoft,fulltext,Python,languages,python
+microsoft_00157,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00158,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00158,Microsoft,fulltext,Embedded Systems,hardware_systems,embedded systems
+microsoft_00158,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00159,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00159,Microsoft,fulltext,Compilers,hardware_systems,compiler
+microsoft_00159,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00159,Microsoft,fulltext,Apache Spark,data_engineering,spark
+microsoft_00159,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00159,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00159,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00159,Microsoft,fulltext,Java,languages,java
+microsoft_00159,Microsoft,fulltext,SQL,languages,sql
+microsoft_00159,Microsoft,fulltext,C++,languages,c++
+microsoft_00160,Microsoft,fulltext,Site Reliability,mlops_devops,site reliability
+microsoft_00160,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00160,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00160,Microsoft,fulltext,Networking,hardware_systems,network
+microsoft_00160,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00160,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00160,Microsoft,fulltext,Java,languages,java
+microsoft_00160,Microsoft,fulltext,SQL,languages,sql
+microsoft_00160,Microsoft,fulltext,Business Development,product_process,gtm
+microsoft_00161,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00161,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00161,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00161,Microsoft,fulltext,Speech and Audio,research_domains,speech
+microsoft_00161,Microsoft,fulltext,Go,languages,go
+microsoft_00162,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00162,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00162,Microsoft,fulltext,Recommender Systems,research_domains,ranking
+microsoft_00163,Microsoft,titles,Machine Learning,research_domains,machine learning
+microsoft_00163,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00163,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00163,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00163,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00163,Microsoft,fulltext,Research Publication,product_process,publications
+microsoft_00163,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00163,Microsoft,fulltext,PyTorch,ml_frameworks,pytorch
+microsoft_00163,Microsoft,fulltext,Recommender Systems,research_domains,ranking
+microsoft_00163,Microsoft,fulltext,Python,languages,python
+microsoft_00163,Microsoft,fulltext,Java,languages,java
+microsoft_00164,Microsoft,titles,Machine Learning,research_domains,machine learning
+microsoft_00164,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00164,Microsoft,fulltext,Reinforcement Learning,research_domains,reinforcement learning
+microsoft_00164,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00164,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00164,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00164,Microsoft,fulltext,Research Publication,product_process,neurips
+microsoft_00164,Microsoft,fulltext,Python,languages,python
+microsoft_00164,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00164,Microsoft,fulltext,Java,languages,java
+microsoft_00164,Microsoft,fulltext,C++,languages,c++
+microsoft_00165,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud infrastructure
+microsoft_00165,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00165,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00165,Microsoft,fulltext,Site Reliability,mlops_devops,devops
+microsoft_00165,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00165,Microsoft,fulltext,C++,languages,c++
+microsoft_00166,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00166,Microsoft,fulltext,Embedded Systems,hardware_systems,embedded systems
+microsoft_00166,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00167,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00167,Microsoft,fulltext,Apache Spark,data_engineering,apache spark
+microsoft_00167,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00167,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00167,Microsoft,fulltext,Inference and Serving,research_domains,inference
+microsoft_00167,Microsoft,fulltext,Python,languages,python
+microsoft_00167,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00167,Microsoft,fulltext,CUDA,hardware_systems,cuda
+microsoft_00167,Microsoft,fulltext,C++,languages,c++
+microsoft_00168,Microsoft,fulltext,Technical Program Management,product_process,technical program management
+microsoft_00168,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00168,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00168,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00169,Microsoft,fulltext,NLP,research_domains,natural language processing
+microsoft_00169,Microsoft,fulltext,Machine Learning,research_domains,machine learning
+microsoft_00169,Microsoft,fulltext,Deep Learning,research_domains,deep learning
+microsoft_00169,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00169,Microsoft,fulltext,TensorFlow,ml_frameworks,tensorflow
+microsoft_00169,Microsoft,fulltext,Statistics,analytics_bi,statistics
+microsoft_00169,Microsoft,fulltext,PyTorch,ml_frameworks,pytorch
+microsoft_00169,Microsoft,fulltext,Inference and Serving,research_domains,serving
+microsoft_00169,Microsoft,fulltext,Python,languages,python
+microsoft_00169,Microsoft,fulltext,SQL,languages,sql
+microsoft_00169,Microsoft,fulltext,C++,languages,c++
+microsoft_00170,Microsoft,titles,Embedded Systems,hardware_systems,firmware
+microsoft_00170,Microsoft,titles,Azure,cloud_infra,azure
+microsoft_00170,Microsoft,titles,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00170,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00170,Microsoft,fulltext,Azure,cloud_infra,microsoft azure
+microsoft_00170,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00170,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00170,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00170,Microsoft,fulltext,C++,languages,c/c++
+microsoft_00170,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00170,Microsoft,fulltext,Firmware,hardware_systems,bios
+microsoft_00171,Microsoft,fulltext,Performance Engineering,hardware_systems,performance
+microsoft_00171,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00171,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00171,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00171,Microsoft,fulltext,Java,languages,java
+microsoft_00171,Microsoft,fulltext,C++,languages,c++
+microsoft_00172,Microsoft,fulltext,Model Monitoring,mlops_devops,observability
+microsoft_00172,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00172,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00172,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00172,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00172,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00172,Microsoft,fulltext,SQL,languages,sql
+microsoft_00173,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00173,Microsoft,fulltext,Networking,hardware_systems,networking
+microsoft_00173,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00173,Microsoft,fulltext,Storage Systems,hardware_systems,storage
+microsoft_00173,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00173,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00173,Microsoft,fulltext,Java,languages,java
+microsoft_00173,Microsoft,fulltext,C++,languages,c++
+microsoft_00174,Microsoft,fulltext,A/B Testing,analytics_bi,experimentation
+microsoft_00174,Microsoft,fulltext,JavaScript,languages,javascript
+microsoft_00174,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00175,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00175,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00176,Microsoft,fulltext,Business Development,product_process,business development
+microsoft_00176,Microsoft,fulltext,Kernel and Drivers,hardware_systems,driver
+microsoft_00177,Microsoft,fulltext,Performance Engineering,hardware_systems,optimization
+microsoft_00177,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00177,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00177,Microsoft,fulltext,Agile,product_process,agile
+microsoft_00177,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00178,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00178,Microsoft,fulltext,Developer Relations,product_process,developer experience
+microsoft_00178,Microsoft,fulltext,Test Automation,mlops_devops,test automation
+microsoft_00178,Microsoft,fulltext,Kernel and Drivers,hardware_systems,linux kernel
+microsoft_00178,Microsoft,fulltext,Site Reliability,mlops_devops,reliability
+microsoft_00178,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00178,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00178,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
+microsoft_00179,Microsoft,fulltext,Technical Leadership,product_process,technical leadership
+microsoft_00179,Microsoft,fulltext,Embedded Systems,hardware_systems,firmware
+microsoft_00179,Microsoft,fulltext,Kernel and Drivers,hardware_systems,kernel
+microsoft_00179,Microsoft,fulltext,Azure,cloud_infra,azure
+microsoft_00179,Microsoft,fulltext,C++,languages,c++
+microsoft_00179,Microsoft,fulltext,SoC Design,silicon_design,soc
+microsoft_00181,Microsoft,fulltext,Technical Program Management,product_process,program management
+microsoft_00181,Microsoft,fulltext,Cybersecurity,mlops_devops,security
+microsoft_00181,Microsoft,fulltext,Cloud Infrastructure,cloud_infra,cloud
