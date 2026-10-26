@@ -25,9 +25,11 @@ Output: microsoft_postings_raw_20261026.csv  (CONTRIBUTING.md naming)
 import pandas as pd
 import re
 import json
+from pathlib import Path
 
-SRC = "/mnt/user-data/outputs/CadetX/_shared/raw_source/microsoft_jobs_dataset.csv"
-OUT = "/mnt/user-data/outputs/CadetX/Task2_Data_Collection/microsoft_postings_raw_20261026.csv"
+HERE = Path(__file__).resolve().parent
+SRC = HERE / "microsoft_jobs_dataset.csv"
+OUT = HERE / "microsoft_postings_raw_20261026.csv"
 
 EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 PHONE = re.compile(r"\+?\d[\d\s().\-]{8,}\d")
