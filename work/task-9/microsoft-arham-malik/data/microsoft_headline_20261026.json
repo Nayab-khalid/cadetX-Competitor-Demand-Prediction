@@ -1,0 +1,35 @@
+{
+  "postings": 182,
+  "azure_pct": 67.6,
+  "titles_coverage_pct": 5.5,
+  "fulltext_coverage_pct": 96.7,
+  "mean_skills_fulltext": 5.95,
+  "swe_rising": [
+    {
+      "skill": "C++",
+      "change": 24.1
+    },
+    {
+      "skill": "Cybersecurity",
+      "change": 24.1
+    },
+    {
+      "skill": "Apache Spark",
+      "change": 12.0
+    }
+  ],
+  "swe_falling": [
+    {
+      "skill": "Site Reliability",
+      "change": -11.1
+    },
+    {
+      "skill": "JavaScript",
+      "change": -12.1
+    },
+    {
+      "skill": "Agile",
+      "change": -30.6
+    }
+  ]
+}

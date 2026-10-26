@@ -1,0 +1,26 @@
+skill,Mid,Senior,Principal,gradient
+Technical Program Management,6.2,11.8,29.2,23.0
+Azure,60.4,66.7,75.0,14.6
+Deep Learning,2.1,2.0,12.5,10.4
+Technical Leadership,6.2,7.8,12.5,6.3
+Apache Spark,2.1,9.8,8.3,6.2
+Statistics,10.4,5.9,12.5,2.1
+Embedded Systems,6.2,3.9,8.3,2.1
+Python,16.7,11.8,16.7,0.0
+JavaScript,16.7,13.7,16.7,0.0
+NLP,4.2,5.9,4.2,0.0
+Networking,12.5,23.5,12.5,0.0
+Cybersecurity,33.3,25.5,29.2,-4.1
+Developer Relations,8.3,5.9,4.2,-4.1
+A/B Testing,4.2,5.9,0.0,-4.2
+Java,29.2,23.5,25.0,-4.2
+SQL,16.7,13.7,12.5,-4.2
+Storage Systems,14.6,17.6,8.3,-6.3
+Machine Learning,33.3,31.4,25.0,-8.3
+Go,10.4,7.8,0.0,-10.4
+Inference and Serving,10.4,3.9,0.0,-10.4
+Performance Engineering,27.1,21.6,16.7,-10.4
+Cloud Infrastructure,68.8,60.8,58.3,-10.5
+C++,41.7,43.1,29.2,-12.5
+Site Reliability,20.8,15.7,8.3,-12.5
+Agile,35.4,27.5,20.8,-14.6
