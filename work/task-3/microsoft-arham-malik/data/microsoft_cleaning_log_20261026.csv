@@ -1,0 +1,7 @@
+step,detail
+normalise unicode,"smart quotes, bullets, nbsp folded to ASCII"
+strip boilerplate,"9 bounded patterns (EEO, benefits, screening)"
+over-deletion guard,"min retention 45.9%, threshold 45%"
+clean_text,case and punctuation preserved for taxonomy matching
+token_text,"lowercased, stopwords and role words removed, tech tokens protected"
+stemming,NOT applied - breaks proper-noun skill names
