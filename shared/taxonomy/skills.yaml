@@ -300,9 +300,12 @@ skills:
   - name: Inference and Serving
     category: research_domains
     aliases: [inference, serving, deployment optimization, quantization, quantisation]
+  # "drive" and "av" were removed: "drive" matched the ordinary verb ("drive features to closure")
+  # in Microsoft and Meta full text, none about vehicles, and "av" is too short to disambiguate.
+  # Evidence: work/task-4/microsoft-arham-malik/data/features/drive_false_positive_evidence_20261026.csv
   - name: Autonomous Vehicles
     category: research_domains
-    aliases: [autonomous vehicle, autonomous vehicles, self-driving, av, drive, adas]
+    aliases: [autonomous vehicle, autonomous vehicles, self-driving, adas]
   - name: Digital Twin and Simulation
     category: research_domains
     aliases: [omniverse, digital twin, simulation, physical ai]
@@ -350,6 +353,49 @@ skills:
   - name: Business Development
     category: product_process
     aliases: [business development, bd, go to market, gtm, channel, alliances]
+
+  # =======================================================================================
+  # Added by Arham Malik (Microsoft), 2026-10-26. Proposed for team ratification.
+  #
+  # Microsoft extension, as asked for in the Task 6 note. Every alias was checked against the
+  # 182 Microsoft postings for collisions with ordinary English. Rejected during that check:
+  #   "teams"   - almost always the plural noun, rarely Microsoft Teams.
+  #   "windows" - mostly ordinary usage; only the qualified forms below are used.
+  # Xbox was also left out: gaming has no category here yet.
+  # =======================================================================================
+
+  # ---- microsoft extension
+  # "c#" keeps the "#", so a cleaning step that strips punctuation before matching loses it.
+  - name: "C#"
+    category: languages
+    aliases: ["c#", "c sharp", "csharp"]
+  - name: ".NET"
+    category: languages
+    aliases: [".net", "dotnet", "asp.net", ".net core"]
+  - name: PowerShell
+    category: languages
+    aliases: [powershell]
+  - name: Windows Platform
+    category: hardware_systems
+    aliases: ["windows server", "windows kernel", "windows os", "windows client", "windows driver"]
+  - name: Debugging
+    category: product_process
+    aliases: [debugging, debugger, root cause analysis]
+  - name: Distributed Systems
+    category: hardware_systems
+    aliases: ["distributed systems", "distributed computing", "distributed system"]
+  - name: Algorithms and Data Structures
+    category: product_process
+    aliases: [algorithms, "data structures"]
+  - name: Telemetry
+    category: mlops_devops
+    aliases: [telemetry, instrumentation]
+  - name: Microsoft 365
+    category: product_process
+    aliases: ["office 365", "microsoft 365", "m365", "sharepoint"]
+  - name: Bing
+    category: research_domains
+    aliases: [bing]
 
 # Skills seen in postings but not yet canonical. Empty this list every week by promoting or rejecting.
 # Current candidates for NVIDIA are in
