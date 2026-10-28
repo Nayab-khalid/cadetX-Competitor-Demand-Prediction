@@ -34,7 +34,7 @@ own choice, but the output quality bar is shared so cross-company comparison sta
 |---|---|---|---|
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
-| Arham Malik | Microsoft | [ ] | |
+| Arham Malik | Microsoft | [x] | |
 | Abdal Farid | Meta | [x] | |
 
 ## Open team decisions raised by this task

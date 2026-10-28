@@ -37,7 +37,7 @@ extraction is allowed, that robots.txt does not block it, and that no personal d
 |---|---|---|---|
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
-| Arham Malik | Anthropic | [ ] | |
+| Arham Malik | Microsoft | [x] | |
 | Abdal Farid| Meta | [x] | |
 
 ## Open team decisions raised by this task

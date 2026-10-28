@@ -34,7 +34,7 @@ seasonal spikes. Align on a shared time-series structure so all four companies c
 |---|---|---|---|
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
-| Arham Malik | Microsoft | [ ] | |
+| Arham Malik | Microsoft | [x] | |
 | Abdal Farid | Meta | [x] | |
 
 ## Open team decisions raised by this task

@@ -22,7 +22,7 @@ Connect collection, preprocessing, skill extraction, trend analysis and forecast
 |---|---|---|---|
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
-| Arham Malik | Microsoft | [ ] | |
+| Arham Malik | Microsoft | [x] | |
 | Abdal Farid | Meta | [x] | |
 
 ## State
