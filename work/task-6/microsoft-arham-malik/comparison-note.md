@@ -65,7 +65,7 @@ number of Microsoft hits.
 
 NVIDIA extended the taxonomy by 34 skills built from NVIDIA titles, which is why
 NVIDIA's coverage is 72% and Microsoft's is 5.5%. Microsoft's proposed extension
-is in `_shared/PROPOSED_taxonomy_patch.yaml` and is deliberately **not** applied
+is in `work/task-4/microsoft-arham-malik/taxonomy_proposed_extension.yaml` and is deliberately **not** applied
 here. Applying it unilaterally would inflate Microsoft for exactly the reason
 NVIDIA is currently inflated, and the comparison would still measure the
 taxonomy rather than the companies.

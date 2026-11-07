@@ -15,7 +15,7 @@ THE TAXONOMY CAVEAT, RESTATED. NVIDIA extended the shared taxonomy by 34
 skills during Task 4, built by reading NVIDIA titles. NVIDIA's title coverage
 is 72%; Microsoft's is 5.5%. Until every member extends the taxonomy for their
 own company, a four-way skill comparison still partly measures the taxonomy.
-Microsoft's proposed extension is in _shared/PROPOSED_taxonomy_patch.yaml and
+Microsoft's proposed extension is in work/task-4/microsoft-arham-malik/taxonomy_proposed_extension.yaml and
 is deliberately NOT applied here - applying it unilaterally would make
 Microsoft look better for the same reason NVIDIA currently does.
 

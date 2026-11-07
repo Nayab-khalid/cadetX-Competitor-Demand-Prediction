@@ -52,15 +52,15 @@ Evidence with context lines is in
 This file reports both numbers - as the taxonomy stands, so figures stay
 comparable with work already committed, and with the alias suppressed, so the
 size of the error is visible. The fix needs a PR and two approvals, so it is
-proposed in `_shared/PROPOSED_taxonomy_patch.yaml` rather than applied here.
+proposed in `taxonomy_proposed_extension.yaml` (this folder) rather than applied here.
 
 ## Taxonomy extension
 
 Nayab's note asks each member to extend the taxonomy for their own company,
 since NVIDIA's 34 additions are why NVIDIA looks skill-rich. Microsoft's
-proposed additions are in the same patch file: C#, .NET, PowerShell, Windows
+proposed additions are in the same file: C#, .NET, PowerShell, Windows
 Platform, Debugging, Distributed Systems, Algorithms and Data Structures,
-Telemetry, Microsoft 365, Bing, Xbox.
+Telemetry, Microsoft 365, Bing. Xbox was dropped: gaming has no category yet.
 
 Two candidates were tested and rejected, recorded so nobody re-proposes them:
 
