@@ -22,7 +22,7 @@ Fine-tune a pre-trained NLP model on job descriptions and verified skill labels 
 |---|---|---|---|
 | Nayab Khalid | NVIDIA | [x] | |
 | Noorul Huda Batool | Google | [ ] | |
-| Arham Malik | Microsoft | [ ] | |
+| Arham Malik | Microsoft | [x] | |
 | Abdal Farid | Meta | [x] | |
 
 ## Outcome: not feasible for NVIDIA, with the nearest useful work done instead
@@ -76,6 +76,28 @@ false positives from the title field, missed abbreviations (`RL`,
 The full evaluation is in `evaluate_extractor.py`,
 `evaluation_metrics.csv`, `evaluation_per_row.csv`, and
 `eval_set_labelled.csv`, all in this folder.
+
+## Outcome: feasible for Microsoft, fine-tuned on independent labels
+
+Microsoft is the one company with full description text, so a fine-tune with labels independent of
+the extractor was possible. All 924 matcher candidates in 142 training postings were judged genuine
+or not from their context. A 40-posting gold test set (210 skills) was labelled from the full text
+before any extractor output for it was seen. A pre-trained spaCy pipeline (`en_core_web_sm`) was
+fine-tuned to keep or reject each candidate.
+
+| 40 held-out postings | Precision | Recall | F1 | Exact rows |
+|---|---|---|---|---|
+| Keyword matcher, taxonomy as it stands | 0.731 | 0.829 | 0.777 | 3/40 |
+| Keyword matcher, `drive` suppressed (Task 4) | 0.791 | 0.829 | 0.809 | 7/40 |
+| Keyword matcher + fine-tuned filter | 0.874 | 0.790 | 0.830 | 12/40 |
+
+A modest, reproducible gain: false positives fall from 64 to 24 for 4 points of recall. The labels
+were made with AI assistance and have not yet been checked by a second person.
+
+It also found that **`C` and `R` can never be extracted from any text**: `title_match_blocklist`
+is applied to full descriptions as well as titles, and `C` is the largest single miss in the gold set.
+
+See [Arham's note](microsoft-arham-malik/README.md).
 
 Due date: to be agreed in the sprint meeting.
 Portal submission: the URL of this repository.
