@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "GENUINE",
+    "NOT"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}

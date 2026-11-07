@@ -1,0 +1,925 @@
+job_id,skill,genuine
+microsoft_00002,A/B Testing,1
+microsoft_00002,Autonomous Vehicles,0
+microsoft_00002,C++,1
+microsoft_00002,Cloud Infrastructure,1
+microsoft_00002,HPC,1
+microsoft_00002,Inference and Serving,0
+microsoft_00002,Java,1
+microsoft_00002,Machine Learning,1
+microsoft_00002,NLP,1
+microsoft_00002,Networking,0
+microsoft_00002,Performance Engineering,0
+microsoft_00002,Python,1
+microsoft_00002,Statistics,1
+microsoft_00003,Autonomous Vehicles,0
+microsoft_00003,Azure,1
+microsoft_00003,SQL,1
+microsoft_00003,Technical Leadership,1
+microsoft_00006,Agile,0
+microsoft_00006,Autonomous Vehicles,0
+microsoft_00006,Azure,1
+microsoft_00006,C++,1
+microsoft_00006,Cloud Infrastructure,1
+microsoft_00006,Java,1
+microsoft_00006,Machine Learning,1
+microsoft_00006,Networking,1
+microsoft_00006,Performance Engineering,1
+microsoft_00006,SQL,1
+microsoft_00006,Site Reliability,1
+microsoft_00006,Technical Leadership,1
+microsoft_00007,Agile,1
+microsoft_00007,Autonomous Vehicles,0
+microsoft_00007,Azure,1
+microsoft_00007,Graphics and Rendering,0
+microsoft_00007,JavaScript,1
+microsoft_00007,Performance Engineering,0
+microsoft_00007,SQL,1
+microsoft_00008,Agile,1
+microsoft_00008,Autonomous Vehicles,0
+microsoft_00008,Azure,1
+microsoft_00008,Graphics and Rendering,0
+microsoft_00008,JavaScript,1
+microsoft_00008,Performance Engineering,0
+microsoft_00008,SQL,1
+microsoft_00009,Go,0
+microsoft_00011,Agile,1
+microsoft_00011,Azure,1
+microsoft_00011,Cloud Infrastructure,1
+microsoft_00011,Cybersecurity,0
+microsoft_00011,Performance Engineering,0
+microsoft_00011,Site Reliability,0
+microsoft_00011,Statistics,1
+microsoft_00011,Storage Systems,1
+microsoft_00012,Agile,1
+microsoft_00012,Azure,0
+microsoft_00012,Cloud Infrastructure,1
+microsoft_00012,Cybersecurity,1
+microsoft_00012,Developer Relations,0
+microsoft_00012,Performance Engineering,1
+microsoft_00012,Site Reliability,1
+microsoft_00013,Autonomous Vehicles,0
+microsoft_00013,Embedded Systems,1
+microsoft_00013,Statistics,1
+microsoft_00014,Agile,0
+microsoft_00014,Azure,1
+microsoft_00014,C++,1
+microsoft_00014,Cloud Infrastructure,1
+microsoft_00014,Computer Vision,1
+microsoft_00014,Go,0
+microsoft_00014,Java,1
+microsoft_00014,JavaScript,1
+microsoft_00014,Machine Learning,1
+microsoft_00015,A/B Testing,1
+microsoft_00015,Agile,0
+microsoft_00015,Azure,1
+microsoft_00015,Cloud Infrastructure,1
+microsoft_00015,Cybersecurity,0
+microsoft_00015,JavaScript,1
+microsoft_00015,Machine Learning,1
+microsoft_00015,Performance Engineering,0
+microsoft_00015,Site Reliability,1
+microsoft_00017,AI Safety,0
+microsoft_00017,Autonomous Vehicles,0
+microsoft_00017,Azure,1
+microsoft_00017,Cloud Infrastructure,1
+microsoft_00017,Cybersecurity,1
+microsoft_00017,Networking,1
+microsoft_00017,Storage Systems,1
+microsoft_00018,Agile,1
+microsoft_00018,Azure,1
+microsoft_00018,C++,1
+microsoft_00018,Cloud Infrastructure,1
+microsoft_00018,Compilers,0
+microsoft_00018,Datacenter Systems,1
+microsoft_00018,Digital Twin and Simulation,0
+microsoft_00018,Java,1
+microsoft_00018,Networking,1
+microsoft_00018,Performance Engineering,0
+microsoft_00019,Autonomous Vehicles,0
+microsoft_00019,C++,1
+microsoft_00019,CPU Architecture,0
+microsoft_00019,Performance Engineering,1
+microsoft_00019,Storage Systems,1
+microsoft_00020,Agile,1
+microsoft_00020,Azure,0
+microsoft_00020,Cloud Infrastructure,1
+microsoft_00020,Cybersecurity,1
+microsoft_00020,Developer Relations,0
+microsoft_00020,Performance Engineering,1
+microsoft_00020,Site Reliability,1
+microsoft_00021,C++,1
+microsoft_00021,Machine Learning,1
+microsoft_00021,PyTorch,1
+microsoft_00021,Python,1
+microsoft_00021,TensorFlow,1
+microsoft_00022,Cloud Infrastructure,1
+microsoft_00022,Java,1
+microsoft_00022,JavaScript,1
+microsoft_00023,Agile,1
+microsoft_00023,Cybersecurity,1
+microsoft_00023,Storage Systems,1
+microsoft_00024,Agentic AI,0
+microsoft_00024,Agile,1
+microsoft_00024,Autonomous Vehicles,0
+microsoft_00024,C++,1
+microsoft_00024,Java,1
+microsoft_00024,JavaScript,1
+microsoft_00024,Python,1
+microsoft_00024,Site Reliability,1
+microsoft_00024,Storage Systems,1
+microsoft_00024,Test Automation,1
+microsoft_00025,C++,1
+microsoft_00025,CPU Architecture,0
+microsoft_00025,Cloud Infrastructure,1
+microsoft_00025,Machine Learning,1
+microsoft_00025,Performance Engineering,1
+microsoft_00028,Agile,0
+microsoft_00028,Azure,1
+microsoft_00028,C++,1
+microsoft_00028,Cloud Infrastructure,1
+microsoft_00028,Java,1
+microsoft_00028,Networking,1
+microsoft_00028,Performance Engineering,1
+microsoft_00028,Storage Systems,1
+microsoft_00029,Agile,0
+microsoft_00029,Azure,1
+microsoft_00029,C++,1
+microsoft_00029,Cloud Infrastructure,1
+microsoft_00029,Java,1
+microsoft_00029,Networking,1
+microsoft_00029,Performance Engineering,1
+microsoft_00029,Storage Systems,1
+microsoft_00030,Agile,1
+microsoft_00030,Azure,0
+microsoft_00030,Cloud Infrastructure,1
+microsoft_00030,JavaScript,1
+microsoft_00030,Site Reliability,0
+microsoft_00031,Agile,1
+microsoft_00031,Autonomous Vehicles,0
+microsoft_00031,Azure,1
+microsoft_00031,CI/CD,1
+microsoft_00031,Cloud Infrastructure,1
+microsoft_00031,Datacenter Systems,0
+microsoft_00031,Networking,1
+microsoft_00031,Site Reliability,1
+microsoft_00032,Agile,1
+microsoft_00032,Autonomous Vehicles,0
+microsoft_00032,Azure,1
+microsoft_00032,C++,1
+microsoft_00032,Cloud Infrastructure,1
+microsoft_00032,Java,1
+microsoft_00032,JavaScript,1
+microsoft_00032,SQL,1
+microsoft_00032,Site Reliability,0
+microsoft_00033,Autonomous Vehicles,0
+microsoft_00033,Go,0
+microsoft_00034,Azure,1
+microsoft_00034,C++,1
+microsoft_00034,Cloud Infrastructure,1
+microsoft_00034,Inference and Serving,0
+microsoft_00034,Java,1
+microsoft_00034,Storage Systems,1
+microsoft_00035,C++,1
+microsoft_00035,Inference and Serving,0
+microsoft_00035,JavaScript,1
+microsoft_00035,Technical Program Management,0
+microsoft_00036,Azure,1
+microsoft_00036,Cloud Infrastructure,1
+microsoft_00036,Cybersecurity,1
+microsoft_00038,Autonomous Vehicles,0
+microsoft_00038,Azure,1
+microsoft_00038,Cloud Infrastructure,1
+microsoft_00038,Cybersecurity,1
+microsoft_00038,SoC Design,0
+microsoft_00039,AWS,1
+microsoft_00039,Agile,0
+microsoft_00039,Autonomous Vehicles,0
+microsoft_00039,Azure,1
+microsoft_00039,C++,1
+microsoft_00039,Cybersecurity,1
+microsoft_00039,Java,1
+microsoft_00039,JavaScript,0
+microsoft_00039,Machine Learning,0
+microsoft_00039,Networking,1
+microsoft_00039,Performance Engineering,1
+microsoft_00039,SQL,1
+microsoft_00039,Silicon Verification,0
+microsoft_00039,Site Reliability,1
+microsoft_00039,Storage Systems,1
+microsoft_00039,Technical Program Management,0
+microsoft_00040,Agile,0
+microsoft_00040,Autonomous Vehicles,0
+microsoft_00040,Azure,1
+microsoft_00040,Cloud Infrastructure,1
+microsoft_00040,Cybersecurity,0
+microsoft_00040,Developer Relations,0
+microsoft_00040,Networking,1
+microsoft_00040,Technical Leadership,1
+microsoft_00041,Autonomous Vehicles,0
+microsoft_00041,Business Development,0
+microsoft_00041,Technical Program Management,1
+microsoft_00045,Azure,1
+microsoft_00045,Computer Vision,1
+microsoft_00045,Machine Learning,1
+microsoft_00046,Azure,1
+microsoft_00046,C++,1
+microsoft_00046,Performance Engineering,0
+microsoft_00046,Python,1
+microsoft_00049,Apache Spark,1
+microsoft_00049,C++,1
+microsoft_00049,Deep Learning,1
+microsoft_00049,Docker,1
+microsoft_00049,Inference and Serving,1
+microsoft_00049,Java,1
+microsoft_00049,Performance Engineering,1
+microsoft_00049,Python,1
+microsoft_00049,Recommender Systems,1
+microsoft_00049,Scala,1
+microsoft_00050,Autonomous Vehicles,0
+microsoft_00050,Cloud Infrastructure,1
+microsoft_00050,JavaScript,1
+microsoft_00050,Machine Learning,1
+microsoft_00050,NLP,1
+microsoft_00050,Python,1
+microsoft_00050,SQL,1
+microsoft_00050,Statistics,0
+microsoft_00051,Agile,0
+microsoft_00051,Cloud Infrastructure,1
+microsoft_00051,Cybersecurity,1
+microsoft_00051,Networking,1
+microsoft_00052,Agile,1
+microsoft_00052,Azure,1
+microsoft_00052,Business Development,0
+microsoft_00052,Cloud Infrastructure,1
+microsoft_00052,Cybersecurity,0
+microsoft_00052,Java,1
+microsoft_00052,JavaScript,1
+microsoft_00053,Azure,1
+microsoft_00053,Cloud Infrastructure,1
+microsoft_00053,Cybersecurity,0
+microsoft_00053,Networking,0
+microsoft_00053,Technical Program Management,1
+microsoft_00055,A/B Testing,1
+microsoft_00055,Azure,1
+microsoft_00055,Cloud Infrastructure,1
+microsoft_00055,Cybersecurity,1
+microsoft_00055,Java,1
+microsoft_00055,Machine Learning,1
+microsoft_00055,Networking,1
+microsoft_00055,Performance Engineering,0
+microsoft_00055,SQL,1
+microsoft_00055,Site Reliability,1
+microsoft_00056,AWS,1
+microsoft_00056,Agile,1
+microsoft_00056,Azure,1
+microsoft_00056,C++,1
+microsoft_00056,Cloud Infrastructure,1
+microsoft_00056,Java,1
+microsoft_00056,JavaScript,1
+microsoft_00056,Python,1
+microsoft_00058,Apache Spark,1
+microsoft_00058,Autonomous Vehicles,0
+microsoft_00058,Azure,1
+microsoft_00058,Cloud Infrastructure,1
+microsoft_00058,Performance Engineering,1
+microsoft_00058,SQL,1
+microsoft_00058,Site Reliability,1
+microsoft_00058,Storage Systems,1
+microsoft_00059,Autonomous Vehicles,0
+microsoft_00059,Azure,1
+microsoft_00059,Cloud Infrastructure,1
+microsoft_00059,Cybersecurity,1
+microsoft_00059,HPC,1
+microsoft_00059,Networking,1
+microsoft_00059,Python,1
+microsoft_00060,AWS,1
+microsoft_00060,Agile,1
+microsoft_00060,Azure,1
+microsoft_00060,C++,1
+microsoft_00060,Cloud Infrastructure,1
+microsoft_00060,Java,1
+microsoft_00060,JavaScript,1
+microsoft_00063,Autonomous Vehicles,0
+microsoft_00063,Azure,1
+microsoft_00063,Cloud Infrastructure,1
+microsoft_00063,Machine Learning,1
+microsoft_00063,Power BI,1
+microsoft_00063,Python,1
+microsoft_00063,SQL,1
+microsoft_00064,Autonomous Vehicles,0
+microsoft_00064,Business Development,1
+microsoft_00064,Power BI,1
+microsoft_00064,SQL,1
+microsoft_00065,Azure,1
+microsoft_00065,C++,1
+microsoft_00065,Cloud Infrastructure,1
+microsoft_00065,Java,1
+microsoft_00067,A/B Testing,1
+microsoft_00067,Autonomous Vehicles,0
+microsoft_00068,C++,1
+microsoft_00068,Embedded Systems,1
+microsoft_00068,Technical Program Management,0
+microsoft_00069,Autonomous Vehicles,0
+microsoft_00069,Azure,1
+microsoft_00069,C++,1
+microsoft_00069,Cybersecurity,0
+microsoft_00069,Go,0
+microsoft_00069,Java,1
+microsoft_00069,Performance Engineering,1
+microsoft_00070,Azure,1
+microsoft_00070,Cloud Infrastructure,1
+microsoft_00070,Cybersecurity,0
+microsoft_00070,Machine Learning,1
+microsoft_00070,Networking,0
+microsoft_00070,Power BI,1
+microsoft_00070,SQL,1
+microsoft_00070,Solutions Architecture,1
+microsoft_00070,Tableau,1
+microsoft_00071,C++,1
+microsoft_00071,Computer Vision,1
+microsoft_00071,Deep Learning,1
+microsoft_00071,Machine Learning,1
+microsoft_00071,Statistics,0
+microsoft_00073,Agile,0
+microsoft_00073,Apache Spark,1
+microsoft_00073,Autonomous Vehicles,0
+microsoft_00073,Azure,1
+microsoft_00073,Cloud Infrastructure,1
+microsoft_00073,Cybersecurity,1
+microsoft_00073,ETL,1
+microsoft_00073,Machine Learning,1
+microsoft_00073,Performance Engineering,0
+microsoft_00073,SQL,1
+microsoft_00074,Autonomous Vehicles,0
+microsoft_00074,Azure,0
+microsoft_00074,Cloud Infrastructure,1
+microsoft_00074,Datacenter Systems,1
+microsoft_00076,Agile,1
+microsoft_00076,Azure,1
+microsoft_00076,C++,1
+microsoft_00076,Cloud Infrastructure,1
+microsoft_00076,Cybersecurity,1
+microsoft_00076,Java,1
+microsoft_00076,Performance Engineering,1
+microsoft_00077,Azure,1
+microsoft_00077,C++,1
+microsoft_00077,Embedded Systems,1
+microsoft_00077,Kernel and Drivers,1
+microsoft_00077,SoC Design,1
+microsoft_00077,Technical Leadership,1
+microsoft_00078,Apache Spark,1
+microsoft_00078,C++,1
+microsoft_00078,Cloud Infrastructure,1
+microsoft_00078,Java,1
+microsoft_00078,Kubernetes,1
+microsoft_00078,Machine Learning,1
+microsoft_00078,Python,1
+microsoft_00078,SQL,1
+microsoft_00078,Scala,1
+microsoft_00079,Autonomous Vehicles,0
+microsoft_00079,Azure,1
+microsoft_00079,Cloud Infrastructure,1
+microsoft_00079,Cybersecurity,0
+microsoft_00079,Networking,0
+microsoft_00079,Storage Systems,1
+microsoft_00079,Test Automation,1
+microsoft_00080,Autonomous Vehicles,0
+microsoft_00080,Azure,0
+microsoft_00080,Business Development,0
+microsoft_00080,Cloud Infrastructure,0
+microsoft_00080,SQL,1
+microsoft_00080,Statistics,0
+microsoft_00081,Autonomous Vehicles,0
+microsoft_00082,Autonomous Vehicles,0
+microsoft_00082,C++,1
+microsoft_00083,Agile,0
+microsoft_00083,Azure,1
+microsoft_00083,C++,1
+microsoft_00084,Agentic AI,0
+microsoft_00084,Azure,1
+microsoft_00084,CI/CD,1
+microsoft_00084,JavaScript,1
+microsoft_00085,Agile,0
+microsoft_00085,Apache Spark,1
+microsoft_00085,Azure,1
+microsoft_00085,C++,1
+microsoft_00085,Cloud Infrastructure,1
+microsoft_00085,Cybersecurity,0
+microsoft_00085,Java,1
+microsoft_00085,Storage Systems,1
+microsoft_00086,Agile,1
+microsoft_00086,Autonomous Vehicles,0
+microsoft_00086,C++,1
+microsoft_00086,Silicon Verification,0
+microsoft_00087,Agile,0
+microsoft_00087,Azure,1
+microsoft_00087,C++,1
+microsoft_00088,Apache Spark,1
+microsoft_00088,Autonomous Vehicles,0
+microsoft_00088,Azure,1
+microsoft_00088,C++,1
+microsoft_00088,Cloud Infrastructure,1
+microsoft_00088,Cybersecurity,0
+microsoft_00088,ETL,1
+microsoft_00088,Java,1
+microsoft_00088,Machine Learning,1
+microsoft_00088,Performance Engineering,0
+microsoft_00088,SQL,1
+microsoft_00088,Speech and Audio,1
+microsoft_00088,Statistics,0
+microsoft_00088,Storage Systems,1
+microsoft_00089,Agile,1
+microsoft_00089,Azure,1
+microsoft_00089,CI/CD,1
+microsoft_00089,Cloud Infrastructure,1
+microsoft_00089,Cybersecurity,0
+microsoft_00089,Docker,1
+microsoft_00089,JavaScript,1
+microsoft_00089,Performance Engineering,0
+microsoft_00091,Autonomous Vehicles,0
+microsoft_00091,Azure,1
+microsoft_00091,C++,1
+microsoft_00091,Cloud Infrastructure,1
+microsoft_00091,Databricks,1
+microsoft_00091,ETL,1
+microsoft_00091,Java,1
+microsoft_00091,Python,1
+microsoft_00091,SQL,1
+microsoft_00093,Agile,1
+microsoft_00093,Azure,1
+microsoft_00093,C++,1
+microsoft_00093,CI/CD,1
+microsoft_00093,Cloud Infrastructure,1
+microsoft_00093,Design Automation,1
+microsoft_00093,Docker,1
+microsoft_00093,JavaScript,1
+microsoft_00093,Kubernetes,1
+microsoft_00093,Networking,1
+microsoft_00093,Python,1
+microsoft_00093,Storage Systems,0
+microsoft_00093,Technical Leadership,1
+microsoft_00095,Autonomous Vehicles,0
+microsoft_00095,Azure,1
+microsoft_00095,Machine Learning,1
+microsoft_00095,NLP,1
+microsoft_00095,Speech and Audio,1
+microsoft_00096,AWS,1
+microsoft_00096,Agile,0
+microsoft_00096,Autonomous Vehicles,0
+microsoft_00096,Azure,1
+microsoft_00096,C++,1
+microsoft_00096,Cloud Infrastructure,1
+microsoft_00096,Cybersecurity,0
+microsoft_00096,Docker,1
+microsoft_00096,Java,1
+microsoft_00096,Performance Engineering,1
+microsoft_00096,Python,1
+microsoft_00096,Site Reliability,1
+microsoft_00097,Autonomous Vehicles,0
+microsoft_00097,Azure,0
+microsoft_00097,C++,1
+microsoft_00097,Cloud Infrastructure,1
+microsoft_00097,Cybersecurity,0
+microsoft_00097,Java,1
+microsoft_00097,Machine Learning,1
+microsoft_00097,Site Reliability,0
+microsoft_00099,Azure,1
+microsoft_00099,Cloud Infrastructure,1
+microsoft_00099,Datacenter Systems,1
+microsoft_00099,Networking,1
+microsoft_00099,Performance Engineering,0
+microsoft_00099,SQL,1
+microsoft_00100,Autonomous Vehicles,0
+microsoft_00100,Azure,1
+microsoft_00100,Cloud Infrastructure,1
+microsoft_00100,Cybersecurity,0
+microsoft_00100,Networking,1
+microsoft_00100,Performance Engineering,1
+microsoft_00100,Site Reliability,0
+microsoft_00101,Autonomous Vehicles,0
+microsoft_00101,C++,1
+microsoft_00101,Cloud Infrastructure,0
+microsoft_00101,Go,0
+microsoft_00101,Java,1
+microsoft_00101,JavaScript,1
+microsoft_00101,Python,1
+microsoft_00102,Azure,1
+microsoft_00102,C++,1
+microsoft_00102,Developer Relations,0
+microsoft_00104,Autonomous Vehicles,0
+microsoft_00104,Azure,1
+microsoft_00104,Cloud Infrastructure,1
+microsoft_00104,Cybersecurity,0
+microsoft_00104,Machine Learning,1
+microsoft_00104,Storage Systems,1
+microsoft_00105,A/B Testing,1
+microsoft_00105,Cloud Infrastructure,1
+microsoft_00105,Technical Leadership,1
+microsoft_00107,Azure,1
+microsoft_00107,C++,1
+microsoft_00107,Cloud Infrastructure,1
+microsoft_00107,Cybersecurity,0
+microsoft_00107,Developer Relations,1
+microsoft_00107,Go,1
+microsoft_00107,Java,1
+microsoft_00107,Performance Engineering,1
+microsoft_00107,Python,1
+microsoft_00107,Site Reliability,1
+microsoft_00108,Apache Kafka,1
+microsoft_00108,Apache Spark,1
+microsoft_00108,Autonomous Vehicles,0
+microsoft_00108,Azure,1
+microsoft_00108,Cloud Infrastructure,1
+microsoft_00108,Cybersecurity,1
+microsoft_00108,ETL,1
+microsoft_00108,Machine Learning,1
+microsoft_00108,Scala,1
+microsoft_00108,Site Reliability,0
+microsoft_00109,Autonomous Vehicles,0
+microsoft_00109,Azure,1
+microsoft_00109,CPU Architecture,1
+microsoft_00109,Cloud Infrastructure,1
+microsoft_00109,Deep Learning,1
+microsoft_00109,HPC,1
+microsoft_00109,Networking,1
+microsoft_00109,SoC Design,1
+microsoft_00109,Storage Systems,1
+microsoft_00109,Technical Program Management,1
+microsoft_00110,Azure,0
+microsoft_00110,Business Development,0
+microsoft_00110,C++,1
+microsoft_00110,Cloud Infrastructure,1
+microsoft_00110,Computer Architecture,1
+microsoft_00110,Digital Twin and Simulation,0
+microsoft_00110,HPC,1
+microsoft_00110,Kernel and Drivers,1
+microsoft_00110,Performance Engineering,1
+microsoft_00110,Site Reliability,0
+microsoft_00111,Autonomous Vehicles,0
+microsoft_00111,Azure,1
+microsoft_00111,Business Development,1
+microsoft_00111,Cloud Infrastructure,1
+microsoft_00112,Apache Spark,1
+microsoft_00112,Azure,1
+microsoft_00112,C++,1
+microsoft_00112,Cloud Infrastructure,0
+microsoft_00112,Deep Learning,1
+microsoft_00112,JavaScript,1
+microsoft_00112,Machine Learning,1
+microsoft_00112,Networking,0
+microsoft_00112,Performance Engineering,1
+microsoft_00112,Power BI,1
+microsoft_00112,Python,1
+microsoft_00112,SQL,1
+microsoft_00112,Storage Systems,0
+microsoft_00112,TensorFlow,1
+microsoft_00113,Autonomous Vehicles,0
+microsoft_00113,Azure,1
+microsoft_00113,CPU Architecture,0
+microsoft_00113,Cloud Infrastructure,0
+microsoft_00113,SQL,1
+microsoft_00114,Agile,0
+microsoft_00114,Azure,1
+microsoft_00114,Cloud Infrastructure,1
+microsoft_00114,JavaScript,1
+microsoft_00118,Azure,1
+microsoft_00118,C++,1
+microsoft_00118,Cloud Infrastructure,1
+microsoft_00118,Networking,0
+microsoft_00118,Site Reliability,1
+microsoft_00118,Storage Systems,1
+microsoft_00119,Agile,0
+microsoft_00119,Azure,1
+microsoft_00119,C++,1
+microsoft_00119,Cloud Infrastructure,1
+microsoft_00119,Cybersecurity,1
+microsoft_00119,Go,1
+microsoft_00119,Kernel and Drivers,1
+microsoft_00119,Python,1
+microsoft_00120,Autonomous Vehicles,0
+microsoft_00120,Azure,1
+microsoft_00120,Cloud Infrastructure,1
+microsoft_00120,Cybersecurity,1
+microsoft_00120,JavaScript,0
+microsoft_00120,Networking,1
+microsoft_00120,Statistics,0
+microsoft_00120,Technical Program Management,1
+microsoft_00121,Agile,1
+microsoft_00121,Autonomous Vehicles,0
+microsoft_00121,C++,1
+microsoft_00121,Java,1
+microsoft_00121,JavaScript,1
+microsoft_00122,Autonomous Vehicles,0
+microsoft_00122,Azure,1
+microsoft_00122,Cloud Infrastructure,1
+microsoft_00122,Technical Program Management,1
+microsoft_00123,Agile,1
+microsoft_00123,Azure,1
+microsoft_00123,Cloud Infrastructure,1
+microsoft_00123,Java,1
+microsoft_00124,Agile,1
+microsoft_00124,Azure,1
+microsoft_00124,C++,1
+microsoft_00124,Cloud Infrastructure,1
+microsoft_00124,Cybersecurity,0
+microsoft_00124,Performance Engineering,0
+microsoft_00124,Site Reliability,1
+microsoft_00125,Autonomous Vehicles,0
+microsoft_00125,Azure,1
+microsoft_00125,Cloud Infrastructure,1
+microsoft_00125,Datacenter Systems,1
+microsoft_00125,Digital Twin and Simulation,0
+microsoft_00125,Machine Learning,1
+microsoft_00125,Networking,1
+microsoft_00125,Power BI,1
+microsoft_00125,Python,1
+microsoft_00125,SQL,1
+microsoft_00125,Signal and Power Integrity,0
+microsoft_00125,Technical Program Management,1
+microsoft_00127,Autonomous Vehicles,0
+microsoft_00127,Technical Program Management,1
+microsoft_00128,AI Safety,0
+microsoft_00128,Agentic AI,0
+microsoft_00128,Agile,1
+microsoft_00128,Autonomous Vehicles,0
+microsoft_00128,Performance Engineering,0
+microsoft_00128,Power BI,1
+microsoft_00129,Autonomous Vehicles,0
+microsoft_00129,Cloud Infrastructure,0
+microsoft_00129,Machine Learning,1
+microsoft_00130,Agile,0
+microsoft_00130,Azure,1
+microsoft_00130,Cloud Infrastructure,1
+microsoft_00130,Site Reliability,1
+microsoft_00131,Azure,1
+microsoft_00131,Cloud Infrastructure,1
+microsoft_00131,Machine Learning,1
+microsoft_00131,Networking,1
+microsoft_00131,Site Reliability,1
+microsoft_00132,Azure,1
+microsoft_00132,C++,1
+microsoft_00132,Cloud Infrastructure,1
+microsoft_00132,Inference and Serving,0
+microsoft_00132,Storage Systems,1
+microsoft_00133,Azure,1
+microsoft_00133,C++,1
+microsoft_00133,Cloud Infrastructure,1
+microsoft_00133,Inference and Serving,0
+microsoft_00133,Storage Systems,1
+microsoft_00134,Azure,1
+microsoft_00134,C++,1
+microsoft_00134,Cloud Infrastructure,1
+microsoft_00134,Machine Learning,1
+microsoft_00134,Python,1
+microsoft_00134,Statistics,1
+microsoft_00134,Storage Systems,1
+microsoft_00134,scikit-learn,1
+microsoft_00135,JavaScript,1
+microsoft_00136,Azure,1
+microsoft_00136,C++,1
+microsoft_00136,Cloud Infrastructure,1
+microsoft_00136,ETL,1
+microsoft_00136,Java,1
+microsoft_00136,JavaScript,1
+microsoft_00136,Power BI,1
+microsoft_00136,Python,1
+microsoft_00136,SQL,1
+microsoft_00136,Statistics,1
+microsoft_00136,Technical Leadership,1
+microsoft_00137,Agile,0
+microsoft_00137,Autonomous Vehicles,0
+microsoft_00137,Azure,1
+microsoft_00137,Cloud Infrastructure,1
+microsoft_00137,Technical Program Management,1
+microsoft_00138,Azure,1
+microsoft_00138,C++,1
+microsoft_00138,Cloud Infrastructure,1
+microsoft_00138,Cybersecurity,0
+microsoft_00138,Deep Learning,0
+microsoft_00138,Docker,1
+microsoft_00138,Inference and Serving,0
+microsoft_00138,Java,1
+microsoft_00138,Performance Engineering,0
+microsoft_00139,Azure,1
+microsoft_00139,C++,1
+microsoft_00139,Cloud Infrastructure,1
+microsoft_00139,Cybersecurity,1
+microsoft_00139,Embedded Systems,1
+microsoft_00139,Go,0
+microsoft_00140,Agile,0
+microsoft_00140,Autonomous Vehicles,0
+microsoft_00140,Azure,0
+microsoft_00140,C++,1
+microsoft_00140,Cloud Infrastructure,0
+microsoft_00140,Go,0
+microsoft_00140,Java,1
+microsoft_00140,JavaScript,1
+microsoft_00140,Python,1
+microsoft_00141,Azure,0
+microsoft_00141,C++,1
+microsoft_00141,Computer Vision,1
+microsoft_00141,Embedded Systems,1
+microsoft_00141,Graphics and Rendering,1
+microsoft_00141,Machine Learning,1
+microsoft_00141,Performance Engineering,1
+microsoft_00141,SoC Design,1
+microsoft_00141,Statistics,1
+microsoft_00141,Technical Leadership,0
+microsoft_00141,Technical Program Management,0
+microsoft_00142,Autonomous Vehicles,0
+microsoft_00142,C++,1
+microsoft_00142,Java,1
+microsoft_00142,Machine Learning,1
+microsoft_00143,C++,1
+microsoft_00143,Cloud Infrastructure,0
+microsoft_00144,Agile,1
+microsoft_00144,Azure,1
+microsoft_00144,C++,1
+microsoft_00144,Cloud Infrastructure,1
+microsoft_00144,Java,1
+microsoft_00146,Autonomous Vehicles,0
+microsoft_00146,Azure,1
+microsoft_00146,C++,1
+microsoft_00146,Cloud Infrastructure,1
+microsoft_00146,Java,1
+microsoft_00146,Machine Learning,1
+microsoft_00147,Autonomous Vehicles,0
+microsoft_00147,Azure,1
+microsoft_00147,Cloud Infrastructure,1
+microsoft_00147,Datacenter Systems,1
+microsoft_00147,Machine Learning,1
+microsoft_00147,Networking,1
+microsoft_00147,Python,1
+microsoft_00149,Autonomous Vehicles,0
+microsoft_00149,Cybersecurity,0
+microsoft_00149,Graphics and Rendering,1
+microsoft_00149,Kernel and Drivers,1
+microsoft_00149,Machine Learning,1
+microsoft_00149,SQL,1
+microsoft_00150,A/B Testing,0
+microsoft_00150,AWS,1
+microsoft_00150,Agile,1
+microsoft_00150,Azure,1
+microsoft_00150,CI/CD,1
+microsoft_00150,Cloud Infrastructure,1
+microsoft_00150,Cybersecurity,0
+microsoft_00150,Deep Learning,1
+microsoft_00150,JavaScript,1
+microsoft_00150,Machine Learning,1
+microsoft_00150,NLP,0
+microsoft_00150,SQL,1
+microsoft_00150,Site Reliability,1
+microsoft_00152,Azure,1
+microsoft_00152,Cloud Infrastructure,1
+microsoft_00152,Java,1
+microsoft_00152,JavaScript,1
+microsoft_00154,Apache Spark,1
+microsoft_00154,Azure,1
+microsoft_00154,Cloud Infrastructure,1
+microsoft_00154,Deep Learning,1
+microsoft_00154,Machine Learning,1
+microsoft_00154,NLP,1
+microsoft_00154,PyTorch,1
+microsoft_00154,Python,1
+microsoft_00154,Statistics,1
+microsoft_00154,TensorFlow,1
+microsoft_00154,scikit-learn,1
+microsoft_00155,Agile,1
+microsoft_00155,Azure,1
+microsoft_00155,C++,1
+microsoft_00155,Cloud Infrastructure,1
+microsoft_00155,Cybersecurity,1
+microsoft_00155,Java,1
+microsoft_00155,Performance Engineering,1
+microsoft_00157,Azure,1
+microsoft_00157,Computer Vision,1
+microsoft_00157,Deep Learning,1
+microsoft_00157,ETL,1
+microsoft_00157,Machine Learning,1
+microsoft_00157,NLP,1
+microsoft_00157,PyTorch,1
+microsoft_00157,Python,1
+microsoft_00157,Reinforcement Learning,1
+microsoft_00157,Statistics,0
+microsoft_00157,TensorFlow,1
+microsoft_00157,scikit-learn,1
+microsoft_00158,Azure,1
+microsoft_00158,Embedded Systems,1
+microsoft_00158,Technical Program Management,0
+microsoft_00159,Agile,1
+microsoft_00159,Apache Spark,1
+microsoft_00159,Azure,1
+microsoft_00159,C++,1
+microsoft_00159,Cloud Infrastructure,1
+microsoft_00159,Compilers,1
+microsoft_00159,Java,1
+microsoft_00159,Performance Engineering,1
+microsoft_00159,SQL,1
+microsoft_00159,Storage Systems,1
+microsoft_00160,Autonomous Vehicles,0
+microsoft_00160,Azure,1
+microsoft_00160,Business Development,0
+microsoft_00160,Cloud Infrastructure,1
+microsoft_00160,Cybersecurity,1
+microsoft_00160,Java,1
+microsoft_00160,Networking,1
+microsoft_00160,Performance Engineering,1
+microsoft_00160,SQL,1
+microsoft_00160,Site Reliability,1
+microsoft_00161,A/B Testing,0
+microsoft_00161,Autonomous Vehicles,0
+microsoft_00161,Go,0
+microsoft_00161,Machine Learning,1
+microsoft_00161,NLP,1
+microsoft_00161,Speech and Audio,1
+microsoft_00162,Machine Learning,1
+microsoft_00162,NLP,1
+microsoft_00162,Recommender Systems,1
+microsoft_00163,A/B Testing,1
+microsoft_00163,Deep Learning,1
+microsoft_00163,Java,1
+microsoft_00163,Machine Learning,1
+microsoft_00163,NLP,1
+microsoft_00163,PyTorch,1
+microsoft_00163,Python,1
+microsoft_00163,Recommender Systems,1
+microsoft_00163,Research Publication,1
+microsoft_00163,TensorFlow,1
+microsoft_00164,C++,1
+microsoft_00164,Cloud Infrastructure,1
+microsoft_00164,Deep Learning,1
+microsoft_00164,Java,1
+microsoft_00164,Machine Learning,1
+microsoft_00164,NLP,1
+microsoft_00164,Performance Engineering,0
+microsoft_00164,Python,1
+microsoft_00164,Reinforcement Learning,1
+microsoft_00164,Research Publication,1
+microsoft_00166,C++,1
+microsoft_00166,Embedded Systems,1
+microsoft_00166,Technical Program Management,0
+microsoft_00169,C++,1
+microsoft_00169,Deep Learning,1
+microsoft_00169,Inference and Serving,0
+microsoft_00169,Machine Learning,1
+microsoft_00169,NLP,1
+microsoft_00169,Performance Engineering,0
+microsoft_00169,PyTorch,1
+microsoft_00169,Python,1
+microsoft_00169,SQL,1
+microsoft_00169,Statistics,1
+microsoft_00169,TensorFlow,1
+microsoft_00171,Autonomous Vehicles,0
+microsoft_00171,Azure,1
+microsoft_00171,C++,1
+microsoft_00171,Cloud Infrastructure,1
+microsoft_00171,Cybersecurity,1
+microsoft_00171,Java,1
+microsoft_00171,Performance Engineering,1
+microsoft_00172,Agile,1
+microsoft_00172,Autonomous Vehicles,0
+microsoft_00172,Azure,1
+microsoft_00172,Cloud Infrastructure,1
+microsoft_00172,Cybersecurity,0
+microsoft_00172,Model Monitoring,0
+microsoft_00172,SQL,0
+microsoft_00172,Storage Systems,0
+microsoft_00173,Autonomous Vehicles,0
+microsoft_00173,Azure,0
+microsoft_00173,C++,1
+microsoft_00173,Cloud Infrastructure,1
+microsoft_00173,Cybersecurity,1
+microsoft_00173,Java,1
+microsoft_00173,Networking,1
+microsoft_00173,Site Reliability,1
+microsoft_00173,Storage Systems,1
+microsoft_00174,A/B Testing,1
+microsoft_00174,Agile,1
+microsoft_00174,JavaScript,1
+microsoft_00176,Autonomous Vehicles,0
+microsoft_00176,Business Development,1
+microsoft_00176,Kernel and Drivers,0
+microsoft_00177,Agile,1
+microsoft_00177,Azure,1
+microsoft_00177,Cloud Infrastructure,1
+microsoft_00177,Cybersecurity,1
+microsoft_00177,Performance Engineering,1
+microsoft_00178,Azure,1
+microsoft_00178,Cloud Infrastructure,1
+microsoft_00178,Cybersecurity,1
+microsoft_00178,Developer Relations,0
+microsoft_00178,Kernel and Drivers,1
+microsoft_00178,Site Reliability,0
+microsoft_00178,Technical Leadership,1
+microsoft_00178,Test Automation,1
+microsoft_00179,Azure,1
+microsoft_00179,C++,1
+microsoft_00179,Embedded Systems,1
+microsoft_00179,Kernel and Drivers,1
+microsoft_00179,SoC Design,1
+microsoft_00179,Technical Leadership,1
+microsoft_00181,Autonomous Vehicles,0
+microsoft_00181,Cloud Infrastructure,0
+microsoft_00181,Cybersecurity,1
+microsoft_00181,Technical Program Management,1

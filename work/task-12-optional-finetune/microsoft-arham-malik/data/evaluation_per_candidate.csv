@@ -1,0 +1,239 @@
+job_id,skill,terms,p_genuine,kept_by_model,in_gold
+microsoft_00001,Machine Learning,machine learning,1.0,True,True
+microsoft_00001,Deep Learning,deep learning,1.0,True,True
+microsoft_00001,Statistics,statistics,1.0,True,True
+microsoft_00001,Compilers,compilers,1.0,True,False
+microsoft_00001,Python,python,1.0,True,True
+microsoft_00001,Azure,azure,1.0,True,True
+microsoft_00001,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00001,Java,java,1.0,True,True
+microsoft_00001,C++,c++,1.0,True,True
+microsoft_00004,Embedded Systems,embedded systems|firmware,1.0,True,True
+microsoft_00004,Firmware,bringup,0.0,False,True
+microsoft_00004,Python,python,1.0,True,True
+microsoft_00004,Analog and Mixed Signal,analog,0.0,False,True
+microsoft_00004,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00005,Developer Relations,developer experience,0.0,False,False
+microsoft_00005,Cloud Infrastructure,cloud|cloud native|cloud-native,1.0,True,True
+microsoft_00005,Performance Engineering,performance,1.0,True,True
+microsoft_00005,Site Reliability,reliability|resiliency,1.0,True,True
+microsoft_00005,Cybersecurity,security,1.0,True,True
+microsoft_00005,Azure,azure,0.0,False,False
+microsoft_00005,Agile,agile,1.0,True,True
+microsoft_00010,Machine Learning,machine learning,1.0,True,True
+microsoft_00010,Azure,azure,1.0,True,False
+microsoft_00010,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00010,Java,java,1.0,True,True
+microsoft_00016,Machine Learning,machine learning|ml,1.0,True,True
+microsoft_00016,Computer Vision,computer vision,1.0,True,True
+microsoft_00016,JavaScript,javascript,1.0,True,True
+microsoft_00016,Azure,azure,1.0,True,True
+microsoft_00016,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00016,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00016,SQL,sql,1.0,True,True
+microsoft_00016,C++,c++,1.0,True,True
+microsoft_00016,Go,go,0.0,False,False
+microsoft_00026,Azure,azure|microsoft azure,1.0,True,True
+microsoft_00026,Performance Engineering,performance,1.0,True,True
+microsoft_00026,JavaScript,javascript,1.0,True,True
+microsoft_00026,Power BI,power bi,1.0,True,True
+microsoft_00026,Agile,agile,1.0,True,True
+microsoft_00026,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00027,Java,java,0.595,True,True
+microsoft_00027,Go,go,0.0,False,False
+microsoft_00037,C++,c++,1.0,True,True
+microsoft_00042,Technical Leadership,technical leadership,1.0,True,True
+microsoft_00042,Machine Learning,machine learning,1.0,True,True
+microsoft_00042,TensorFlow,tensorflow,1.0,True,True
+microsoft_00042,Kubernetes,kubernetes,1.0,True,True
+microsoft_00042,Apache Spark,spark,1.0,True,True
+microsoft_00042,Apache Kafka,kafka,1.0,True,True
+microsoft_00042,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00043,Technical Program Management,program management,1.0,True,True
+microsoft_00043,Azure,microsoft azure,0.167,False,False
+microsoft_00043,Datacenter Systems,data center,1.0,True,True
+microsoft_00043,Networking,network|networking,1.0,True,True
+microsoft_00043,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00043,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00044,Machine Learning,machine learning|ml,1.0,True,True
+microsoft_00044,Storage Systems,storage systems,1.0,True,False
+microsoft_00044,Deep Learning,deep learning,1.0,True,True
+microsoft_00044,Python,python,1.0,True,True
+microsoft_00044,Apache Spark,spark,1.0,True,True
+microsoft_00044,Apache Kafka,kafka,1.0,True,True
+microsoft_00044,Azure,azure,1.0,True,True
+microsoft_00044,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00044,C++,c++,1.0,True,True
+microsoft_00047,Machine Learning,machine learning,1.0,True,False
+microsoft_00047,Performance Engineering,performance,0.138,False,False
+microsoft_00047,JavaScript,javascript,1.0,True,True
+microsoft_00047,Business Development,channel,0.0,False,False
+microsoft_00047,Agentic AI,agents,0.008,False,False
+microsoft_00047,Azure,azure,1.0,True,True
+microsoft_00047,Agile,agile,1.0,True,False
+microsoft_00047,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00047,Java,java,1.0,True,True
+microsoft_00047,SQL,sql,1.0,True,True
+microsoft_00047,C++,c++,1.0,True,True
+microsoft_00048,Cybersecurity,confidential computing|security,1.0,True,True
+microsoft_00048,Azure,azure|microsoft azure,1.0,True,True
+microsoft_00048,Agile,agile,1.0,True,True
+microsoft_00048,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00048,C++,c++,1.0,True,True
+microsoft_00054,Kubernetes,kubernetes,0.998,True,True
+microsoft_00054,Storage Systems,storage,1.0,True,True
+microsoft_00054,Python,python,1.0,True,True
+microsoft_00054,Site Reliability,devops,1.0,True,True
+microsoft_00054,Azure,azure,1.0,True,True
+microsoft_00054,CI/CD,ci/cd,1.0,True,True
+microsoft_00054,Agile,agile,0.001,False,True
+microsoft_00054,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00054,Rust,rust,1.0,True,True
+microsoft_00054,C++,c++,1.0,True,True
+microsoft_00057,Machine Learning,machine learning,1.0,True,True
+microsoft_00057,Graphics and Rendering,graphics,0.998,True,False
+microsoft_00057,Speech and Audio,speech,1.0,True,False
+microsoft_00057,Azure,azure,1.0,True,True
+microsoft_00057,Agile,agile,1.0,True,True
+microsoft_00061,Agile,agile,0.947,True,False
+microsoft_00062,Site Reliability,site reliability,1.0,True,True
+microsoft_00062,Docker,containers,1.0,True,False
+microsoft_00062,Cybersecurity,security,0.0,False,False
+microsoft_00062,Networking,network,1.0,True,False
+microsoft_00062,Azure,azure,1.0,True,True
+microsoft_00062,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00062,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00062,Java,java,1.0,True,True
+microsoft_00062,C++,c++,1.0,True,True
+microsoft_00066,Machine Learning,machine learning|ml,1.0,True,True
+microsoft_00066,A/B Testing,a/b testing|experimentation,1.0,True,True
+microsoft_00066,Statistics,statistics,1.0,True,True
+microsoft_00066,Python,python,1.0,True,True
+microsoft_00066,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00066,SQL,sql,1.0,True,True
+microsoft_00072,JavaScript,javascript|typescript,1.0,True,True
+microsoft_00072,Agile,agile,0.985,True,False
+microsoft_00072,Java,java,1.0,True,True
+microsoft_00072,C++,c++,1.0,True,True
+microsoft_00075,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00090,CI/CD,continuous integration,1.0,True,True
+microsoft_00090,Machine Learning,machine learning,1.0,True,True
+microsoft_00090,Azure,azure,1.0,True,True
+microsoft_00090,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00090,Java,java,1.0,True,True
+microsoft_00090,AWS,aws,1.0,True,True
+microsoft_00092,Site Reliability,reliability,0.861,True,True
+microsoft_00092,Cybersecurity,security,1.0,True,True
+microsoft_00092,Inference and Serving,serving,0.0,False,False
+microsoft_00092,Python,python,1.0,True,True
+microsoft_00092,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00092,Go,go,0.708,True,True
+microsoft_00094,Machine Learning,machine learning|ml,1.0,True,False
+microsoft_00094,Test Automation,test automation,1.0,True,True
+microsoft_00094,Networking,networking,1.0,True,True
+microsoft_00094,Embedded Systems,firmware,1.0,True,False
+microsoft_00094,Storage Systems,storage,0.003,False,False
+microsoft_00094,Python,python,1.0,True,True
+microsoft_00094,Kernel and Drivers,driver,1.0,True,True
+microsoft_00094,C++,c/c++,1.0,True,True
+microsoft_00094,Azure,azure,1.0,True,True
+microsoft_00094,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00094,Java,java,1.0,True,False
+microsoft_00098,Machine Learning,machine learning,1.0,True,True
+microsoft_00098,Site Reliability,reliability,0.0,False,False
+microsoft_00098,Cybersecurity,security,0.0,False,False
+microsoft_00098,Azure,azure,0.0,False,False
+microsoft_00098,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00098,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00098,Java,java,1.0,True,True
+microsoft_00098,C++,c++,1.0,True,True
+microsoft_00106,Developer Relations,developer experience,1.0,True,False
+microsoft_00106,Machine Learning,machine learning,1.0,True,True
+microsoft_00106,Performance Engineering,performance,0.997,True,True
+microsoft_00106,Kubernetes,k8s|kubernetes,1.0,True,True
+microsoft_00106,Cybersecurity,security,1.0,True,True
+microsoft_00106,CI/CD,ci/cd|jenkins,1.0,True,True
+microsoft_00106,Go,golang,1.0,True,True
+microsoft_00106,Docker,docker,1.0,True,True
+microsoft_00106,Azure,azure,1.0,True,True
+microsoft_00106,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00106,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00106,C++,c++,1.0,True,True
+microsoft_00115,Technical Program Management,program management,1.0,True,True
+microsoft_00115,Cybersecurity,cybersecurity|security,1.0,True,True
+microsoft_00115,AI Safety,alignment,0.0,False,False
+microsoft_00115,Azure,azure,1.0,True,True
+microsoft_00115,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00115,Cloud Infrastructure,cloud,0.003,False,False
+microsoft_00116,Machine Learning,machine learning,1.0,True,True
+microsoft_00116,Computer Vision,computer vision,1.0,True,True
+microsoft_00116,Performance Engineering,performance,1.0,True,False
+microsoft_00116,Agile,agile,0.792,True,False
+microsoft_00117,Machine Learning,machine learning,1.0,True,True
+microsoft_00117,Site Reliability,reliability,0.0,False,False
+microsoft_00117,Cybersecurity,security,0.0,False,False
+microsoft_00117,Azure,azure,0.0,False,False
+microsoft_00117,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00117,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00117,Java,java,1.0,True,True
+microsoft_00117,C++,c++,1.0,True,True
+microsoft_00126,Performance Engineering,performance,0.998,True,False
+microsoft_00126,Networking,network|networking|switch,1.0,True,True
+microsoft_00126,Datacenter Systems,datacenter,1.0,True,True
+microsoft_00126,Cybersecurity,security,0.0,False,False
+microsoft_00126,Python,python,1.0,True,True
+microsoft_00126,C++,c/c++,1.0,True,True
+microsoft_00126,Azure,azure,1.0,True,True
+microsoft_00126,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00126,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00145,Computer Vision,image processing,1.0,True,True
+microsoft_00145,Cybersecurity,security,0.0,False,False
+microsoft_00145,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00145,Cloud Infrastructure,cloud,1.0,True,False
+microsoft_00148,Apache Spark,spark,1.0,True,True
+microsoft_00148,Apache Kafka,kafka,1.0,True,True
+microsoft_00148,Azure,azure,1.0,True,True
+microsoft_00148,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00148,ETL,etl,1.0,True,True
+microsoft_00151,Developer Relations,developer experience,1.0,True,True
+microsoft_00151,Machine Learning,machine learning,0.423,False,True
+microsoft_00151,JavaScript,javascript,1.0,True,True
+microsoft_00151,Python,python,1.0,True,True
+microsoft_00151,Azure,azure,0.0,False,True
+microsoft_00151,Java,java,1.0,True,True
+microsoft_00153,Technical Program Management,program management,1.0,True,True
+microsoft_00153,Agile,agile,0.0,False,True
+microsoft_00153,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00165,Cloud Infrastructure,cloud|cloud infrastructure,1.0,True,True
+microsoft_00165,Performance Engineering,performance,1.0,True,False
+microsoft_00165,Cybersecurity,security,0.999,True,True
+microsoft_00165,Site Reliability,devops,1.0,True,True
+microsoft_00165,Azure,azure,1.0,True,True
+microsoft_00165,C++,c++,1.0,True,True
+microsoft_00167,Machine Learning,machine learning|ml,1.0,True,True
+microsoft_00167,Apache Spark,apache spark,1.0,True,True
+microsoft_00167,Performance Engineering,benchmarking|optimization,1.0,True,True
+microsoft_00167,Statistics,statistics,1.0,True,True
+microsoft_00167,Inference and Serving,inference,0.354,False,True
+microsoft_00167,Python,python,1.0,True,True
+microsoft_00167,Azure,azure,1.0,True,False
+microsoft_00167,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00167,CUDA,cuda,1.0,True,True
+microsoft_00167,C++,c++,1.0,True,True
+microsoft_00168,Technical Program Management,technical program management,1.0,True,True
+microsoft_00168,Machine Learning,machine learning,1.0,True,True
+microsoft_00168,Azure,azure,1.0,True,True
+microsoft_00168,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00170,Technical Program Management,program management,1.0,True,False
+microsoft_00170,Azure,azure|microsoft azure,1.0,True,True
+microsoft_00170,Site Reliability,reliability,0.002,False,False
+microsoft_00170,Embedded Systems,firmware,1.0,True,True
+microsoft_00170,Cybersecurity,security,0.0,False,True
+microsoft_00170,C++,c/c++,1.0,True,True
+microsoft_00170,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00170,Cloud Infrastructure,cloud,1.0,True,True
+microsoft_00170,Firmware,bios,1.0,True,True
+microsoft_00175,Agile,agile,0.998,True,False
+microsoft_00175,Autonomous Vehicles,drive,0.0,False,False
+microsoft_00175,Cloud Infrastructure,cloud,1.0,True,False
+microsoft_00182,Autonomous Vehicles,drive,0.0,False,False

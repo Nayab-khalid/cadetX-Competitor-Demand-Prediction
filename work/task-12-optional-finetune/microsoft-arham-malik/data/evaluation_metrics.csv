@@ -1,0 +1,4 @@
+method,precision,recall,f1,exact_rows,tp,fp,fn,labels
+"keyword matcher, taxonomy as it stands",0.731,0.829,0.777,3/40,174,64,36,"independent, read from posting text"
+"keyword matcher, Task 4 'drive'/'av' suppression",0.791,0.829,0.809,7/40,174,46,36,"independent, read from posting text"
+keyword matcher + fine-tuned filter,0.874,0.79,0.83,12/40,166,24,44,"independent, read from posting text"
